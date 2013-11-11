@@ -16,13 +16,13 @@ $title = 'Code';
     <article>
         <h3>Projects &amp; Demos</h3>
         <dl>
-            <dt><a href="https://github.com/dsingleton/playdar/tree">Playdar</a></dt>
+            <dt><a href="https://github.com/dsingleton/playdar/">Playdar</a></dt>
             <dd>A content resolution service for music. I've contributed resolver scripts for <a href="http://hypem.com">Hype Machine</a> and <a href="http://last.fm">Last.fm</a> free downloads. Find out more at <a href="http://playdar.org">Playdar.org</a></dd>
 
-            <dt><a href="https://github.com/dsingleton/dsingleton.co.uk/tree">dsingleton.co.uk</a></dt>
+            <dt><a href="https://github.com/dsingleton/dsingleton.co.uk/">dsingleton.co.uk</a></dt>
             <dd>The code for every page of this site is open source and freely available on GitHub. If you want to do something with it, particularly tag filer/aggregation, please get in touch.</dd>
 
-            <dt><a href="/code/firefox-plugin-test-suite">Firefox plugin detection test-suite</a></dt>
+            <dt><a href="https://github.com/dsingleton/firefox-plugin-test-suite">Firefox plugin detection test-suite</a></dt>
             <dd>A set of heuristic test to detect certain plugins, like NoScript, FlashBlock and AdBlock.</dd>
 
             <dt><a href="https://github.com/dsingleton/icon-selector">Icon Selector</a></dt>
@@ -33,9 +33,6 @@ $title = 'Code';
 
             <dt><a href="https://github.com/dsingleton/php-lifestream">Lifestream</a></dt>
             <dd>Powered by microformats (XFN relationships) and the Google Social Graph API. This takes a starting URL, like a users homepage, and tries to find feeds for all mapped sites, then builds an activity stream using this data.</dd>
-
-            <dt>Grabicon</dt>
-            <dd>A short lived project to provide a consistent interface to website favicon images. As a 3rd party API you would call with the domain you wanted an icon for and it would return the image data. This was superseded by a Google service doing pretty much the same thing (though theirs came later)</dd>
         </dl>
             
     </article>
