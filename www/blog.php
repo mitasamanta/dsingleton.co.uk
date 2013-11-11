@@ -32,7 +32,7 @@ else {
 
         <ul class="tags">
         <?php foreach($oPost->getTags() as $tag) { ?>
-            <li rel="tag><?php h($tag); ?></li>
+            <li rel="tag"><?php h($tag); ?></li>
         <?php } ?>
         </ul>
 </article>
