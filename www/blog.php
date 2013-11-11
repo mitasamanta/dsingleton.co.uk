@@ -30,11 +30,17 @@ else {
         <h1><?php h($oPost->getTitle()); ?></h1>
         <?php echo $oPost->getBody(); ?>
 
+        <p class="post-info">
+            Posted on
+            <abbr class="published" title="<?php d($oPost->getDate(), 'c'); ?>"><?php d($oPost->getDate()); ?></abbr>
+        </p>
+        <p>Tagged:
         <ul class="tags">
         <?php foreach($oPost->getTags() as $tag) { ?>
             <li rel="tag"><?php h($tag); ?></li>
         <?php } ?>
         </ul>
+        </p>
 </article>
 
 <aside>
@@ -64,9 +70,8 @@ else {
             </h2>
             
             <p class="post-info">
-                Written on 
+                Posted on 
                 <abbr class="published" title="<?php d($oPost->getDate(), 'c'); ?>"><?php d($oPost->getDate()); ?></abbr>
-                <span class="attibution">| By <span class="vcard"><a class="url fn" href="/">David Singleton</a></span></span>
             </p>
             
             <p class="entry-content"><?php echo ($oPost->getExtract()); ?>&hellip; <a href="<?php h($oPost->getURL()); ?>">read more</a>.</p>
