@@ -34,10 +34,6 @@
     <script type="text/javascript" src="<?php h($path); ?>"></script>
 <?php } } ?>
 
-<?php if (isset($feed)) { ?>
-    <link href="<?php h($feed['url']); ?>" rel="alternate" type="application/rss+xml" title="<? h($title); ?>" />
-<?php } ?>
-	
 </head>
 
 <body>

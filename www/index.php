@@ -5,8 +5,6 @@ $extra_css = array('/static/css/home.css');
 
 $aPosts = TumblrPost::getRecent(3);
 
-$feed = array('url' => '/feed/blog.rss');
-
 ?>
 <?php require_once './_inc/header.inc.php'; ?>
     <article>

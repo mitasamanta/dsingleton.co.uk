@@ -21,8 +21,6 @@ else {
     $title = "Blog";
 }
 
-$feed = array('url' => '/feed/blog.rss');
-
 ?>
 <?php require_once './_inc/header.inc.php'; ?>
 
