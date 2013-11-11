@@ -1,7 +1,6 @@
         <footer id="footer">
             <ul>
                 <li class="twitter"><a href="http://twitter.com/dsingleton">Follow me on twitter</a></li>
-                <li class="feed"><a href="/feed/blog.rss">Subscribe to my blog</a></li>
             </ul> 
         </footer>
 
