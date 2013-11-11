@@ -9,7 +9,7 @@ $title = 'About';
     <h2>About</h2>
     <p>I'm a web developer, I wrote code for a living and for fun. I live in East London, also for fun.</p>
     
-    <p>I love taking things apart, figuring out how they work, and solving problems. Mostly <a href="/tag/code">code</a> or <a href="/code/design">design</a>, but sometimes baking too. Sometimes I write about these things on my <a href="/blog">blog</a>.</p>
+    <p>I love taking things apart, figuring out how they work, and solving problems. Mostly code or design, but sometimes baking too. Sometimes I write about these things on my <a href="/blog">blog</a>.</p>
     
     <p>My day job is web developer at <a href="http://last.fm">Last.fm</a>, a large music social network. I do both front and back end development and have been working with the web for about 10 years now.</p>
     

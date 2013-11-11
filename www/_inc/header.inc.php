@@ -46,11 +46,11 @@
                     <a class="name" href="/" ><span class="firstname">David</span> <span class="lastname">Singleton</span></a>
                 </span>
                 <span class="aboutme">
-                    A <a href="/tag/web"><span class="title">web developer</span></a>
-                    living in <span class="adr"><span class="locality"><a href="/tag/london">London</a></span></span>
+                    A <span class="title">web developer</span>
+                    living in <span class="adr"><span class="locality">London</span></span>
                     and working at <a href="http://last.fm">Last.fm</a>.
                 </span>
-                <span class="tagline">I write a <a href="/blog">blog</a>, tag <a href="/tag">things</a> and <a href="/code">code</a>, find out <a href="/about">more &raquo;</a></span>
+                <span class="tagline">I occasionally write a <a href="/blog">blog</a> and publish some <a href="/code">code</a>, find out <a href="/about">more &raquo;</a></span>
             </p>
 
         </header>

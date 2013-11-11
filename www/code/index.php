@@ -40,11 +40,4 @@ $title = 'Code';
             
     </article>
     
-    <aside>
-
-        <h3>Blogging about code</h3>
-        <p>Recent posts include, <?php foreach($aPosts as $oPost) { ?><?php l($oPost); ?>, <?php } ?>check out things i've tagged <a href="/tag/code">code</a> too.</p>
-        
-    </aside>
-
 <?php require_once '../_inc/footer.inc.php'; ?>
