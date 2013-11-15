@@ -1,0 +1,110 @@
+/** Body */
+
+body {
+    margin: 0;
+    padding: 2.5em 0 0;
+    
+    color: #333;
+    background: url("/static/images/grey_to_white.png") repeat-x scroll 0 0 #fff;
+    border-top: 3px solid DodgerBlue;
+}
+
+
+/** Header */
+
+#page header span.myname {
+    float: left;
+    
+    margin: -5px 25px 15px 0;
+    padding: 5px 10px;
+    
+    color: #fff;
+    background-color: DodgerBlue;
+    font-size: 40px;
+
+    text-shadow: 2px 2px 3px #666666;
+    text-decoration:  none;
+    
+    -moz-border-radius: 3px 3px 3px 3px;
+    -moz-box-shadow: 2px 2px 8px #666666;
+    -moz-transform: rotate(-2deg);
+    
+    -webkit-border-radius: 3px 3px 3px 3px;
+    -webkit-box-shadow: 2px 2px 8px #666666;
+    -webkit-transform: rotate(-2deg);
+}
+
+#page header span.myname a {
+    color: #fff;
+    text-decoration:  none;
+}
+
+header {
+    margin: 0 0 24px;
+    width: 552px;
+}
+
+
+/** Page */
+
+#page {
+    margin: 0 auto;
+    width: 840px;
+    padding-top: 0;
+    padding-bottom: 72px;
+    background: auto;
+}
+
+
+/** Article */
+
+article {
+    margin: 24px 0;
+    float: left;
+    width: 552px;
+}
+
+/** Aside */
+
+aside {
+    float: right;
+    max-width: 200px;
+    
+    margin: 2em 0;
+    padding: 0 20px 20px;
+    
+    color: #666;
+    background: #f6f6f6;
+    
+    border: 1px solid #eee;
+    -moz-border-radius: 5px;
+}
+
+/** Footer */
+
+footer {
+    clear: both;
+    border-top: 1px solid #ccc;
+}
+
+footer ul li {
+    float: left;
+    margin: 0 15px 0 0;
+    padding: 0;
+
+    list-style: none;
+    font-size: 11px;
+}
+
+footer ul li a[href$=rss] {
+    display: inline-block;
+    background: url(http://img.thisismoney.co.uk/i/std/tim_skin_0309/rss.gif) center left no-repeat;
+    padding: 5px 15px 5px 20px;
+}
+
+footer ul li a[href*=twitter] {
+    background: url(http://twitter.com/favicon.ico) center left no-repeat;
+    display: inline-block;
+    
+    padding: 5px 15px 5px 20px;
+}
