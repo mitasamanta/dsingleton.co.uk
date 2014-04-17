@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-	
-	<title>JSON, Octal Numbers &amp; Validation - David Singleton</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  
+  <title>JSON, Octal Numbers &amp; Validation</title>
 
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    	
+      
     <meta name="description" content="The blog of David Singleton, Ramblings of a Web Developer" />
     <meta name="keywords" content="david singleton, dave singleton, web developer, london, css, php, lamp, mysql, unix, programming, web standards, coding, microformats, web sites, angry rants" />
     <meta name="author" content="David Singleton" />
@@ -20,17 +20,15 @@
     
     <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
     
+    <link rel="stylesheet" href="/static/css/home.css" type="text/css" />
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    
-
 </head>
 
 <body>
     
     <div id="page">
-
-        <header>
+      <header>
             <p>
                 <span class="myname">
                     <a class="name" href="/" ><span class="firstname">David</span> <span class="lastname">Singleton</span></a>
@@ -45,10 +43,10 @@
 
         </header>
 
-        
-<article class="blog-entry">
-        <h1>JSON, Octal Numbers &amp; Validation</h1>
-        <p>Now it&#8217;s launched in London I&#8217;ve been playing around with the Foursquare API. While it&#8217;s not the best API i&#8217;ve come across it gives you reasonable access to their data, so i&#8217;ve been pretty happily building some small tools using their data.</p>
+          <h2>JSON, Octal Numbers &amp; Validation</h2>
+
+<div class="post">
+<p>Now it&#8217;s launched in London I&#8217;ve been playing around with the Foursquare API. While it&#8217;s not the best API i&#8217;ve come across it gives you reasonable access to their data, so i&#8217;ve been pretty happily building some small tools using their data.</p>
 
 <p> hit a rather usual bug with JSON parsing for a Foursquare venue, in this case the <a href="http://foursquare.com/venue/140854">Bricklayers Arms</a> (The home of Pub Standards). The JSON response looks something like this:</p>
 
@@ -86,7 +84,7 @@
 <p>If there&#8217;s one thing to take from this it&#8217;s how important validation is, even if it does nothing more than prove it&#8217;s not your bug. Looking at the original response and trying to work our why it didn&#8217;t parse with validation would have been very painful, it&#8217;s not a bug easily caught by a human, you need rigorous machine testing. </p>
         <p class="post-info">
             Posted on
-            <abbr class="published" title="2009-10-14T16:14:00+02:00">Wednesday October 14, 2009</abbr>
+            <abbr class="published" title="+02:00">Wednesday October 14, 2009</abbr>
         </p>
         <p>Tagged:
         <ul class="tags">
@@ -98,29 +96,14 @@
                     <li rel="tag">validation</li>
                 </ul>
         </p>
-</article>
 
-<aside>
-    <div class="recent posts">
-        <h4>Recent posts</h4>
-        <ul class="posts">
-                    <li><a href="/blog/scrobbling-heatmap-calendar">Scrobbling Heatmap Calendar</a></li>
-                    <li><a href="/blog/last-fm-now-playing-information-radiator">Last.fm Now-Playing information radiator</a></li>
-                    <li><a href="/blog/leaving-last-fm">Leaving Last.fm</a></li>
-                    <li><a href="/blog/facebook-photo-facial-recognition">Facebook photo facial recognition</a></li>
-                    <li><a href="/blog/entitlement-artificial-scarcity-spotify">Artificial Scarcity and Entitlement</a></li>
-                    <li><a href="/blog/migrating-scrobbling-authentication-to-2-0">Migrating scrobbling authentication to 2.0</a></li>
-                    <li><a href="/blog/erlang-beginners-tutorial">Erlang: For an absolute beginner</a></li>
-                    <li><a href="/blog/tech-hub-misrepresents-silicon-roundabout">Tech Hub misrepresents Silicon Roundabout</a></li>
-                    <li><a href="/blog/virtualised-development-environments">The importance of virtualised development environments</a></li>
-                    <li><a href="/blog/new-twitter-favouritism">New Twitter favouritism</a></li>
-                </ul>
-        
-        <p><a href="/blog">More&hellip;</p>
-    </div>
-</aside>
+</div>
 
-</article>
+<p class="post-info">
+    Posted on
+    <abbr class="published" title="2009-10-14 17:14:00 +0100">14 Oct 2009</abbr>
+</p>
+
 
         <footer id="footer">
             <ul>
@@ -135,4 +118,5 @@
 <script type="text/javascript">_uacct = "UA-609105-1"; urchinTracker();</script>  
 
 </body>
+</html>
 </html>

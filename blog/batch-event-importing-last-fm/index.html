@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-	
-	<title>Batch event importing to Last.fm - David Singleton</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+  
+  <title>Batch event importing to Last.fm</title>
 
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    	
+      
     <meta name="description" content="The blog of David Singleton, Ramblings of a Web Developer" />
     <meta name="keywords" content="david singleton, dave singleton, web developer, london, css, php, lamp, mysql, unix, programming, web standards, coding, microformats, web sites, angry rants" />
     <meta name="author" content="David Singleton" />
@@ -20,17 +20,15 @@
     
     <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
     
+    <link rel="stylesheet" href="/static/css/home.css" type="text/css" />
 
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    
-
 </head>
 
 <body>
     
     <div id="page">
-
-        <header>
+      <header>
             <p>
                 <span class="myname">
                     <a class="name" href="/" ><span class="firstname">David</span> <span class="lastname">Singleton</span></a>
@@ -45,10 +43,10 @@
 
         </header>
 
-        
-<article class="blog-entry">
-        <h1>Batch event importing to Last.fm</h1>
-        <p>Over christmas I sorted out some old boxes from University and found all the <a href="http://www.flickr.com/photos/davidsingleton/tags/tickets/">paper ticket stubs</a> for gigs from 2002 to 2005. That&#8217;s some meaty data I didn&#8217;t want to lose, I copied it to a spreadsheet with plans to import it in to the <a href="http://last.fm/user/underpangs/events/">Last.fm events system</a> (where I track all my current gig habbits). </p>
+          <h2>Batch event importing to Last.fm</h2>
+
+<div class="post">
+<p>Over christmas I sorted out some old boxes from University and found all the <a href="http://www.flickr.com/photos/davidsingleton/tags/tickets/">paper ticket stubs</a> for gigs from 2002 to 2005. That&#8217;s some meaty data I didn&#8217;t want to lose, I copied it to a spreadsheet with plans to import it in to the <a href="http://last.fm/user/underpangs/events/">Last.fm events system</a> (where I track all my current gig habbits). </p>
 
 <p>Unfortunately the <a href="http://last.fm/events/add">add events workflow</a> is a real pain for adding more than one event at once, let alone the 50 I had. In the future we hope to add better support for adding multiple events, either with a new tool (aimed at promoters) or creating an <i>event.add</i> <a href="http://last.fm/api">API method</a> (and let someone else build it), but in the meantime I wanted a quick hack solution to speed things up.</p>
 
@@ -81,41 +79,14 @@
 <p><code><a href="http://last.fm/events/add?type=gig&amp;artistNames">http://last.fm/events/add?type=gig&amp;artistNames</a>[]=Sparta&amp;startday=04&amp;startmonth=10&amp;startyear=2005&amp;starttime=20:00&amp;venueid=8777858&amp;festivalName=</code></p>
 
 <p>If you have your events in a structured format then it&#8217;s easy to build a quick script to generate these links and really reduce the time needed to add events. Far far from ideal I know (and I&#8217;m a bit embarrassed to post it) but it might save you some time. I promise to build event.add to the API soon.</p>
-        <p class="post-info">
-            Posted on
-            <abbr class="published" title="2010-01-06T22:20:24+01:00">Wednesday January 6, 2010</abbr>
-        </p>
-        <p>Tagged:
-        <ul class="tags">
-                    <li rel="tag">events</li>
-                    <li rel="tag">lastfm</li>
-                    <li rel="tag">batch</li>
-                    <li rel="tag">hack</li>
-                </ul>
-        </p>
-</article>
 
-<aside>
-    <div class="recent posts">
-        <h4>Recent posts</h4>
-        <ul class="posts">
-                    <li><a href="/blog/scrobbling-heatmap-calendar">Scrobbling Heatmap Calendar</a></li>
-                    <li><a href="/blog/last-fm-now-playing-information-radiator">Last.fm Now-Playing information radiator</a></li>
-                    <li><a href="/blog/leaving-last-fm">Leaving Last.fm</a></li>
-                    <li><a href="/blog/facebook-photo-facial-recognition">Facebook photo facial recognition</a></li>
-                    <li><a href="/blog/entitlement-artificial-scarcity-spotify">Artificial Scarcity and Entitlement</a></li>
-                    <li><a href="/blog/migrating-scrobbling-authentication-to-2-0">Migrating scrobbling authentication to 2.0</a></li>
-                    <li><a href="/blog/erlang-beginners-tutorial">Erlang: For an absolute beginner</a></li>
-                    <li><a href="/blog/tech-hub-misrepresents-silicon-roundabout">Tech Hub misrepresents Silicon Roundabout</a></li>
-                    <li><a href="/blog/virtualised-development-environments">The importance of virtualised development environments</a></li>
-                    <li><a href="/blog/new-twitter-favouritism">New Twitter favouritism</a></li>
-                </ul>
-        
-        <p><a href="/blog">More&hellip;</p>
-    </div>
-</aside>
+</div>
 
-</article>
+<p class="post-info">
+    Posted on
+    <abbr class="published" title="2010-01-06 22:20:24 +0000">06 Jan 2010</abbr>
+</p>
+
 
         <footer id="footer">
             <ul>
@@ -130,4 +101,5 @@
 <script type="text/javascript">_uacct = "UA-609105-1"; urchinTracker();</script>  
 
 </body>
+</html>
 </html>
