@@ -1,4 +1,46 @@
-<p><a href="http://morethanseven.net">Gareth Rushgrove</a> just wrote a great blog post entitled <a href="http://morethanseven.net/2010/11/04/Why-you-should-be-using-virtualisation.html">Why You Should Be Using Virtualisation</a>, which puts out a great argument for using virtualised development environments.</p>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <title>The importance of virtualised development environments</title>
+
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    
+  <meta name="description" content="The blog of David Singleton, Ramblings of a Web Developer" />
+  <link href='http://fonts.googleapis.com/css?family=Volkhov:400,700|Gentium+Book+Basic:400,700italic,400italic,700' rel='stylesheet' type='text/css'>
+
+  <link rel="stylesheet" href="/static/css/base.css" type="text/css" />
+</head>
+
+<body class="">
+    
+  <header id="header">
+    <p>
+      <span class="myname">
+        <a class="name" href="/" ><span class="firstname">David</span> <span class="lastname">Singleton</span></a>
+      </span>
+      <br>
+      <span class="aboutme">
+        A <span class="title">web developer</span>
+        living in <span class="adr"><span class="locality">London</span></span>.
+      </span>
+      <span class="tagline">I sometimes <a href="/blog">blog</a> &amp; write <a href="/code">code</a> &mdash; more <a href="/about">about me</a></span>
+    </p>
+  </header>
+
+  <div id="main" role="main">
+    <article class="post">
+  
+  <header>
+    <h1>The importance of virtualised development environments</h1>
+    <p class="post-info">
+      <abbr class="published" title="2010-11-06 01:23:35 +0000">06 Nov 2010</abbr>
+    </p>
+  </header>
+
+  <p><a href="http://morethanseven.net">Gareth Rushgrove</a> just wrote a great blog post entitled <a href="http://morethanseven.net/2010/11/04/Why-you-should-be-using-virtualisation.html">Why You Should Be Using Virtualisation</a>, which puts out a great argument for using virtualised development environments.</p>
 
 <p>The crux of the argument is that you should be testing and running your code in an environment as close as possible to production, and that virtualisation is the easiest way to do that. There are other benefits, but this is the most important by far.</p>
 
@@ -28,3 +70,24 @@
 <p>To test against production as much as possible we use a few production web servers, pulled from the main pool, which are configured to run candidate releases of our code base. Developers and testers can set a cookie that our load balancer will use to route them to the QA servers. This allows us to test an unreleased version of the site  using the exact hardware/software we use in production, that&#8217;s hosted in the same data centers and addressed by the real domain.</p>
 
 <p>You can&#8217;t get any closer than that without putting the code live.</p>
+
+
+  
+
+</article>
+
+  </div>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-609105-1', 'dsingleton.co.uk');
+    ga('send', 'pageview');
+
+  </script>
+
+</body>
+</html>
