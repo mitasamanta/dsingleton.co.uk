@@ -1,0 +1,1858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>David Singleton</title>
+ <link href="http://dsingleton.co.uk/atom.xml" rel="self"/>
+ <link href="http://dsingleton.co.uk/"/>
+ <updated>2014-04-24T22:53:03+01:00</updated>
+ <id>http://dsingleton.co.uk/</id>
+ <author>
+   <name>David Singleton</name>
+ </author>
+
+ 
+ <entry>
+   <title>Leaving Lumi &amp;ndash; Joining GDS</title>
+   <link href="http://dsingleton.co.uk//blog/leaving-lumi-joining-GDS"/>
+   <updated>2014-04-23T22:58:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/leaving-lumi-joining-GDS</id>
+   <content type="html">&lt;p&gt;Anyone following my life by the continuity of this blog alone may be confused by this title.&lt;/p&gt;
+
+&lt;h3&gt;Lumi&lt;/h3&gt;
+&lt;p&gt;It's 2 &amp;amp; half years since &lt;a href=&quot;/blog/leaving-last-fm/&quot;&gt;my last proper udpate&lt;/a&gt;. Coincidentally that's when I left Last.fm and joined &lt;a href=&quot;https://lumi.do&quot;&gt;Lumi&lt;/a&gt; as one of the founding team.&lt;/p&gt;
+
+&lt;p&gt;Diving into a &lt;a href=&quot;http://techcrunch.com/2012/12/04/last-fm-founders-next-track-lumi-a-site-that-uses-your-browsing-history-to-help-you-discover-things-on-the-web/&quot;&gt;brand new startup&lt;/a&gt; is a hugely time consuming experience, it didn't leave a lot of time for writing.&lt;/p&gt;
+
+&lt;p&gt;That said, it's something I wish I'd written more about it at the time. It was an amazing experience and hopefully I'll find the time to write about in the future.&lt;/p&gt;
+
+&lt;h3&gt;GDS&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;recent&lt;/em&gt; news, is that I've joined &lt;a href=&quot;https://gds.blog.gov.uk/&quot;&gt;GDS&lt;/a&gt; &amp;mdash; the Government Digital Service&lt;/p&gt;
+
+&lt;p&gt;It's a team &amp;ndash; almost a startup &amp;ndash; within Goverment that is &lt;a href=&quot;https://gds.blog.gov.uk/about/&quot;&gt;tasked&lt;/a&gt; with leading the digital transformation of Government.&lt;/p&gt;
+
+&lt;p&gt;A totally audacious project. From a tiny team building prototypes, to hundreds of people and projects all across government. Most importantly, it's changing the way government &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;builds digital services&lt;/a&gt; and even the way government itself works.&lt;/p&gt;
+
+&lt;p&gt;I've been following their work, the team, and I've been more impressed by both for a long time.&lt;/p&gt;
+
+&lt;p&gt;I'm really excited to be joining the team, to see what I can help them achieve and what I can learn from some world class people.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scrobbling Heatmap Calendar</title>
+   <link href="http://dsingleton.co.uk//blog/scrobbling-heatmap-calendar"/>
+   <updated>2011-08-31T23:46:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/scrobbling-heatmap-calendar</id>
+   <content type="html">&lt;p&gt;Created by &lt;a href=&quot;https://twitter.com/dekstop&quot;&gt;Martin D.&lt;/a&gt;, one of my ex-colleagues from Last.fm, this is an amazing visualisation of scrobbling activity by year, month, day of the week and even time of day. &lt;/p&gt;
+
+&lt;a href=&quot;http://www.flickr.com/photos/dekstop/6088387503/&quot; title=&quot;underpangs by dekstop, on Flickr&quot;&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6189/6088387503_f50332eea0_b.jpg&quot; width=&quot;500&quot; alt=&quot;underpangs&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;They&amp;#8217;re manually generated at the moment, with a set for &lt;a href=&quot;http://www.flickr.com/photos/dekstop/sets/72157627536754640/&quot;&gt;Last.fm staff past and present&lt;/a&gt;. The &lt;a href=&quot;http://www.flickr.com/photos/dekstop/sets/72157627536754640/show/&quot;&gt;slideshow&lt;/a&gt; version is particularly interesting to compare varying peoples listening habits.&lt;/p&gt;
+
+&lt;blockquote&gt;Each year of data is arranged in a row and horizontally grouped into 12 blocks, one for each month&amp;#8230; Months are organised by an inner grid, where data is arranged in seven columns for the days of week and 24 rows for the hours of day. Weekdays are aggregated so that e.g. all Mondays of a particular month end up in the same column.&lt;br/&gt;&lt;br/&gt;
+
+Colour is a measure of relative intensity: 
+grey → green → yellow → red. A light grey strip highlights the most active hours of the day across the entire period.&lt;/blockquote&gt;
+
+&lt;p&gt;Despite the depth of information it&amp;#8217;s stunningly readable and rather interesting. You can pick out real patterns quite easily, as Martin notes;&lt;/p&gt;
+
+&lt;blockquote&gt;Frequently people&amp;#8217;s graphs are detailed enough to provide a fairly good summary of big life changes. New jobs, busy weekends, holidays, the month when they bought an iPod, or picked up running again, or moved to a different timezone, &amp;#8230; I found that showing these graphs to the people portrayed often stimulated interesting conversation about their habits and their choices.&lt;/blockquote&gt;
+
+&lt;p&gt;From my graph I was able to spot these behaviours:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Mid-2005 to 2006&lt;/b&gt; - Finished Uni, got a job and spent the first 6+ months comuting without an iPod after moving to London was still missing a laptop for a long time.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Late 2007&lt;/b&gt; -  An increase in evening listening, a sign of joining the Last.fm team and getting stuck in to startup culture of late nights.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Early 2008&lt;/b&gt; - Evening listening, but with more separation from daytime listening. I suspect this was nights spent playing albums with my flatmate &lt;a href=&quot;http://benward.me&quot;&gt;Ben Ward&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;2009&lt;/b&gt; - Less evening music, which I think stems from different flat mates, a different flat and starting (an unscrobbled) vinyl collection.
+&lt;/li&gt;&lt;li&gt;&lt;b&gt;February 2010&lt;/b&gt; - A quiet month for scrobbling, most of which on holiday in New York, little time for digital music.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Last.fm Now-Playing information radiator</title>
+   <link href="http://dsingleton.co.uk//blog/last-fm-now-playing-information-radiator"/>
+   <updated>2011-08-28T14:55:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/last-fm-now-playing-information-radiator</id>
+   <content type="html">&lt;p&gt;This is a litte project I started a while back but only finished/cleaned up recently. It&amp;#8217;s a simple information radiator that shows you what a Last.fm user is listening to right now.&lt;/p&gt;
+
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/6086155862/&quot; title=&quot;Now playing screen by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6198/6086155862_ed082dee0f.jpg&quot; width=&quot;500&quot; height=&quot;339&quot; alt=&quot;Now playing screen&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;It was designed to let one (or many people) know what&amp;#8217;s playing at a glance. I&amp;#8217;ve been using it while listening to Last.fm radio while getting ready for work, &lt;a href=&quot;https://twitter.com/#!/clientroomradio&quot;&gt;shared office playback&lt;/a&gt; (it works really well here) and even on top of Spotify playlists at parties. You can stalk along to someone else&amp;#8217;s listening too, for the curious.&lt;/p&gt;
+
+&lt;p&gt;Dev/ops have made &lt;a href=&quot;http://www.flickr.com/photos/jwheare/3271781474/&quot;&gt;heavy&lt;/a&gt; &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4112671768/&quot;&gt;use&lt;/a&gt; of radiators/glanceables for a while (that&amp;#8217;s a whole &amp;#8216;nothing post), but it&amp;#8217;s nice to see more &lt;a href=&quot;http://www.flickr.com/photos/jwheare/5071607356/&quot;&gt;social&lt;/a&gt; and &lt;a href=&quot;http://booktwo.org/notebook/thamestide/&quot;&gt;experimental&lt;/a&gt; uses being applied. With &lt;a href=&quot;http://russelldavies.typepad.com/planning/2011/02/experimenting-with-a-second-screen.html&quot;&gt;&quot;second screens&quot;&lt;/a&gt; getting more popular I&amp;#8217;m excited to see what else will get made soon.&lt;/p&gt;&lt;p&gt;Try the &lt;a href=&quot;http://dsingleton.github.com/now-playing-radiator/&quot;&gt;hosted demo version&lt;/a&gt; or &lt;a href=&quot;https://github.com/dsingleton/now-playing-radiator&quot;&gt;fork the project on Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Responsiveness&lt;/h3&gt;
+
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/6088909992/&quot; title=&quot;DSCF0009 by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6208/6088909992_73d26bf323.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;DSCF0009&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;It&amp;#8217;s not strictly a responsive-design (no media queries in sight) but it does work really well across multiple devices. Only needing some font size adjustments on larger screens. &lt;a href=&quot;http://matthewsheret.com/&quot;&gt;Matthew Sheret&lt;/a&gt; has been running this on an old iPod touch sat on his desk for a few weeks, quite happily.&lt;/p&gt;
+
+&lt;h3&gt;How it works&lt;/h3&gt;
+
+&lt;p&gt;There&amp;#8217;s no server-side requirement, everything is HTML/CSS/JS, no PHP or Python dependency, which means it&amp;#8217;s super easy to use locally. You can clone it from Github and use it immediately, no configuration. It includes a tiny Last.fm API client written in Javascript &lt;/p&gt;
+
+&lt;p&gt;Now-playing is part Last.fm &lt;a href=&quot;http://www.last.fm/api/scrobbling&quot;&gt;scrobbling API&lt;/a&gt;, supported by most clients it&amp;#8217;s sent at the begining of a track rather than at the end (like scrobbling). Becuase there&amp;#8217;s no realtime API i&amp;#8217;m polling on a with a tiny Javascript API client. By default it polls on a 5 second interval, which feels pretty snappy and sit well within the TOS (~1 req/sec max).&lt;/p&gt;
+
+&lt;p&gt;Checkout the source, on &lt;a href=&quot;https://github.com/dsingleton/now-playing-radiator&quot;&gt;Github&lt;/a&gt; and have a play.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Leaving Last.fm</title>
+   <link href="http://dsingleton.co.uk//blog/leaving-last-fm"/>
+   <updated>2011-08-11T18:58:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/leaving-last-fm</id>
+   <content type="html">&lt;p&gt;8 years of scrobbling, 55,000 tracks and 4 years with the incredible &lt;a href=&quot;http://www.last.fm/about/team&quot;&gt;Last.fm team&lt;/a&gt;, it&amp;#8217;s been a blast, but it&amp;#8217;s time to move on and do something new.&lt;/p&gt;
+
+&lt;a href=&quot;http://www.flickr.com/photos/lastfm/4879733664/&quot; title=&quot;Brand Ambassadors 06 by Last.fm, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4118/4879733664_d6e4b17389.jpg&quot; width=&quot;500&quot; height=&quot;374&quot; alt=&quot;Brand Ambassadors 06&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;It&amp;#8217;s been a really difficult decision to leave. Last.fm was quite literally a dream job for me and at times a family. I&amp;#8217;m proud to have worked on a brilliant product with so many great people. I feel like i&amp;#8217;ve grown up with Last.fm. It&amp;#8217;s been, and will always be, a big and very happy part of my life.&lt;/p&gt;
+
+&lt;p&gt;I really can&amp;#8217;t describe how much I&amp;#8217;ve learnt and how much fun i&amp;#8217;ve had, but some of highlights include the &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/2175975083/&quot;&gt;ballpit&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4669213869/&quot;&gt;roof BBQs&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4417983904/&quot;&gt;Nerf wars&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/2224410166/in/set-72157603403049536&quot;&gt;big releases&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/1767603000/in/set-72157603403049536&quot;&gt;office music&lt;/a&gt;, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4112671768/&quot;&gt;stats&lt;/a&gt; and &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4112671768/&quot;&gt;challenges&lt;/a&gt;, but that&amp;#8217;s still just a tiny fraction. &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;What next?&lt;/b&gt; Well, a long, and probably wet, weekend camping in Wales. Chilling out a bit and relaxing. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Facebook photo facial recognition</title>
+   <link href="http://dsingleton.co.uk//blog/facebook-photo-facial-recognition"/>
+   <updated>2011-07-03T12:37:22+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/facebook-photo-facial-recognition</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;[These are old, but I&amp;#8217;m clearing my drafts queue]&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last Autumn a group of us visited Berlin, renting a bit apartment, exploring the city and taking lots of photos. I don&amp;#8217;t upload photos to Facebook, I&amp;#8217;m more of a &lt;a href=&quot;http://flickr.com/photos/davidsingleton/&quot;&gt;Flickr&lt;/a&gt; guy, but it was interesting to watch Becky upload hers and compare the process.&lt;/p&gt;
+
+&lt;p&gt;The most striking, impressive and creepy difference was that Facebook seem to do facial detection identify faces then try to match them to your friends. I can see why they do it, more tagging = more engagement, but the unintended matching of drawn faces (and more so to real people) is pretty weird.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berlin Wall mural of faces&lt;/strong&gt;&lt;/p&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/5204283137/&quot; title=&quot;Berlin wall face mural by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5243/5204283137_494e105dce.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Berlin wall face mural&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;&lt;strong&gt;Mural faces matched against  a real person&lt;/strong&gt;&lt;/p&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/5204880768/&quot; title=&quot;Fiona matched with a wall face by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5088/5204880768_b47886c93f.jpg&quot; width=&quot;500&quot; height=&quot;290&quot; alt=&quot;Fiona matched with a wall face&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;&lt;strong&gt;More detected, but unmatched faces&lt;/strong&gt;&lt;/p&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/5204880658/&quot; title=&quot;Matched faces by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4127/5204880658_2ef58bd1bd.jpg&quot; width=&quot;498&quot; height=&quot;500&quot; alt=&quot;Matched faces&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;I wonder how far this effect would stretch? Could Facebook start suffering from &lt;a href=&quot;http://en.wikipedia.org/wiki/Pareidolia&quot;&gt;Pareidolia&lt;/a&gt;? &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Artificial Scarcity and Entitlement</title>
+   <link href="http://dsingleton.co.uk//blog/entitlement-artificial-scarcity-spotify"/>
+   <updated>2011-06-06T13:34:09+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/entitlement-artificial-scarcity-spotify</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://stumble.kapowaz.net/post/6245425449/artificialscarcity&quot; class=&quot;tumblr_blog&quot;&gt;kapowaz&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The dawn of ubiquitous computing and communications has had a disruptive effect on numerous previously-stable business models. Those affected most are usually those which relied upon the scarcity of a resource, be that news, music or television programs. &lt;/p&gt;
+
+&lt;p&gt;Each one in turn has found itself confronted with a paradigm shift leading away from scarcity, and typically has failed to adapt to the new order that develops. What began with Napster in the late ‘90s has led to everything from news pay-walls to Digital Rights Management on movies and music. When these measures inevitably fail new legislation is lobbied for to plug the gaps, but by that point it’s too late to change perceptions: the resource is manifestly no longer scarce.&lt;/p&gt;
+
+&lt;p&gt;Once this becomes apparent to the general populace, the value of that resource tends to drop rapidly. Music once had an intrinsic value, but clearly it was tied to the scarcity of the medium — you could lend a CD to a friend and until they returned it you didn’t have that CD to play yourself.&lt;/p&gt;
+
+&lt;p&gt;Once the physical medium no longer played a part in that transaction and one could make a perfect copy at no cost it was only natural that people would share these copies with one another. Big media like to portray this as theft, but in reality, just as with the Replicators in science fiction, the scarcity has been replaced with abundance and with it the business models that rely upon it have become obsolete.&lt;/p&gt;
+
+&lt;p&gt;This sentiment isn’t the same as entitlement: it’s a natural reaction to artificial scarcity, and &lt;a href=&quot;http://www.guardian.co.uk/commentisfree/2011/jun/06/spotify-problem-getting-people-to-pay&quot;&gt;those that attack this reaction&lt;/a&gt; are simply struggling to rationalise what is in effect a significant transitionary point in civilisation. As &lt;a href=&quot;http://www.shirky.com/&quot;&gt;Clay Shirky&lt;/a&gt; wrote in &lt;em&gt;Cognitive Surplus&lt;/em&gt;, “When a resource is scarce, the people who manage it often regard it as valuable in itself, without stopping to consider how much of its value is tied to its scarcity.” There is no law written that states that every business model is entitled to exist in perpetuity. &lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;In part, I disagree. The intrinsic value of music is in flux and is trying to find a steady state. It&amp;#8217;s safe to say that value will be greater than 0, but what that value will be and how we get there I don&amp;#8217;t know.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I disagree that &amp;#8220;[the] sentiment isn’t the same as entitlement&amp;#8221;. In the case of Spotify it very much is. The scarcity, the limits they have recently imposed will directly relate to the inherent expense of being a music streaming service. Taking aside royalties for a moment, the costs will be bandwidth, hardware, hosting &amp;amp; staff, which is still significant. Royalties costs, something outside their control, are very much higher still and will make up the lions share of Spotify&amp;#8217;s expenses.&lt;/p&gt;
+
+&lt;p&gt;Fundamentally it&amp;#8217;s a question of cost vs revenue, if the former is unsustainably higher then Spotify will cease to exist. They chose to reduce costs (the alternative being  increasing revenue, though they&amp;#8217;ve done this by proxy) by limiting the loss from their loss leader, ad-supported radio. The funny thing about &amp;#8220;ad-supported&amp;#8221; is that it rarely is, off settings internet advertising (even heavier media ads) against streaming costs rarely turns a profit, but for Spotify that let&amp;#8217;s people try the service before buying a subscription. I know nothing about the internal policy of Spotify but I imagine that too many people didn&amp;#8217;t transition to the subscription model and &amp;#8220;free&amp;#8221; was being used in an unsustainable way.&lt;/p&gt;
+
+&lt;p&gt; Fundamentally I can&amp;#8217;t understand the &amp;#8220;it should be free&amp;#8221; mentality. Spotify are clearly reacting to market pressure, 
+
+&lt;/p&gt;&lt;p&gt;Perhaps the common online model of loss-leading to gain users is to blame, setting a poor expectation. A common difficulty of sites/applications looking to charge is that tacking on a subscription package on an existing product is hard. In some ways it&amp;#8217;s better to charge from the start, better managing expectations and generally avoiding the &amp;#8220;everything must be free&amp;#8221; crowed altogether. Side note, this has been the theme of a number of discussions i&amp;#8217;ve seen around pricing, don&amp;#8217;t be afraid to value what you&amp;#8217;ve built.&lt;/p&gt;
+
+&lt;p&gt;Ultimately why should you pay for Spotify? You can go download torrents easily (actually, most people can&amp;#8217;t but we&amp;#8217;ll ignore that here), you can listen to songs on Youtube, getting music isn&amp;#8217;t that hard. But Spotify make it much easier, the service they&amp;#8217;re providing is utility and easy of use. At a party you don&amp;#8217;t want to be dicking about with a torrent client, or searching Youtube to play a track, you want to have a nice interface to all the music every and treat it like a jukebox. The hard work Spotify are doing is making that experience good, that&amp;#8217;s what you should be paying for.&lt;/p&gt;
+
+&lt;p&gt;The true unreasonableness of the entitled group is that they don&amp;#8217;t have to use Spotify. Don&amp;#8217;t want to pay? Go pirate it instead, it&amp;#8217;s cool, have fun. But some people feel entitled to the ease of use provided by Spotify. The scarcity you are paying for is not the music itself, but the way it is made available.&lt;/p&gt;
+
+&lt;p&gt;As a side note, that last point is more dangerous to Spotify (or any other streaming service) than anything else, that you risk becoming a commodity, a service layer that is swapped as easily as a real world utility provider. Making it possible for someone else to come along do it better and leaving little incentive for your users to stay with them. But ultimately this will happen, I fear. The entire online music industry has been an act of leap-frogging for a decade, each new company makes a little more progress than the last (which usually suffer a sad fate).&lt;/p&gt;&lt;p&gt;Case in point, the royalty deals made to Spotify will have been more an improvement those to Last.fm, and whatever follows Spotify will be better again. This ties with the value of music approaching a steady state, but until we get there the change is going to be slow going, with many small steps - short of revolution, of the major labels (and large indies, and aggregators) all crumbling, which is a popular idea, but an unlikely one.&lt;/p&gt;
+
+&lt;p&gt;As a second side note, I couldn&amp;#8217;t help but laugh at some of the article&amp;#8217;s comments. The ignorance is unsurprising but still enraging. One sensible comments points out that royalty rates have increased significantly over time, but then makes this utter blunder:&lt;/p&gt;
+
+&lt;blockquote&gt;&amp;#8230;.then they could have negotiated for higher ad fees&lt;/blockquote&gt;
+
+&lt;p&gt;I mean really. The solution is to ask advertising companies for more money? You don&amp;#8217;t think perhaps ad revenue is already at market rate, that there is no room to say &amp;#8220;can we have a bit more please&amp;#8221;?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Migrating scrobbling authentication to 2.0</title>
+   <link href="http://dsingleton.co.uk//blog/migrating-scrobbling-authentication-to-2-0"/>
+   <updated>2011-04-28T21:53:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/migrating-scrobbling-authentication-to-2-0</id>
+   <content type="html">&lt;p&gt;I received this email a few months ago, and it made me smile.&lt;/p&gt;
+&lt;blockquote&gt;Anthony from The Hype Machine here. (&lt;a href=&quot;http://hypem.com&quot;&gt;http://hypem.com&lt;/a&gt;)
+
+Good news!
+
+We&amp;#8217;ve just connected your Hype Machine account to Last.fm using a new
+secure method recommended by their team (it&amp;#8217;s similar to OAuth,
+if you want to get technical)!
+
+To do this, we used the Last.fm username and a scrambled version of
+the password you&amp;#8217;ve given us before.
+
+We&amp;#8217;ve now deleted the scrambled version of your password from
+our database for extra security - with this new authentication method,
+we no longer need it!
+
+Have a great week!&lt;/blockquote&gt;
+
+&lt;p&gt;Hype Machine is one of the many music sites that allow you to scrobble your listening there to Last.fm. This is done through our Scrobbling protocol, a part of our API, in fact the same way the official Last.fm clients (and even the website) record what you listen to. We&amp;#8217;re proud to eat our own dogfood.
+&lt;/p&gt;
+&lt;p&gt;Scrobbling is core to Last.fm, each track is a chunk of attention data. It tells us more about what you like, building better recommendations of music, events, etc. The more you scrobble the better it gets, so the more 3rd parties scrobbling the better. &amp;#8220;If it doesn&amp;#8217;t scrobble it doesn&amp;#8217;t count&amp;#8221;, as Stefan says.
+&lt;/p&gt;
+&lt;p&gt;Having slowly evolved over 8 years the original scrobbling protocol was always a little complex and not very developer friendly. That&amp;#8217;s something we&amp;#8217;ve tried to improve with Scrobbling 2.0, which is a revolution, rather than evolution of the protocol.
+&lt;/p&gt;
+&lt;p&gt;Short history of scrobbling aside, I&amp;#8217;m going to talk about how a 3rd party developer can migrate user authentication from the old scrobbling protocol to the new. The two systems use different authentication mechanisms, Submissions 1.3 requires a username + password, while Scrobbling 2.0 uses the same OAuth mechanism as our &lt;a href=&quot;http://www.last.fm/api&quot;&gt;API&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;Having a 3rd party store your Last.fm credentials is not great. Despite the protocol requiring the passport to be hashed (rather plaintext) it still increases the risk of your account being compromised, by a malicious 3rd party or just a careless one that accidentally exposes data (which happens more than anyone would like).
+&lt;/p&gt;
+&lt;p&gt;An advantage of OAuth style authentication is that it&amp;#8217;s token based, meaning that a 3rd party will never need to ask for a users&amp;#8217; password. To get a token they direct the user to our OAuth endpoint on Last.fm where the user chooses to allow or deny the 3rd party. If allowed then a token is sent back to the 3rd party giving them access+write data for that user. Another advantage is that the user (or Last.fm) can easily revoke access for the 3rd party by deleting that token.
+&lt;/p&gt;
+&lt;p&gt;So, all in all OAuth is more secure and offers more control, a &amp;#8220;Good Thing&amp;#8221;. However, for there is a problem for users of the old srobbling protocol. In order to use Scrobbling 2.0 you need an OAuth token for a user, which is not something they&amp;#8217;ll already have. One option would be to send all of their users through the OAuth authentication process and collect each token, but this sucks for everyone. It&amp;#8217;s a big pain for the 3d party developers (writing new auth flow, maintaining to scrobbling protocols), the users (getting asked to allow something they&amp;#8217;d already allowed) and for Last.fm (probably result in fewer people scrobbling as a result of the fuss). Not ideal.
+&lt;/p&gt;
+&lt;p&gt;A few months back one of our partners asked about this problem and we were able to come up with a novel solution that sidestepped that complexity. It relies on two things, 1/ Old-school scrobblers already store usernames and (hashed) passwords, 2/ We offer a second kind of API authentication, which exchanges a hashed username and password for an OAuth token, without direct user interaction.&lt;/p&gt;
+
+&lt;p&gt;So, having just said how much better OAuth based authentication is, why do we have offer an auth flow that circumvents it? Basically, user experience. The OAuth flow on mobile generally sucks, often a user won&amp;#8217;t be logged in on a mobile device, or a mobile app 3rd party will have difficulty capturing the auth token. Sometimes a level of security has to be sarcraficed to make something more usable. It&amp;#8217;s also not all bad, unlike the old scrobbling procotol it doesn&amp;#8217;t need to store username and password, only use them once to get an auth token, which is still revokable by the user. It&amp;#8217;s not ideal, but it&amp;#8217;s an improvement.&lt;/p&gt;
+
+&lt;p&gt;Anyway, that authentication method requires the 3rd party to provide the username and password (in a hashed form), which older scrobbling clients already have - no need to ask the user. They can use the existing user credidentials to get an OAuth token via mobile authentication. After that they can store the new token and purge the old and insecure credentials, which is exactly what Anthony described in the opening quote. No fuss for the user, some work for the 3rd party developer, but all of it automatable (and extractable in to a publishable, resuable library).
+&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m not going to go in to any actual code, in part because the post is already very long, but also because with the &lt;a href=&quot;http://www.last.fm/api/mobileauth&quot;&gt;mobile authentication documentation&lt;/a&gt; it&amp;#8217;s quite straight forward. But here&amp;#8217;s the gist of it:
+&lt;/p&gt;
+&lt;pre&gt;
+&lt;code&gt;
+// This is the token format mobile auth expects:
+md5(username + md5(password))
+
+// How to generate it from Submissions 1.x auth details
+username = scrob1_username
+password_hash = scrob1_password_hash
+
+// Generate the token and hit up the mobile auth API method
+mobile_auth_token = md5(username + password_hash)
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Bosh.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Erlang: For an absolute beginner</title>
+   <link href="http://dsingleton.co.uk//blog/erlang-beginners-tutorial"/>
+   <updated>2011-01-06T22:42:04+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/erlang-beginners-tutorial</id>
+   <content type="html">&lt;p&gt;Last night I spent 30 minutes having a play with a new (to me) programming language, &lt;a href=&quot;http://en.wikipedia.org/wiki/Erlang_(programming_language)&quot;&gt;Erlang&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Its a language that will stretch my brain a bit, teach me to think about programming in a different way, and I know some folks using it (Mostly &lt;a href=&quot;http://smarkets.com/&quot;&gt;Smarkets&lt;/a&gt; and &lt;a href=&quot;http://irccloud.com&quot;&gt;IRCCloud&lt;/a&gt;) who&amp;#8217;s brains I can pick in the pub.&lt;/p&gt;
+
+&lt;p&gt;These are my quick notes from an Erlang newbie, hopefully useful to someone else getting started who justs wants to install it, write Hello World and go from there.&lt;/p&gt;
+
+&lt;h3&gt;Installing Erlang on OSX&lt;/h3&gt;
+
+&lt;p&gt;This is incredibly easy with &lt;a href=&quot;https://github.com/mxcl/homebrew&quot;&gt;Homebrew&lt;/a&gt; (a package manager for OSX). As simple as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;brew install erlang&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I expect they&amp;#8217;ll be some cases where I need more than that stock install, but it&amp;#8217;s good enough to get started. I haven&amp;#8217;t tried it on my server, but it looks like a simple apt-get should do the trick, rather than the ball-ache of compiling from source.&lt;/p&gt;
+
+&lt;h3&gt;Writing &amp;#8216;Hello World&amp;#8217;&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.erlang.org/faq/getting_started.html#id52506&quot;&gt;Erlang FAQ&lt;/a&gt; has the simplest example:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+-module(hello).
+-export([hello_world/0]).
+
+hello_world() -&amp;gt; io:fwrite(&quot;hello, world\n&quot;).
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Save that as &lt;code&gt;hello.erl&lt;/code&gt; (the name of the file needs to match the module name), run the Erlang shell (run &lt;code&gt;erl&lt;/code&gt;) and compile it like so:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+$ erl
+1 &amp;gt; c(hello).
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This will generate an Erlang bytcode file called &lt;code&gt;hello.beam&lt;/code&gt; in your working directory. To run it, switch back to the Erlang shell and call the exported function on your module.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+2 &amp;gt; hello:hello_world().
+hello, world
+ok
+3 &amp;gt; 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Simple. Thought i&amp;#8217;d also recommend looking at a &lt;a href=&quot;http://egarson.blogspot.com/2008/03/real-erlang-hello-world.html&quot;&gt;more complicated &amp;#8216;Hello World&amp;#8217;&lt;/a&gt; that is a more idiomatic and Erlang-y version, &lt;/p&gt;
+
+&lt;h3&gt;What next?&lt;/h3&gt;
+
+&lt;p&gt;I &lt;a href=&quot;http://twitter.com/#!/dsingleton/status/22716268050124801&quot;&gt;asked on Twitter&lt;/a&gt; for some good Erlang resources, books, blogs, tutorials etc:&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://www.amazon.co.uk/gp/product/193435600X?ie=UTF8&amp;amp;tag=httpdsingleco-21&amp;amp;linkCode=as2&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=193435600X&quot;&gt;Joe Armstrong - Programming Erlang: Software for a Concurrent World&lt;/a&gt;. A lot of very smart people recommend this, the classic book on Erlang by one of it&amp;#8217;s creators. It&amp;#8217;s going on my Kindle as I type.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://learnyousomeerlang.com/&quot;&gt;learn you some Erlang&lt;/a&gt;. A more approachable introduction to Erlang, with a little of &lt;a href=&quot;http://en.wikipedia.org/wiki/Why_the_lucky_stiff&quot;&gt;_why&amp;#8217;s&lt;/a&gt; style about it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.delicious.com/dsingleton/erlang&quot;&gt;My bookmarks tagged Erlang&lt;/a&gt;. I&amp;#8217;ll be adding more links as I collect them.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;I guess my next step is to pick a small project to building in Erlang. It always seems better to have a simple project to help pick up a language.&lt;/p&gt;
+
+&lt;p&gt;At the moment I think i&amp;#8217;m going to work through some of the &lt;a href=&quot;http://projecteuler.net/&quot;&gt;Project Euler&amp;gt;&lt;/a&gt; problems and get to grips with the basics. Then perhaps build a toy web server, which has the added bonus of grokking more of the HTTP spec.&lt;/p&gt;
+
+&lt;h3&gt;And finally…&lt;/h3&gt;
+
+&lt;p&gt;It wouldn&amp;#8217;t be a beginning Erlang blog post without the obligatory &amp;#8220;&lt;em&gt;Hello Joe&lt;/em&gt;&quot; from the brilliant Erlang: The Movie&lt;/p&gt;
+
+&lt;object width=&quot;480&quot; height=&quot;385&quot; data type&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/uKfKtXYLG78?fs=1&amp;amp;hl=en_US&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/uKfKtXYLG78?fs=1&amp;amp;hl=en_US&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;480&quot; height=&quot;385&quot; /&gt;&lt;/object&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tech Hub misrepresents Silicon Roundabout</title>
+   <link href="http://dsingleton.co.uk//blog/tech-hub-misrepresents-silicon-roundabout"/>
+   <updated>2010-12-21T18:26:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/tech-hub-misrepresents-silicon-roundabout</id>
+   <content type="html">&lt;p&gt;Yesterday I had a brief conversation on Twitter with Elizabeth Varley of &lt;a href=&quot;http://techhub.com/&quot;&gt;Tech Hub&lt;/a&gt; about their claims of 700% startup growth in the Old Street area. I&amp;#8217;d suggest reading the &lt;a href=&quot;http://www.techhub.com/magazine/read/tech-cluster-around-londons-new-techhub-grows-700-inside-three-years_104.html&quot;&gt;original article&lt;/a&gt; and the &lt;a href=&quot;http://www.exquisitetweets.com/tweets?eids=bpvKAaWD48.bpvRvjjH8m.bpv6quQ1D3.bpxun2r5MW.bpxMJto3dk.bpzouRAtMG.bpzsaTrxsa.bpxRLKIyt3&quot;&gt;Twitter conversation&lt;/a&gt; first. I was convinced to write up some broader thoughts by an excellent &lt;a href=&quot;http://www.unboxedconsulting.com/blog/techhub-and-silicon-roundabout&quot;&gt; post by James Darling&lt;/a&gt;, so that is worth reading too.&lt;/p&gt;
+
+&lt;p&gt;It may seem pedantic to quibble over a number, but it is important when the number is in the headline of your article, and more importantly gets repeated by others and even Government. Whilst this may be a common tactic in PR it&amp;#8217;s still fundementally misleading and irresponsible on their part.&lt;/p&gt;
+
+&lt;p&gt;To get this % increase they claim two sources:&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;A &amp;#8220;crowd sourced&amp;#8221; &lt;a href=&quot;http://bit.ly/siliconroundabout&quot;&gt;map&lt;/a&gt; thrown together by Dopplr shortly after the (joke) term &amp;#8216;silicon roundabout&amp;#8217; was coined.&lt;/li&gt;
+&lt;li&gt;Further research by Tech Hub based on a detailed &lt;a href=&quot;http://berglondon.com/blog/2009/05/12/stories-about-silicon-roundabout/&quot;&gt;ethnographic survey&lt;/a&gt; of the area, done over a period of months, long after the term had stuck and more companies were eager to be associated&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt; Now, they don&amp;#8217;t claim the research behind the number is scientific (which is fair) but you shouldn&amp;#8217;t use precise figures that appear to be so. Use appropriately unscientific terms like &amp;#8220;significant growth&amp;#8221; or other hand wavvy term instead.&lt;/p&gt;&lt;p&gt;Thats not to say the area hasn&amp;#8217;t seen growth, but that 700% is an entirely misrepresentative number. To the extreme that using it is essentially making up a number to suit a purpose.&lt;/p&gt;
+
+&lt;p&gt;Most of all, despite being very careful not to explicitly say it, Tech Hub aligns themselves with this growth, suggestion they are in some way associated or responsible for it. Something I personally don&amp;#8217;t believe to be true.&lt;/p&gt;&lt;p&gt;Recent events make me worry that Tech Hub have become the de-facto voice of &amp;#8220;silicon roundabout&amp;#8221;, despite being so new to the area, and rather different to the many existing co-working spaces. To me at least, this seems to be because they are entrepreneur and business focused, they&amp;#8217;re not developers. Of course they&amp;#8217;re going to be more willing to, and better at, speaking to the press and promoting themselves.&lt;/p&gt;
+
+&lt;p&gt;James does &lt;a href=&quot;http://www.unboxedconsulting.com/blog/techhub-and-silicon-roundabout&quot;&gt;a much better job&lt;/a&gt; explaining that last point than me. I could happily write a few more hundred words on that alone, but I won&amp;#8217;t tonight. I do feel compelled to make a point of &lt;/p&gt;
+
+&lt;p&gt;Tech Hub does not represent for me, or the whole of the area. It worries me that they appear to do so.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The importance of virtualised development environments</title>
+   <link href="http://dsingleton.co.uk//blog/virtualised-development-environments"/>
+   <updated>2010-11-06T01:23:35+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/virtualised-development-environments</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://morethanseven.net&quot;&gt;Gareth Rushgrove&lt;/a&gt; just wrote a great blog post entitled &lt;a href=&quot;http://morethanseven.net/2010/11/04/Why-you-should-be-using-virtualisation.html&quot;&gt;Why You Should Be Using Virtualisation&lt;/a&gt;, which puts out a great argument for using virtualised development environments.&lt;/p&gt;
+
+&lt;p&gt;The crux of the argument is that you should be testing and running your code in an environment as close as possible to production, and that virtualisation is the easiest way to do that. There are other benefits, but this is the most important by far.&lt;/p&gt;
+
+&lt;p&gt;To quote Gareth:&lt;/p&gt;
+
+&lt;blockquote&gt;But if you’re running those tests against code executing on different hardware, on a different operating system, with different low level libraries or a different web server version or a different database server then you are not going to catch all the problems. If you take this to an extreme then you can only get rid of all of these problems by giving each developer a full production stack of their very own.&lt;/blockquote&gt;
+
+&lt;p&gt;A short example of this: A few months back I spent the better part of a day tracking a bug that was happening in production by utterly unreproducable in our development environment. The cause was a difference in the &lt;a href=&quot;http://incubator.apache.org/thrift/&quot;&gt;Thrift&lt;/a&gt; setup between the two - one was running a C extension while the other was a native PHP extension - and one had a bug.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s not important what the bug was, but that if the two had been in sync then the problem would have been caught much quicker and more easily.&lt;/p&gt;
+
+&lt;h3&gt;Current work setup&lt;/h3&gt;
+&lt;p&gt;At &lt;a href=&quot;http://www.last.fm&quot;&gt;Last.fm&lt;/a&gt; each web developer has their own hosted and internally routed Virtual Machine, all based on the same VM image, which matches 99% of our production stack. There are still the occasional niggling 1% problems and mismatches, but each time we encounter one it gets fixed in the original VM image, so it&amp;#8217;s a step closer to being fixed forever.&lt;/p&gt;
+
+&lt;p&gt;In contrast, there was a period where we were running differing versions of Apache and PHP compared to live (and different again to some non-production, non-development internal servers). Believe me when I say: this causes no end of problems, avoid it at all costs. It will sap developer time and enthusiasm faster than you&amp;#8217;d think. As happy as many developers are playing at sys-admin, the majority would much rather be writing code and making &lt;em&gt;stuff&lt;/em&gt;, not fighting workflow.&lt;/p&gt;
+
+&lt;h3&gt;Restore and rollback&lt;/h3&gt;
+&lt;p&gt;Another benefit of visualisation is that you can get a new version of your VM running very quickly. This saves an awful lot of time for a new hire, but also if you lose your VM for any reason then you can generate a new VM or restore an archived version incredibly easily.&lt;/p&gt;
+
+&lt;p&gt;Due to a disk corruption I lost my development VM a few months ago, frustrating as it was I was able to get working again in under an hour. A new production-parity VM was generated and I pulled in code from our source repository, restarted Apache and away I went. All I lost was a (small) amount of uncommited code and a few shell scripts, which did teach me to treat a VM as a throwaway environment, commit or backup anything you would mind losing.&lt;/p&gt;
+
+&lt;h3&gt;Downsides&lt;/h3&gt;
+&lt;p&gt;I can understand hesitation about setting up a production environments for dev, especially for the awkward medium sized projects (bigger than small, but not a serious endeavour), but it can give you some pretty big wins. The earlier you encounter bugs, the quicker you fix them and if disaster strikes you can resurrect your environment easily. I think it also forces you to be more controlled when adding dependencies in your production environment.&lt;/p&gt;
+
+&lt;p&gt;Of course, it&amp;#8217;s not a silver bullet, you&amp;#8217;ll still encounter weird production vs dev bugs, there&amp;#8217;ll always be differences. Not just load/the real world, but it&amp;#8217;s also like you might be missing some configuration or software, routing access or even domain variance than only production has.&lt;/p&gt;
+
+&lt;p&gt;To test against production as much as possible we use a few production web servers, pulled from the main pool, which are configured to run candidate releases of our code base. Developers and testers can set a cookie that our load balancer will use to route them to the QA servers. This allows us to test an unreleased version of the site  using the exact hardware/software we use in production, that&amp;#8217;s hosted in the same data centers and addressed by the real domain.&lt;/p&gt;
+
+&lt;p&gt;You can&amp;#8217;t get any closer than that without putting the code live.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Twitter favouritism</title>
+   <link href="http://dsingleton.co.uk//blog/new-twitter-favouritism"/>
+   <updated>2010-09-28T23:10:57+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/new-twitter-favouritism</id>
+   <content type="html">&lt;p&gt;Twitter have been slowly rolling out access to it&amp;#8217;s &lt;a href=&quot;http://twitter.com/newtwitter&quot;&gt;new web interface &lt;/a&gt;, to much discussion, arguing and complaining - not to mention recent security issues.&lt;/p&gt;
+
+&lt;p&gt;Putting all that to one side the feature of #newtwitter I&amp;#8217;m really fond of is showing your most recently favourited tweet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/5033691595/&quot; title=&quot;New Twitter by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4127/5033691595_8feda74af3.jpg&quot; width=&quot;462&quot; height=&quot;242&quot; alt=&quot;New Twitter&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Favouriting is an underrated feature on Twitter, though it&amp;#8217;s slightly at odds with the concept of a Retweet and requires the use of &lt;a href=&quot;http://favstar.fm&quot;&gt;external tools&lt;/a&gt; to get the most out of it. It&amp;#8217;s not surprising it&amp;#8217;s used so infrequently.&lt;/p&gt;
+
+&lt;p&gt;Displaying your most recent favourite, gives you an incentive to favourite more. Primarily it reminds you the feature exists and that you&amp;#8217;ve used it. The temporal nature of a tweet also reminds you of the time since you last favourited something. That&amp;#8217;s good motivation to favourite something new&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s a minor detail amongst a massive UI overhaul, but I think it&amp;#8217;s a clever and subtle way to encourage more use of the feature.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Last.fm vs Xbox at DIBI Conference</title>
+   <link href="http://dsingleton.co.uk//blog/lastfm-vs-xbox-dibi-conference"/>
+   <updated>2010-05-07T04:07:08+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/lastfm-vs-xbox-dibi-conference</id>
+   <content type="html">&lt;p&gt;Last week I had the pleasure of speaking at the &lt;a href=&quot;http://dibiconference.com&quot;&gt;Design It, Build It&lt;/a&gt; conference in Newcastle, where I gave a talk entitled “&lt;strong&gt;Last.fm vs Xbox&lt;/strong&gt;.”&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4581329945/&quot; title=&quot;Last.fm vs Xbox by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4025/4581329945_80569310dd.jpg&quot; width=&quot;500&quot; height=&quot;365&quot; alt=&quot;Last.fm vs Xbox&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It was a 30 minute presentation of our experience at &lt;a href=&quot;http://last.fm/&quot;&gt;Last.fm&lt;/a&gt; launching a radio application to millions of &lt;a href=&quot;http://live.xbox.com&quot;&gt;Xbox Live&lt;/a&gt; users. It was a mix of the Last.fm vs Xbox  story, how we dealt with it, the tools we used and general tips for anyone dealing with large scale launches. I think it went pretty well, people seemed to enjoy it, even a few designers!&lt;/p&gt;
+
+&lt;p&gt;The presentation is &lt;a href=&quot;http://slideshare.net/davidsingleton/lastfm-vs-xbox&quot;&gt;available on Slideshare&lt;/a&gt;. I kept the slides “word heavy” so they&amp;#8217;d make sense without the accompanying talk, though if you have any questions please do get in touch and i&amp;#8217;ll try and help.&lt;/p&gt;
+
+&lt;p&gt;I promised some people I that I&amp;#8217;d write more about how to find out about and get started with some of the technology and tools mentioned. I&amp;#8217;m still catching up on life and work in London after an extended stay in Newcastle but i&amp;#8217;ll be posting that soon — and going in to a bit more detail about the slides themselves.&lt;/p&gt;
+
+&lt;h3&gt;Build It&lt;/h3&gt;
+&lt;p&gt;The rest of the build line-up was excellent. &lt;a href=&quot;http://www.brunton-spall.co.uk&quot;&gt;Michael Brunton-Spall&lt;/a&gt; gave an overview of &lt;a href=&quot;http://mps-guardian.co.uk/&quot;&gt;The Guardian&amp;#8217;s&lt;/a&gt; scaling challenges and how they approach rapid application building, such as the &lt;a href=&quot;http://mps-expenses.guardian.co.uk/&quot;&gt;MPs expenses&lt;/a&gt; crowd-sourcing effort&lt;/p&gt;
+
+&lt;p&gt;I &lt;a href=&quot;http://morethanseven.net/&quot;&gt;Gareth Rushgrove&amp;#8217;s&lt;/a&gt; “You&amp;#8217;re going to need a bigger toolbox” a perfect topic for a conference to tackle. There are hundreds of languages &amp;amp; tools available but Gareth gave a great overview of some interesting ones you should learn more about on your own, getting you rather excited in the process. There&amp;#8217;s a collection of all the &lt;a href=&quot;http://delicious.com/coldclimate/dibi&quot;&gt;built-it presentation slides&lt;/a&gt; which are well worth reading.&lt;/p&gt;
+
+&lt;h3&gt;Design It&lt;/h3&gt;
+&lt;p&gt;Sadly I missed the Design-It talks, but heard good things. I&amp;#8217;m particularly looking forward to seeing slides and videos for &lt;a href=&quot;http://www.stuffandnonsense.co.uk/&quot;&gt;Andy Clarke&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://colly.com/&quot;&gt;Simon Collision&lt;/a&gt;, but i&amp;#8217;ll be watching all of them when I have the chance.&lt;/p&gt;
+
+&lt;h3&gt;Thanks&lt;/h3&gt;
+&lt;p&gt;I have to say a massive thanks to the organisers (particularly &lt;a href=&quot;http://twitter.com/gavinelliot&quot;&gt;@gavinelliott&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://twitter.com/coldclimate&quot;&gt;@coldclimate&lt;/a&gt;) for running a brilliant event. I know first hand that even running a small tech event is a royal pain but they made it look easy.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve booked my &lt;a href=&quot;http://www.amiando.com/dibi2011.html&quot;&gt;ticket for next year&lt;/a&gt; already and am looking forward to enjoying the day as a relaxed attendee. See you there?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>1Bit player update</title>
+   <link href="http://dsingleton.co.uk//blog/1-bit-audio-update"/>
+   <updated>2010-02-06T21:17:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/1-bit-audio-update</id>
+   <content type="html">&lt;p&gt;1Bit is a simple way to let you preview MP3s linked in a web page. It&amp;#8217;s a combination of Javascript and (a tiny bit) of flash to automatically pre-pend links to MP3s with a little play icon, allowing you to listen to the track inline. It&amp;#8217;s been quite popular, mostly with music blogs. It was built by &lt;a href=&quot;http://1bit.markwheeler.net/docs.php&quot;&gt; and myself a year or two ago. &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Towards the end of last year &lt;a href=&quot;http://www.unicorncreative.com&quot;&gt;James Weiner&lt;/a&gt; got in touch about 1bit, he&amp;#8217;s an Oxford-based web developer/designer who i&amp;#8217;ve had the pleasure to meet a few times at Pub Standards. He&amp;#8217;d been using it on some client sites and wanted to add some new functionality.&lt;/p&gt;
+
+&lt;p&gt;Mark and I were too busy with work to add the features ourselves, but were happy for James (with some help from his brother &lt;a href=&quot;http://www.readingtype.org.uk/&quot;&gt;Ben Weiner&lt;/a&gt;. The source for 1Bit is public and open (including the flash), so anyone can work on it if they like. Ben and James did just that and added the feature they wanted. Even better than that, they were happy to share the changes and for us to integrate them with the current version of 1Bit.&lt;/p&gt;
+
+&lt;h2&gt;1Bit on Github&lt;/h2&gt;
+
+&lt;p&gt;As a starting point for integrating these changes I&amp;#8217;ve put the &lt;a href=&quot;http://github.com/dsingleton/1bit-audio-player&quot;&gt;source for 1Bit on GitHub&lt;/a&gt;. I&amp;#8217;ve been using Git for personal projects for a while and GitHub itself makes it easy for anyone to get involved, add code, fix bugs or fork a project entirely. It&amp;#8217;s the natural choice for a project like this.&lt;/p&gt;
+
+&lt;p&gt;For now I&amp;#8217;ve create a branch to start adding James and Ben&amp;#8217;s new feature (modal playback) and you can &lt;a href=&quot;http://github.com/dsingleton/1bit-audio-player/tree/modal-playback&quot;&gt;follow the progress&lt;/a&gt; if you like. I&amp;#8217;ve also start adding some basic Javascript testing with &lt;a href=&quot;http://docs.jquery.com/QUnit&quot;&gt;QUunit&lt;/a&gt; to ensure I don&amp;#8217;t break anything while making changes. There&amp;#8217;s only simple, high level tests at the moment but I plan to refactor the internals a bit so 1Bit can be tested in smaller cleaner chunks.&lt;/p&gt;
+
+&lt;h2&gt;The future of 1Bit&lt;/h2&gt;
+&lt;p&gt;It&amp;#8217;s exciting to be working on the project again, getting development completely public and incorporating changes from other people. Expect a new version with modal support  in the future and possibly even some experimental HTML5 features. I&amp;#8217;d also like to make 1Bit easier to use with major Javascript libraries, as that&amp;#8217;s been bugging me for a while - particularly being able to use their selector functionality, which is vastly superior to the limited selector rules 1Bit supports. Keep an eye on the GitHub page for changes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Announcing: Design it, Build it.</title>
+   <link href="http://dsingleton.co.uk//blog/design-it-build-it"/>
+   <updated>2010-01-22T15:19:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/design-it-build-it</id>
+   <content type="html">&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/4295458898/&quot; title=&quot;Design it, Build it.  by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4026/4295458898_db1b0e4934.jpg&quot; width=&quot;500&quot; height=&quot;272&quot; alt=&quot;Design it, Build it. &quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;I&amp;#8217;m pleased to announce i&amp;#8217;ll be speaking at &lt;a href=&quot;http://www.dibiconference.com/&quot;&gt;Design it, Build it&lt;/a&gt; - A one day web conference on April 28th in Newcastle. It&amp;#8217;s aimed at both designs &amp;amp; developers with a separate track of talks for each&lt;/p&gt;
+
+&lt;p&gt;I consider myself a jack-of-all-trades most of the time, with my time (and passion) split evenly between frontend and backend. So it&amp;#8217;s great to see a conference with such a great mix of topics, definately the kind of thing i&amp;#8217;d be attending anyway if I wasn&amp;#8217;t speaking.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m really pleased to have been invited to speak and even though it&amp;#8217;s still a few months away I&amp;#8217;m already getting excited. My topic is &amp;#8220;&lt;em&gt;Last.fm Vs Xbox360&lt;/em&gt;&amp;#8221;, a look at profiling, optimizing, scaling and launching new features, using the recent Last.fm Xbox Live app as a working example. I&amp;#8217;m a big fan of presentations that include a healthy dose practical examples, I&amp;#8217;ve got a &amp;#8220;Tales from the trenches&amp;#8221; style in mind. &lt;/p&gt;
+
+&lt;p&gt;Today&amp;#8217;s the last day to get a discounted early-bird ticket. If you want to &lt;a href=&quot;http://www.amiando.com/dibi.html&quot;&gt;buy a ticket&lt;/a&gt; you can save ~60% by using the code &amp;#8220;&lt;em&gt;dibi_hohoho&lt;/em&gt;&amp;#8221;, but only till the end of the day. I believe they&amp;#8217;ve still got some Student tickets available at a reduced rate, get in touch if you&amp;#8217;re interested in those.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Batch event importing to Last.fm</title>
+   <link href="http://dsingleton.co.uk//blog/batch-event-importing-last-fm"/>
+   <updated>2010-01-06T22:20:24+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/batch-event-importing-last-fm</id>
+   <content type="html">&lt;p&gt;Over christmas I sorted out some old boxes from University and found all the &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/tags/tickets/&quot;&gt;paper ticket stubs&lt;/a&gt; for gigs from 2002 to 2005. That&amp;#8217;s some meaty data I didn&amp;#8217;t want to lose, I copied it to a spreadsheet with plans to import it in to the &lt;a href=&quot;http://last.fm/user/underpangs/events/&quot;&gt;Last.fm events system&lt;/a&gt; (where I track all my current gig habbits). &lt;/p&gt;
+
+&lt;p&gt;Unfortunately the &lt;a href=&quot;http://last.fm/events/add&quot;&gt;add events workflow&lt;/a&gt; is a real pain for adding more than one event at once, let alone the 50 I had. In the future we hope to add better support for adding multiple events, either with a new tool (aimed at promoters) or creating an &lt;i&gt;event.add&lt;/i&gt; &lt;a href=&quot;http://last.fm/api&quot;&gt;API method&lt;/a&gt; (and let someone else build it), but in the meantime I wanted a quick hack solution to speed things up.&lt;/p&gt;
+
+&lt;p&gt;Seeing as I had all my data in CSV already, the simplest approach is to generate URLs that pre-fill the &amp;#8220;Add Event&amp;#8221; form data and let you skip to the last step. &lt;strong&gt;Note;&lt;/strong&gt; We use one-time form tokens to prevent XSRF attacks, so you can&amp;#8217;t just submit the form a script. All the fields can be passed as GET variables to prefill, here are the query param names you&amp;#8217;ll need to do this:&lt;/p&gt;
+
+&lt;dl&gt;&lt;dt&gt;type&lt;/dt&gt;
+    &lt;dd&gt;&quot;gig&quot; or &quot;festival&quot;&lt;/dd&gt;
+    
+    &lt;dt&gt;startday&lt;/dt&gt;
+    &lt;dd&gt;2 digit day, eg &lt;em&gt;03&lt;/em&gt;&lt;/dd&gt;
+    
+    &lt;dt&gt;startmonth&lt;/dt&gt;
+    &lt;dd&gt;2 digit month, eg &lt;em&gt;11&lt;/em&gt;&lt;/dd&gt;
+    
+    &lt;dt&gt;startyear&lt;/dt&gt;
+    &lt;dd&gt;4 digit year, eg &lt;em&gt;2002&lt;/em&gt;&lt;/dd&gt;
+    
+    &lt;dt&gt;starttime&lt;/dt&gt;
+    &lt;dd&gt;24 hour time separated by a colon, eg &lt;em&gt;20:00&lt;/em&gt;&lt;/dd&gt;
+    
+    &lt;dt&gt;venueid&lt;/dt&gt;
+    &lt;dd&gt;The Last.fm venue id, you can find this in the venue URL&lt;/dd&gt;
+    
+    &lt;dt&gt;festivalName&lt;/dt&gt;
+    &lt;dd&gt;Confusingly this is just event name/title, not festival specific&lt;/dd&gt;
+    
+    &lt;dt&gt;artistNames&lt;/dt&gt;
+    &lt;dd&gt;Multiple artist names, specified as an array, eg artistNames[]=Blur&amp;amp;artistNames[]=Radiohead&amp;amp;artistNames[]=Pulp&lt;/dd&gt;
+&lt;/dl&gt;&lt;p&gt;So a complete example looks like:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&lt;a href=&quot;http://last.fm/events/add?type=gig&amp;amp;artistNames&quot;&gt;http://last.fm/events/add?type=gig&amp;amp;artistNames&lt;/a&gt;[]=Sparta&amp;amp;startday=04&amp;amp;startmonth=10&amp;amp;startyear=2005&amp;amp;starttime=20:00&amp;amp;venueid=8777858&amp;amp;festivalName=&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have your events in a structured format then it&amp;#8217;s easy to build a quick script to generate these links and really reduce the time needed to add events. Far far from ideal I know (and I&amp;#8217;m a bit embarrassed to post it) but it might save you some time. I promise to build event.add to the API soon.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Music Hackday Boston</title>
+   <link href="http://dsingleton.co.uk//blog/music-hackday-boston"/>
+   <updated>2009-12-06T19:18:22+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/music-hackday-boston</id>
+   <content type="html">&lt;p&gt;A couple of weeks I made a trip to &lt;a href=&quot;http://boston.musichackday.org/&quot;&gt;Music Hackday Boston&lt;/a&gt;. The 4th in a series of &lt;a href=&quot;http://musichackday.org/&quot;&gt;music hackdays&lt;/a&gt;, designed to bring together smart and passionate people to &lt;a href=&quot;http://musichackdayboston.pbworks.com/Projects&quot;&gt;hack on music technology&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;#8217;t go in to grand detail as there have already been some excellent write-ups from &lt;a href=&quot;http://developer.yahoo.net/blog/archives/2009/11/music_hack_day_boston.html&quot;&gt;Ben&lt;/a&gt;, &lt;a href=&quot;http://blog.hypem.com/2009/11/music-hack-day-boston-wrap-up/&quot;&gt;Anthony&lt;/a&gt; and &lt;a href=&quot;http://notes.variogr.am/post/255966005/music-hack-day-boston&quot;&gt;Brian&lt;/a&gt;, but it&amp;#8217;s by far the best hackday i&amp;#8217;ve attended. A perfect combination of smart people, brilliant technology and a great venue, even the wifi worked properly. It&amp;#8217;s just a shame I didn&amp;#8217;t find much time to hack on anything myself.&lt;/p&gt;
+
+&lt;p&gt;Another highlight were the panels. I&amp;#8217;m not usually a big fan of panels at hackdays, they tend to distract from the task at hand, but with the wealth of smart in the room it would have been foolish not to have them. There were only 3 but they&amp;#8217;re well worth watching and featured people who really know what they&amp;#8217;re talking about. Videos for: &lt;a href=&quot;http://boston.musichackday.org/index.php?page=Starting+a+Music+Business&quot;&gt;Starting a Music Business&lt;/a&gt;, &lt;a href=&quot;http://boston.musichackday.org/index.php?page=Music+Discovery+Panel&quot;&gt;Music Discovery&lt;/a&gt; and &lt;a href=&quot;http://boston.musichackday.org/index.php?page=The+Future+of+Music&quot;&gt;The Future of Music&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hack-wise I was most impressed by &lt;a href=&quot;http://www.dankantor.com/&quot;&gt;Dan Kantor&amp;#8217;s&lt;/a&gt; &lt;a href=&quot;http://musichackdayboston.pbworks.com/playdarTunes&quot;&gt;playdarTunes&lt;/a&gt;. An iTunes like web-interface that you populate by upload your iTunes library file and then play tracks through &lt;a href=&quot;http://playdar.org&quot;&gt;Playdar&lt;/a&gt; (as it&amp;#8217;s all local content, in theory). It&amp;#8217;s similar in principle to the &lt;a href=&quot;http://player.playlick.com/&quot;&gt;Playlick player&lt;/a&gt; (James introduced me to Dan, in fact) and I can&amp;#8217;t help but get excited about this idea of portable music collections. Where not only is the audio portable, but the library itself could come from different sources and is sharable. What I really want is a slick web-based iTunes which lets me select which of my libraries (or friends libraries) I want to browse and listen to. &lt;/p&gt;
+
+&lt;p&gt;We&amp;#8217;re getting closer and closer to that ideal thanks to technology like Playdar, Scrobbling and HTML5 audio. Since Boston there&amp;#8217;s been more talk on the Playdar mailing list about exposing a &lt;code&gt;get library&lt;/code&gt; type call for a resolver. This would be handy for local content in projects like playdarTunes, but even more so for larger resolvers/services - Imagine &lt;a href=&quot;http://magnatune.com/&quot;&gt;Magnatune&lt;/a&gt; providing that kind of library information, you could browse a library of their artists though your choice of interface and just play it. Hot.&lt;/p&gt;
+
+&lt;p&gt;I gave a couple of short talks to give an overview of the Last.fm API (panickedly put together on the plane) to help people use it, which was fun. The more interesting was the second one in a smaller room, lots of interesting discussion and questions. One of the common and surprising questions was about scrobbling, &amp;#8220;Who&amp;#8217;s allowed to do it?&amp;#8221;. A lot of people were under the impression it&amp;#8217;s a proprietary system, rather than a &lt;a href=&quot;http://www.last.fm/api/submissions&quot;&gt;completely open protocol&lt;/a&gt;. Getting more people scrobbling (on Last.fm, on other sites/services, on mobile, etc) is one of our aims for next year, so we have some serious work to do here.&lt;/p&gt;
+
+&lt;p&gt;I was a bit disappointed I didn&amp;#8217;t get to meet anyone from &lt;a href=&quot;http://libre.fm&quot;&gt;Libre.fm&lt;/a&gt;, who were supposed to be there. I&amp;#8217;ve been in touch with them before and was hoping to discuss improving exporting your data from Last.fm. It&amp;#8217;s always been possible, but it could definitely be easier.&lt;/p&gt;
+
+&lt;p&gt;A big thanks to organisers  &lt;a href=&quot;http://twitter.com/haynes_dave&quot;&gt;Dave Haynes&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/jonpierce&quot;&gt;Jon Pierce&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/plamere&quot;&gt;Paul Lamere&lt;/a&gt; who did an excellent job. Microsoft for providing facilities and &lt;a href=&quot;http://twitter.com/bwhitman&quot;&gt;Brian Whitman&lt;/a&gt; of the Echo Nest for being a gracious host.&lt;/p&gt; 
+
+&lt;p&gt;I&amp;#8217;m really looking forward to &lt;a href=&quot;http://stockholm.musichackday.org/&quot;&gt;Music Hackday Stockholm&lt;/a&gt; now.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jumping out of an aeroplane</title>
+   <link href="http://dsingleton.co.uk//blog/skydive"/>
+   <updated>2009-10-25T23:15:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/skydive</id>
+   <content type="html">&lt;p&gt;About 3 months ago I jumped out of a plane. From about 14,000 feet. It&amp;#8217;s something I&amp;#8217;ve wanted to do for years now, and i&amp;#8217;m glad I finally did. I&amp;#8217;m not sure I&amp;#8217;d do it again though.&lt;/p&gt;
+
+&lt;p&gt;I raised &lt;a href=&quot;http://justgiving.com/davidsingletonskydive&quot;&gt;just under £350&lt;/a&gt; for &lt;a href=&quot;http://www.justgiving.com/macmillan&quot;&gt;Macmillan Cancer Support&lt;/a&gt;, thanks to everyone who sponsored me.&lt;/p&gt;
+
+&lt;p&gt;A couple of friends are proper skydivers, they helped me organise the jump and even offered to jump with me and film it. Thanks to them you can see the whole thing, especially my face about 37 seconds in, pure terror.&lt;/p&gt;
+
+&lt;h3&gt;Video&lt;/h3&gt;
+
+&lt;object width=&quot;600&quot; height=&quot;330&quot;&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://vimeo.com/moogaloop.swf?clip_id=7225954&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&quot;&gt;&lt;embed src=&quot;http://vimeo.com/moogaloop.swf?clip_id=7225954&amp;amp;server=vimeo.com&amp;amp;show_title=1&amp;amp;show_byline=1&amp;amp;show_portrait=0&amp;amp;color=00ADEF&amp;amp;fullscreen=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;600&quot; height=&quot;330&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+&lt;h3&gt;Photos&lt;/h3&gt;
+
+&lt;p&gt;Loading up the plane&lt;/p&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3650497867/&quot; title=&quot;Loading up the plane by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3606/3650497867_6d44734224_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Loading up the plane&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt; Me and my tandem partner, Chris&lt;/p&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3650497009/&quot; title=&quot;Me and my tandem partner, Chris by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3547/3650497009_531c6f4047_m.jpg&quot; width=&quot;180&quot; height=&quot;240&quot; alt=&quot;Me and my tandem partner, Chris&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt; On the way down, coming in to land&lt;/p&gt;
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3651296120/&quot; title=&quot;On the way down by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2429/3651296120_917803aba5_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;On the way down&quot;/&gt;&lt;/a&gt;
+&lt;p&gt;More &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/sets/72157620133225977/&quot;&gt;photos on Flickr&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>JSON, Octal Numbers &amp;amp; Validation</title>
+   <link href="http://dsingleton.co.uk//blog/json-octal-validation"/>
+   <updated>2009-10-14T17:14:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/json-octal-validation</id>
+   <content type="html">&lt;p&gt;Now it&amp;#8217;s launched in London I&amp;#8217;ve been playing around with the Foursquare API. While it&amp;#8217;s not the best API i&amp;#8217;ve come across it gives you reasonable access to their data, so i&amp;#8217;ve been pretty happily building some small tools using their data.&lt;/p&gt;
+
+&lt;p&gt; hit a rather usual bug with JSON parsing for a Foursquare venue, in this case the &lt;a href=&quot;http://foursquare.com/venue/140854&quot;&gt;Bricklayers Arms&lt;/a&gt; (The home of Pub Standards). The JSON response looks something like this:&lt;/p&gt;
+
+&lt;pre&gt;
+&lt;code class=&quot;json javascript&quot;&gt;
+{
+    &quot;venue&quot;: {
+        &quot;id&quot;: 145975,
+        &quot;name&quot;: &quot;Bricklayers Arms&quot;,
+        &quot;address&quot;: &quot;31 Gresse St&quot;,
+        &quot;city&quot;: &quot;Camden Town&quot;,
+        &quot;state&quot;: &quot;Greater London&quot;,
+        &quot;zip&quot;: &quot;W1T 1&quot;,
+        &quot;phone&quot;: 02076365593,
+        &quot;geolat&quot;: 51.5176421,
+        &quot;geolong&quot;: -0.1334817,
+        &quot;stats&quot;: {
+            &quot;checkins&quot;: 0 
+        }
+    }
+}
+&lt;/code&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;Looks pretty reasonable, right? But my JSON parser chocked on this and called it invalid.  Running it through &lt;a href=&quot;http://www.jsonlint.com/&quot;&gt;JSON Lint&lt;/a&gt; gives a bit more information, but is still a bit vague:&lt;/p&gt;
+
+&lt;blockquote&gt;syntax error, unexpected TNUMBER, expecting &amp;#8216;}&amp;#8217; at line 9&lt;/blockquote&gt;
+
+&lt;p&gt;Let&amp;#8217;s see, line 9 is the phone number key/val, that seems like it should be valid, I mean the leading zero is odd but&amp;#8230; oh. You may, or may not, remember that standard notation for &lt;a href=&quot;http://en.wikipedia.org/wiki/Octal&quot;&gt;octal numbers&lt;/a&gt; is a leading 0, it&amp;#8217;s not something you run in to very often.&lt;/p&gt;
+
+&lt;p&gt;So why is an octal number invalid? Because the JSON spec doesn&amp;#8217;t explicitly support octal numbers as native types and parsers aren&amp;#8217;t compelled to either. Some may do, but this is probably more luck than judgement - a side effect of loose typing.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve reported the bug to the Foursquare team and it sounds like it&amp;#8217;ll be fixed shortly (as part of an API rewrite), in the mean time i&amp;#8217;ll be using a dirty regex to quote the offending number before parsing.&lt;/p&gt;
+
+&lt;p&gt;If there&amp;#8217;s one thing to take from this it&amp;#8217;s how important validation is, even if it does nothing more than prove it&amp;#8217;s not your bug. Looking at the original response and trying to work our why it didn&amp;#8217;t parse with validation would have been very painful, it&amp;#8217;s not a bug easily caught by a human, you need rigorous machine testing. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Music taste tube-lines</title>
+   <link href="http://dsingleton.co.uk//blog/music-taste-tube-lines"/>
+   <updated>2009-10-07T16:45:32+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/music-taste-tube-lines</id>
+   <content type="html">&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3990406530/&quot; title=&quot;Taste tube map sample by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2437/3990406530_a349d4ba1e.jpg&quot; width=&quot;500&quot; height=&quot;207&quot; alt=&quot;Taste tube map sample&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;View the  &lt;a href=&quot;http://dsingleton.co.uk/static/misc/tube_tags.pdf&quot;&gt;full map (PDF)&lt;/a&gt; covering almost 18 months of my scrobbled listening. I really want to print and wall mount this.&lt;/p&gt;
+
+&lt;p&gt;This is from an internal &lt;a href=&quot;http://last.fm&quot;&gt;Last.fm&lt;/a&gt; visualisation/tech demo. It&amp;#8217;s not publicly accessible at the moment, though hopefully it will be at some point soon. If you&amp;#8217;re desperate to see yours then poke me on Twitter and I can generate you one.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Micro-San Francisco recommendations</title>
+   <link href="http://dsingleton.co.uk//blog/san-francisco-tips"/>
+   <updated>2009-08-20T13:42:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/san-francisco-tips</id>
+   <content type="html">&lt;p&gt;A week later I still haven&amp;#8217;t written up my SF trip and as a friend asked for tips here&amp;#8217;s a micro version!&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;cite&gt; - &lt;a href=&quot;http://twitter.com/carlgaywood/status/3425639734&quot;&gt;@carlgaywood&lt;/a&gt;&lt;/cite&gt; @dsingleton any tips for San Francisco?&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;;These are mostly based in/around mission as that&amp;#8217;s where I stayed.&lt;/p&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://playfoursquare.com/venue/22250&quot;&gt;Papalote&lt;/a&gt; - Good mexican&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://playfoursquare.com/venue/11965&quot;&gt;Thirsty Bear Brewing Company&lt;/a&gt; - Local brewery, get the beer sampler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://playfoursquare.com/venue/19179&quot;&gt;Ritual Coffee Roasters&lt;/a&gt; - Amazing coffee&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://playfoursquare.com/venue/11833&quot;&gt;Dolores Park&lt;/a&gt; - Nice to sit in if sunny, amazing views&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://playfoursquare.com/venue/34970&quot;&gt;Birite creamery&lt;/a&gt; - amazing ice cream shop just near Delores Park&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://playfoursquare.com/venue/39848&quot;&gt;Four Barrel Coffee&lt;/a&gt; - more excellent coffee&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Also trying walking around Delores/Guerrero St area, nice shops including the &lt;a href=&quot;http://www.826valencia.org/&quot;&gt;pirate store
+&lt;/a&gt;, fun area to explore too.&lt;/p&gt;
+
+&lt;p&gt;Get an old fashioned tram to the ferry building, hire a bike a cycle across the golden gate bridge, get the ferry back. Have dinner in down town&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;#8217;t make this one, but get a bus to the top of twin peaks and look at the amazing all across SF. &lt;/p&gt;
+
+&lt;p&gt;Also, here are my photos from the trip;&lt;/p&gt;
+
+&lt;a title=&quot;View full photo set&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/sets/72157621850045095/&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2548/3809276667_d79801305c.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Top of Dolores Park, looking towards downtown&quot;/&gt;&lt;/a&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using iTunes Mac to rip CDs at good quality</title>
+   <link href="http://dsingleton.co.uk//blog/ripping-itunes-lame-quality"/>
+   <updated>2009-07-27T00:23:33+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/ripping-itunes-lame-quality</id>
+   <content type="html">&lt;p&gt;I haven&amp;#8217;t had to rip any CDs on my current laptop till now. I didn&amp;#8217;t have a decent ripper and I wouldn&amp;#8217;t be using the one built in to iTunes (it&amp;#8217;s rubbish). It&amp;#8217;s such a rare task to setup a good ripper that I have to go searching for all the details again.&lt;/p&gt;
+
+&lt;p&gt;This is a bit of a post self-reference in the future, hopefully it&amp;#8217;s helpful to you too&lt;/p&gt;
+
+&lt;p&gt;My tool of preference is &lt;a href=&quot;http://www.blacktree.com/projects/itunes-lame.html&quot;&gt;iTunes LAME&lt;/a&gt;. The quality is a vast improvement over the default iTunes encoder. There are some tricky parts to the installation and setup process, here&amp;#8217;s a bit of a guide.&lt;/p&gt;
+
+&lt;h2&gt;Installation and preferences&lt;/h2&gt;
+
+&lt;p&gt;First download the app, install and run. Ignore the encoding quality drop-down for now and edit your preferences.&lt;/p&gt;
+
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3758857643/&quot; title=&quot;iTunes LAME preferences by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3443/3758857643_873b62bce9.jpg&quot; width=&quot;411&quot; height=&quot;424&quot; alt=&quot;iTunes LAME preferences&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;You&amp;#8217;ll probably want to change your default destination (where the ripped files get put). You&amp;#8217;ll also want to change the naming scheme as the default is &lt;em&gt;Artist\Album\Track&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The naming scheme looks a bit esoteric. The &lt;code&gt;:&lt;/code&gt; is treated as a directory separator, as I assume backslash is reserved as an escape character. The full set of possible value and their equivalent value.&lt;/p&gt;
+
+&lt;dl&gt;&lt;dt&gt;%a&lt;/dt&gt;
+    &lt;dd&gt;Artist Name&lt;/dd&gt;
+    
+    &lt;dt&gt;%A&lt;/dt&gt;
+    &lt;dd&gt;Sort Artist&lt;/dd&gt;
+    
+    &lt;dt&gt;%b&lt;/dt&gt;
+    &lt;dd&gt;Album Artist&lt;/dd&gt;
+
+    &lt;dt&gt;%B&lt;/dt&gt;
+    &lt;dd&gt;Sort Album Artist&lt;/dd&gt;
+    
+    &lt;dt&gt;%c&lt;/dt&gt;
+    &lt;dd&gt;Composer&lt;/dd&gt;
+    
+    &lt;dt&gt;%C&lt;/dt&gt;
+    &lt;dd&gt;Sort Composer&lt;/dd&gt;
+    
+    &lt;dt&gt;%l&lt;/dt&gt;
+    &lt;dd&gt;Album Name&lt;/dd&gt;
+    
+    &lt;dt&gt;%L&lt;/dt&gt;
+    &lt;dd&gt;Sort Album Name&lt;/dd&gt;
+    
+    &lt;dt&gt;%t&lt;/dt&gt;
+    &lt;dd&gt;Track Name&lt;/dd&gt;
+    
+    &lt;dt&gt;%T&lt;/dt&gt;
+    &lt;dd&gt;Sort Track Name&lt;/dd&gt;
+    
+    &lt;dt&gt;%n&lt;/dt&gt;
+    &lt;dd&gt;Track Number&lt;/dd&gt;
+    
+    &lt;dt&gt;%y&lt;/dt&gt;
+    &lt;dd&gt;Year&lt;/dd&gt;
+    
+    &lt;dt&gt;%g&lt;/dt&gt;
+    &lt;dd&gt;Genre&lt;/dd&gt;
+    
+    &lt;dt&gt;%G&lt;/dt&gt;
+    &lt;dd&gt;Grouping&lt;/dd&gt;
+&lt;/dl&gt;&lt;p&gt;These are taken from &lt;a href=&quot;http://code.google.com/p/blacktree-itunes-lame/source/browse/trunk/English.lproj/EncodingHelp.rtf?r=35&quot;&gt;iTunes-LAME Encoding FAQ&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My preference is &lt;em&gt;Artist - Year - Album\Track Number - Track Name&lt;/em&gt;, which is &lt;code&gt;%a - %y - %l:%n - %t&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Encoding quality&lt;/h2&gt;
+
+&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3758844105/&quot; title=&quot;iTunes LAME setup by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm3.static.flickr.com/2631/3758844105_cbec1a7ae6.jpg&quot; width=&quot;418&quot; height=&quot;239&quot; alt=&quot;iTunes LAME setup&quot;/&gt;&lt;/a&gt;
+
+&lt;p&gt;It&amp;#8217;s been a good couple of years since I&amp;#8217;ve last setup LAME and most of the ripping flags seem to have changed, or moved on. Back in the day &lt;code&gt;--alt-preset standard&lt;/code&gt; (&amp;#8212;aps)was the best &amp;#8220;every day&amp;#8221; setting. That whole alt-preset range seems to have been replaced with a much more sensible &lt;code&gt;-V [0-9]&lt;/code&gt; scale, where &amp;#8212;aps is equivalent to &lt;code&gt;-V 2&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;m not going to get involved in quality wars, but given I have more HDD space than I did a few years ago, I&amp;#8217;m happy to rip at &lt;code&gt;-V 0&lt;/code&gt; - equivilent of the old &lt;code&gt;--alt-preset extreme&lt;/code&gt;. Not loss-less, but certainly good quality for headphones and my Hi-Fi.&lt;/p&gt;
+
+&lt;h2&gt;Ripping&lt;/h2&gt;
+
+&lt;p&gt;With everything setup, I just popped a CD in, hit export and 10 minutes later had some lovely MP3s. Easy.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reblogging the past</title>
+   <link href="http://dsingleton.co.uk//blog/reblogging-the-past"/>
+   <updated>2009-07-21T10:37:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/reblogging-the-past</id>
+   <content type="html">&lt;p&gt;Thanks to the beauty of the &lt;a href=&quot;http://archive.org&quot;&gt;Internet Archive&lt;/a&gt; I was able to find copies of all my old posts. An earlier  version of this site was powered by a Wordpress install and apparently I didn&amp;#8217;t make backups of the database. It&amp;#8217;s quite sad losing content, some of it was quite good and it&amp;#8217;s left lots of dead links.&lt;/p&gt;
+    
+&lt;p&gt;I&amp;#8217;m now using &lt;a href=&quot;http://tumblr.com&quot;&gt;Tumblr&lt;/a&gt; to power the blog part of my site. It allows you to post an entry with _any_ date, which means I can reenter all my old content with it&amp;#8217;s original date. An &lt;a href=&quot;http://web.archive.org/web/20070911174542/dsingleton.co.uk/&quot;&gt;archived version of my site&lt;/a&gt; gave me access to all my old blog posts and I&amp;#8217;ve now added to Tumblr with it&amp;#8217;s original publishing date.&lt;/p&gt;
+
+&lt;h3&gt;Unbreaking links&lt;/h3&gt;
+
+&lt;p&gt;The old Wordpress URL scheme is &lt;code&gt;/archive/*slug*/YYYY/MM/DD/&lt;/code&gt;, vs current blog URLs being &lt;code&gt;/blog/*slug*&lt;/code&gt;. To keep the old links working I&amp;#8217;ve added a &lt;code&gt;htaccess&lt;/code&gt; rule to &lt;a href=&quot;http://en.wikipedia.org/wiki/HTTP_301&quot;&gt;301 permanent redirect&lt;/a&gt; those old URLs to the new using mod_rewrite&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;
+    RewriteEngine On
+    
+    # Special cases where the slug has changed
+    RewriteRule ^archive/sxsw-day-1-in-an-aeroplane-over-the-sea/{0,1}.*$ /blog/sxsw-day-1 [R=permanent,L,NC] 
+    RewriteRule ^archive/post-dconstruct-a-review/{0,1}.*$ /blog/dconstruct-2006 [R=permanent,L,NC] 
+    RewriteRule ^archive/28/{0,1}.*$ /blog/xfn-icons-css [R=permanent,L,NC] 
+    
+    # Default case, redirect with slug
+    RewriteRule ^archive?/(.[^/.]*)/{0,1}.*$ /blog/$1 [R=permanent,L,NC]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The more I use mod_rewrite the less it confuses me. The 3 special cases here are for articles where I changed the slug (because it was overly long, or just bad) and the rest is handled by the bottom, more generic, redirect rule. They also silently drop any extra information from the Wordpress URL. So it will work with or without the date info that follows the slug.&lt;/p&gt;
+
+&lt;h3&gt;Resurrected posts&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;a href=&quot;http://dsingleton.co.uk/blog/fun-with-famfamfam-icons-and-jquery&quot;&gt;
+Fun with FamFamFam icons and jQuery&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;a href=&quot;http://dsingleton.co.uk/blog/xfn-icons-css&quot;&gt;
+Giving XFN more visibility through CSS2.1 Attribute Selectors&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&quot;http://dsingleton.co.uk/blog/official-truck-festival-lineup&quot;&gt;
+Truck Festival 2007 Lineup&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/panels-gender-confusion-and-a-rant&quot;&gt;
+Panels, gender, confusion and a rant&lt;/a&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/media-london-2007&quot;&gt;
+@media London 2007&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/upgrading-to-php5-on-os-x&quot;&gt;
+
+Upgrading to PHP5 on OS X&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/1-bit-audio-player&quot;&gt;
+1 Bit Audio Player&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/lastfm-xsl-tag-cloud&quot;&gt;
+A last.fm tag-cloud generated from XSL&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/pixel-art-space-invaders&quot;&gt;
+Pixel Art Space Invaders&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/ala-ruining-user-experience&quot;&gt;
+ALA “Ruining User Experience”&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/sxsw-round-up&quot;&gt;
+SXSW Day Three (and onwards)&lt;/a&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/sxsw-day-two&quot;&gt;
+SXSW Day Two&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/sxsw-day-one&quot;&gt;
+
+SXSW Day One&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/recent-downtime-upcoming-events&quot;&gt;
+Recent downtime &amp;amp; upcoming events&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/teaching-bad-practice&quot;&gt;
+Teaching Bad Practice&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+
+&lt;a href=&quot;http://dsingleton.co.uk/blog/code-golf-whats-your-handicap&quot;&gt;
+Code Golf: Whats your handicap?&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;
+    &lt;a href=&quot;http://dsingleton.co.uk/blog/dconstruct-2006&quot;&gt;Dconstruct 2006&lt;/a&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+    &lt;a href=&quot;http://dsingleton.co.uk/blog/google-code-search&quot;&gt;Google Code Search&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Trinity, 64 year atomic anniversary</title>
+   <link href="http://dsingleton.co.uk//blog/trinity-atomic-anniversary"/>
+   <updated>2009-07-17T14:41:27+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/trinity-atomic-anniversary</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Trinity_site&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Trinity_explosion2.jpeg/400px-Trinity_explosion2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;64 years ago, on July 16, 1945 Trinity was the first test of an atomic weapon. It&amp;#8217;s no hyperbole to say that it changed the world we live in forever. This isn&amp;#8217;t the kind of thing i&amp;#8217;d usually write about, but it&amp;#8217;s an important subject, and the quote from Oppenheimer is very moving (particularly the video).&lt;/p&gt;
+
+&lt;blockquote&gt;We knew the world would not be the same. A few people laughed, a few people cried, most people were silent. I remembered the line from the Hindu scripture, the Bhagavad-Gita. Vishnu is trying to persuade the Prince that he should do his duty and to impress him takes on his multi-armed form and says, &lt;strong&gt;&quot;Now, I am become Death, the destroyer of worlds.&quot;&lt;/strong&gt; I suppose we all thought that one way or another.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;cite&gt;-J. Robert Oppenheimer&lt;/cite&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;object width=&quot;400&quot; height=&quot;344&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/x39eRJA1aVU&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/x39eRJA1aVU&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; width=&quot;400&quot; height=&quot;344&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+
+&lt;p&gt;On a slightly happier note, i&amp;#8217;d recommend reading &lt;a href=&quot;http://www.amazon.co.uk/Surely-Feynman-Adventures-Curious-Character/dp/0393316041&quot;&gt;Surely You&amp;#8217;re Joking Mr Feynman&lt;/a&gt; by Richard Feyman. He worked on the trinity project, amongst other things and was a brilliant man. He was also a real character and has some very entertaining tales and an excellent read.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Testing the Tumblr API</title>
+   <link href="http://dsingleton.co.uk//blog/testing-tumblr-api"/>
+   <updated>2009-07-14T23:50:53+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/testing-tumblr-api</id>
+   <content type="html">&lt;p&gt;Just testing the Tumblr API. I&amp;#8217;ve been pulling content in to my personal site (&lt;a href=&quot;http://dsingleton.co.uk&quot;&gt;http://dsingleton.co.uk&lt;/a&gt;) via the JSON API using the &lt;em&gt;search&lt;/em&gt; parameter.&lt;/p&gt;
+
+&lt;p&gt;Looking up by slug for each article works for all except Open Tech 2009. For some reason it doesn&amp;#8217;t seem to be in the search index, as it&amp;#8217;s not even picked up when searching for the term &amp;#8220;open&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;Possibly explanations&lt;/p&gt;
+
+&lt;ol&gt;&lt;li&gt;Large articles aren&amp;#8217;t indexed for the search API - My open tech post was ~3,500 words. &lt;/li&gt;
+&lt;li&gt;That article is missing from the index due to a bug, possibly a caching error.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;The former sounds a little unlikely. While Tumblr is intended for short snappy posts I&amp;#8217;m sure there are much longer posts, and ~3,500 is not &lt;em&gt;that&lt;/em&gt; big.&lt;/p&gt;
+
+&lt;p&gt;Equally, i&amp;#8217;m not sure it&amp;#8217;s a caching bug as i&amp;#8217;ve edited it a couple of times in an attempt to invalid the cache. No joy there.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve contacted one of the Tumblr developers, hoping they can shed some light on the problem - or at least explain the search nuances I may be missing.&lt;/p&gt;
+
+&lt;p&gt;I also asked for a new API parameter, getBySlug. I wouldn&amp;#8217;t need to be mucking around with search if there was a simple method to look up an article by it&amp;#8217;s public slug (not the semi-private internal post ID).&lt;/p&gt;
+
+&lt;p&gt;A short term fix for me will be caching a map of slug =&amp;gt; id of the last 50 articles I added to my Tumble log (the most you can get form the API in one page) and using that to do the API lookup. It feels pretty kludgey requiring stateful information between requests to do this (or worse, make two requests per page).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Open Tech 2009</title>
+   <link href="http://dsingleton.co.uk//blog/open-tech-2009"/>
+   <updated>2009-07-14T23:35:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/open-tech-2009</id>
+   <content type="html">&lt;p&gt;Recently I went to &lt;a href=&quot;http://www.ukuug.org/events/opentech2009/&quot;&gt;Open Tech 2009&lt;/a&gt; &amp;#8220;&lt;em&gt;an informal, low cost, one-day conference on slightly different approaches to technology, democracy and community. This year&amp;#8217;s theme is &amp;#8220;Working on Stuff that Matters&lt;/em&gt;&amp;#8221;. This year it was held at University of London Union, central London.&lt;/p&gt;
+
+&lt;p&gt;This isn&amp;#8217;t your usual web conference, not £100+ ticket a head, no direct mention of code itself, no programming techniques. Just a group of people passionate about a subject.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/3687381515/&quot; title=&quot;Who Runs This Place/Power Diagram by David Singleton, on Flickr&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3609/3687381515_843c7cc4d2.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Who Runs This Place/Power Diagram&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There were 3 streams, with a couple of odd &amp;#8216;extra&amp;#8217; sessions, so these are just the ones I attended. Check out the &lt;a href=&quot;http://www.ukuug.org/events/opentech2009/schedule/&quot;&gt;full schedule&lt;/a&gt;. These are a combination of memory, discussion and scribblings in my notebook written up either the day after - or a week and a bit later. As such the quality and accuracy may vary&amp;#8230;&lt;/p&gt;
+
+&lt;h3&gt;Community and Democracy in Hijacked Space&lt;/h3&gt;
+
+&lt;p&gt;The day started with a talk a guy from &lt;a href=&quot;http://www.spacehijackers.co.uk&quot;&gt;Space Hijackers&lt;/a&gt;, a group of activists who do subversive and sometimes surreal protests. They&amp;#8217;re battling &amp;#8220;&lt;em&gt;constant oppressive encroachment onto public spaces of institutions, corporations and urban planners&lt;/em&gt;&amp;#8221;, there was a real impression of them caring deeply for the city they live in.&lt;/p&gt;
+
+&lt;p&gt;They talked through a couple of recent events, to better explain what they do. A &lt;a href=&quot;http://www.spacehijackers.co.uk/html/projects/funeral/funeral.html&quot;&gt;Funeral for the East End&lt;/a&gt; was an evangelical march to a newly opened Starbucks in Whitechapel (just down the road from me). Another was &lt;a href=&quot;http://www.spacehijackers.co.uk/html/projects/mayday1708/index.html&quot;&gt;May Day 2008/1708&lt;/a&gt;, a recreation of a proper 18th century May Day celebration, costumes, drinking, debauchery and all.&lt;/p&gt;
+
+&lt;p&gt;A few interesting points came up, how to stay &lt;em&gt;just&lt;/em&gt; on the right side of the law. One example was the May Day event, which was promoted as being co-hosted by the Police, who would provide a good old fashioned crackdown. Because of this the Police were given strict instructions &lt;em&gt;not&lt;/em&gt; to shut down the part. Some asked how these events affect regular people/businesses in the areas they happen; Apparently the last thing Space Jackers want to do is piss off local businesses or regular workers in stores they&amp;#8217;re protesting.&lt;/p&gt;
+
+&lt;h3&gt;Does Freedom of Information work? You Bet!&lt;/h3&gt;
+
+&lt;p&gt;Heather Brooke has been campaigning and fighting in the courts to free MPs expenses data using the Freedom of Information act. Long before the Telegraph broke the story with leaked reports, or the Guardian&amp;#8217;s crowd sourced analysis, she&amp;#8217;s been fighting to bring this to light. There was a recent &lt;a href=&quot;http://www.guardian.co.uk/politics/2009/may/15/mps-expenses-heather-brooke-foi&quot;&gt;Guardian article&lt;/a&gt; that does a much better job of explaining the story, so read that if you haven&amp;#8217;t already.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, most of her talk was explaining the story in that article, so not a lot was new to me. One interesting point raised was that now is a &lt;em&gt;great&lt;/em&gt; time for freedom of information. In the wake of the MPs expenses scandals anyone seen trying to suppress information looks very shady and getting FoI requests granted will be a lot easier. Another highlight was the comparison to Washington where expenses data is entirely open and it&amp;#8217;s not abused. Why? Because the politicians know that at any time a member of the public, or a journalist, &lt;em&gt;could&lt;/em&gt; check the authenticity of their claims. Accountability = honesty.&lt;/p&gt;
+
+&lt;p&gt;Reminds me of a 1984 quote, but in reverse; &amp;#8220;&lt;em&gt;There was of course no way of knowing whether you were being watched at any given moment. How often, or on what system, the Thought Police plugged in on any individual wire was guesswork. It was even conceivable that they watched everybody all the time&amp;#8221;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Making things happen&lt;/h3&gt;
+
+&lt;p&gt;The titular session of the day started with Tom Loosemore from &lt;a href=&quot;http://www.4ip.org.uk/&quot;&gt;4iP&lt;/a&gt; asking what are the barriers to making things happen? It used to be finding developers will to work on these projects, but now? The law. The biggest stumbling block faced by projects is legality, copyright and licensing.&lt;/p&gt;
+
+&lt;p&gt;A couple of interesting points were; the angrier the letter, the less likely they are to press a legal matter (if they could, they would already) and &lt;em&gt;be nice to lawyers&lt;/em&gt;. Mostly yours, having a good lawyer on your side is invaluable, buy them sweets if you need to.&lt;/p&gt;
+
+&lt;p&gt;Following on was Tom Steinberg of mySociety, with a really interesting and original session. With the MPs expenses review there is a change to take proposals to the review board and give suggestions. The session started with a blank document and Tom built up an ideal-world wish list of features that would make up a public expenses system. All the suggestions came from the audience, it was a really interesting format for a session. Very in keeping with the mood of the day in general.&lt;/p&gt;
+
+&lt;p&gt;Next up was pretty much the same thing but for &lt;a href=&quot;http://www.theyworkforyou.com/freeourbills/&quot;&gt;Free our bills&lt;/a&gt;. A few common themes between two emerged, most notably version tracking, attribution and annotation. 3 very simple ideas that, I think, need to be baked in to any system like this, it&amp;#8217;s utterly essential. As I mentioned earlier; Accountability = honesty. These concepts are at the heart of transparency, from these everything else can flow.&lt;/p&gt;
+
+&lt;h3&gt;10 cultures - Bill Thompson&lt;/h3&gt;
+
+&lt;p&gt;The session title here is a geeky joke, a binary play on the &lt;a href=&quot;http://en.wikipedia.org/wiki/The_Two_Cultures&quot;&gt;Two Cultures&lt;/a&gt; - A lecture/thesis by C. P. Snow, something I wasn&amp;#8217;t familiar with before. The basic idea was &amp;#8220;the breakdown of communication between the &amp;#8220;two cultures&amp;#8221; of modern society — the sciences and the humanities — was a major hindrance to solving the world&amp;#8217;s problems.&amp;#8221; Ie., if those in politics, in power, better understood science and technology then humanity would be much better off.&lt;/p&gt;
+
+&lt;p&gt;Bills main point was asking how we can bridge the divide between these two cultures today? It&amp;#8217;s pretty clear that government doesn&amp;#8217;t &amp;#8220;get&amp;#8221; tech very well. This is because there are a whole generation growing up without a basing in these technologies, suggesting we need to scrap ICT in schools and replace it with Comp. Sci. - I don&amp;#8217;t agree here. People don&amp;#8217;t need to know the details of code, just understand what it does more clearly.&lt;/p&gt;
+
+&lt;p&gt;He suggests also that programming needs to be ingested in to all culture, not just geeks. That we need good role models that those from the &amp;#8220;other&amp;#8221; culture can identify, surprisingly RMS is not a good candidate here&amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;The only let down in this session was the &lt;em&gt;overly&lt;/em&gt; jokey tone. While a presentation full of laughs is always a good thing (see Goldacre below), it felt like a lot of the audience questions were dismissed with a bit of a joke, which is a shame because some of those question were very well put. Particularly a comment suggesting that learning programming is not the best way to get in to the &amp;#8216;geek&amp;#8217; cultural mind set - or that geeks need to be more politicised (though that&amp;#8217;s not so much a problem with the audience here)&lt;/p&gt;
+
+&lt;h3&gt;Beyond Bad Science - Ben Goldacre&lt;/h3&gt;
+
+&lt;p&gt;The superstar of the afternoon, I suppose. He&amp;#8217;s written the Guardian&amp;#8217;s Bad Science column since 2004, which has spawned a very widely read blog and a book or two. He generally takes on quack medicine and the horrible misrepresentation of science in the media.&lt;/p&gt;
+
+&lt;p&gt;Science reporting has two big problems. 1) Regurgitating press releases without checking their validity and 2) sensationalism, popular stories have higher readership and thus make more money.&lt;/p&gt;
+
+&lt;p&gt;Next he discussed the power of blogs, why Bad Science and its ilk have had such importance. They&amp;#8217;re instant, can focus on more detail than MSM and most importantly they can overlap and build up bigger pictures. One mildly angry blog mocking a science article is a nice read, a network of them sheds light on greater problems.&lt;/p&gt;
+
+&lt;p&gt;There was also a quick mention of Spine Wizards suing &lt;a href=&quot;http://www.simonsingh.net/&quot;&gt;Simon Singh&lt;/a&gt;, and how this is just putting the spot light on them ever more. It&amp;#8217;s essentially a mini &lt;a href=&quot;http://en.wikipedia.org/wiki/Streisand_effect&quot;&gt;Streisand effect&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He mentioned someone data-mining sites of the members of the British Chiropractic Association, looking for terms/services advertised and comparing against the code and services endorsed by BCA. Also, how these organisations have taken their sites down to try and perturb their opponents. Taking down their own sites as a defense. Moral of the story? Don&amp;#8217;t fuck with geeks. And these are just the ones doing it because they believe in it, not for the lulz.&lt;/p&gt;
+
+&lt;p&gt;To be honest, i&amp;#8217;d not really followed Bad Science seriously. I&amp;#8217;d read the odd article I was linked to, but I wasn&amp;#8217;t overly familiar with Ben or his style. Frankly, he&amp;#8217;s fucking hilarious. If being a dual-class Doctor/journalist doesn&amp;#8217;t work out I&amp;#8217;m pretty sure he could do stand up comedy. I&amp;#8217;ll definitely try and see more of his talks in the future.&lt;/p&gt;
+
+&lt;h3&gt;Web of Power - what&amp;#8217;s next after politicians?&lt;/h3&gt;
+
+&lt;p&gt;This talk was the highlight of the day for me, taking 4 full pages of notes. Presented by Richard Pope and Rob Mckinnon, two great speakers, and both absolutely passionate about what they do. The theme of the session was Power. Who has it, and what we know about them. &lt;a href=&quot;http://docs.google.com/Present?docid=dntcxg9_54fvq668qk&quot;&gt;Slides available&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The diagram (as pictured at the top of this post) is from &lt;a href=&quot;http://www.amazon.co.uk/Who-Runs-This-Place-Anatomy/dp/0719565642&quot;&gt;Who runs this place&lt;/a&gt; by Anthony Sampson. A wonderful book, which i&amp;#8217;ve since bought and plan on reading very soon - I suggest you do the same. There was a nice intro showing various powerful people moving between the different spheres of power. Did you know Tony blair is currently on the board of 2 banks? I didn&amp;#8217;t.&lt;/p&gt;
+
+&lt;p&gt;It also made the excellent point that &amp;#8220;our&amp;#8221; coverage of these areas of power is very lop sided. Sites like those from &lt;a href=&quot;http://www.mysociety.org/&quot;&gt;MySociety&lt;/a&gt; do a great job of covering government, whitehall, MPs, but we that&amp;#8217;s only a part of it. What about business? Well at rewired state some folks made &lt;a href=&quot;http://ukcompani.es&quot;&gt;Companies Open House&lt;/a&gt;, an open and API-providing version of the official Companies House site, giving data about registered companies. But that&amp;#8217;s limited, some of the data requires payment, like the board of directors for a company. There&amp;#8217;s a lot more work to do here, and this talk was a brilliant call to action.&lt;/p&gt;
+
+&lt;p&gt;In comparison to the UK the USA is doing an excellent job with more transparent data. For example &lt;a href=&quot;http://usaspending.gov&quot;&gt;usaspending.gov&lt;/a&gt; displays data on Federal spending, including which contractors the money was spent with. Apparently the UK gov. doesn&amp;#8217;t track company numbers for suppliers, this makes building anything on top of this data really hard. Unique identifiers (such as company number) are vastly more useful than a string of &amp;#8220;BOEING&amp;#8221;, which of the probably half dozen different Boeing companies did you mean?&lt;/p&gt;
+
+&lt;p&gt;This got me thinking about the usefulness of sites like theyworkforyou, or companies open house. They don&amp;#8217;t just provide information, they provide persistence of both identification and destination. For example, with a companies house number you can link to the companies open house site. Incredibly simple. But is there a way to do this for, say, a member of a companies board, or a product? The usefulness here is an established unique identifier (even a defacto one) and a (at least semi) authoritative site that represents that resource.&lt;/p&gt;
+
+&lt;p&gt;Is Companies Open House the perfect representation of a company in the UK? Probably not, but if I link to a company there I can be sure that you&amp;#8217;ll find it useful and could find information more easily from there than here. Now this starts sounding like the slightly mucky world of the semantic web - lowercase intended. These sites aren&amp;#8217;t 100% percent perfect representations of resources, they don&amp;#8217;t need to be as rigid as RDF, they are essentially cow paths. They represent an emergent mapping of the underlying power system. They give just enough semantic links and meaning to let someone scrape a combination of these sites and show wonderful data and results. The more resources we have mapped the better.&lt;/p&gt;
+
+&lt;p&gt;There was also a quick discussion of Richard&amp;#8217;s site &lt;a href=&quot;http://www.thestraightchoice.org/&quot;&gt;Straight Choice&lt;/a&gt; which tracks election leaflet claims, as so many are made but forgotten post-election. It could also be used in the future for fact-checking those leaflets, validating the claims and exposing parties making fraudulent ones.&lt;/p&gt;
+
+&lt;p&gt;Another interesting point was super market loyalty cards. I don&amp;#8217;t have one, I find them annoying and invasive. It&amp;#8217;s a lot like scrobbling on Last.fm, you tell the super market exactly what you buy and when you buy it. We use the term attention data, and this is exactly the same concept. This gives them the power to do massive market analysis, it&amp;#8217;s very very powerful data. However, it&amp;#8217;s of no use to the user. Sure they might get some vouchers to save a few quid once a year, but I want access to the data itself, that&amp;#8217;s way more useful.&lt;/p&gt;
+
+&lt;p&gt;And to tie in to my previous points about identification and authoritative linking, it should alert me to news about companies I buy from most. Or companies against my political and moral positions. Is Company A, who I spend £X a month, actually evil (subject to personal preference). Are they killing children in 3rd world countries, should I boycott them? Or a less political example, I buy Product B 20 times in 3 months, maybe I should consider buying it in bulk? Or, health analysis based on what you&amp;#8217;ve bought, which incidentally is something Last.fm&amp;#8217;s healthcare provider do. You earn healthcare points if you give them your club card and spend X amount on fruit and veg.&lt;/p&gt;
+
+&lt;p&gt;Getting the data is hard though, it was mentioned some show you data through their own sites, or that you can request exports, though the format and availability is unclear. This is something that really needs looking in to. There&amp;#8217;s an absolutely killer oppertunity for a 3rd party site to do this amazingly well, assuming you can get the data in. I hate to say it, but in this economy a site that offered money saving advice based on your loyalty card purchase history, something the supermarket itself would never do, would be extremely popular.&lt;/p&gt;
+
+&lt;p&gt;A recent project of mine has been taking an export of my bank transactions and trying to build a useful, personal, site around them. Online banking sites are notoriously bad at being useful - usually under the banner of security. What I want is a &lt;em&gt;good&lt;/em&gt; site or app based on my transaction data. There&amp;#8217;s incredibly interesting and useful data in there. I can work out my fixed outgoings, my balance at the end of each month, if i&amp;#8217;m trending up or down, how am I saving, my big purchases, my frequent purchases, travel costs. And that was just with the quick and dirty CSV/PHP version.&lt;/p&gt;
+
+&lt;p&gt;What I really want to do with that data is get it in SQLite, wrap a really power framework around it and turn it in to a proper account management app that I have 100% control over. This is definitely going to be one of my main project for the next few months, so expect more posts about it. The same principle applies to this super market data, i&amp;#8217;d happily use a card if I could get hold of the data easily. Basically, just let me get my data (easily) and do awesome stuff with it.&lt;/p&gt;
+
+&lt;h3&gt;Ephemerality? Real time web vs persistence&lt;/h3&gt;
+
+&lt;p&gt;My second favourite talk of the day. Lots of cross over with ideas i&amp;#8217;ve been thinking about recently and projects I&amp;#8217;ve been working on. The slides also featured a PKD quote (slightly re-appropriated), which is always good.&lt;/p&gt;
+
+&lt;p&gt;The opening discussion was  &amp;#8220;do we need to remember everything?&amp;#8221;. Forgetting is useful, as humans we rely on it, we forget details and remember the important bits and a general overview. Do I really care what track I listened to 3 months ago? 99% of the time, no I don&amp;#8217;t. I care far more about the abstract representation, what kind of music was I listening to 3 months ago. The further back you go the less you need to care about detail, 3 months ago I&amp;#8217;m interested in what artists I liked, 3 years ago genre&amp;#8217;s are more useful reference points.&lt;/p&gt;
+
+&lt;p&gt;This abstraction gives context for the time period, &amp;#8220;The summer I went to SXSW&amp;#8221;, &amp;#8220;The year I discovered hip hop&amp;#8221;, etc. It&amp;#8217;s really quite powerful. There was mention of a version of a complete works of Shakespear which includes notes detailing the nuance of the language &lt;em&gt;of the time&lt;/em&gt;. This gives you a much clearer context to understand the work. But what if you apply this idea to not just you, but your friends too, then you get social context, or a &amp;#8220;social atlas&amp;#8221;.&lt;/p&gt;
+
+&lt;p&gt;This is something that can operate on smaller time scales, I &lt;em&gt;really&lt;/em&gt; want to know the abstracted trends between my friends for the last week, or month. It&amp;#8217;s something we fail to do well at Last.fm, personal charts are great, friends charts are much harder but potentially incredibly useful. Have half a dozen of my friends said they&amp;#8217;re attending the same gig? There&amp;#8217;s a very strong chance I&amp;#8217;d want to go to. The same applies if lots of friends have discovered the same artist recently.&lt;/p&gt;
+
+&lt;p&gt;However, sometimes you do care about a very particular date or detail, not the abstraction. This can be hard, humans don&amp;#8217;t remember all the details, we remember bits. We remember a detail, that reminds us of another detail and &lt;em&gt;bang&lt;/em&gt;, we remember the information we wanted.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#8217;ve found myself doing this a lot. A really interesting example was looking at my bank statement &amp;#8220;Holy crap, when did I take £80 out of a cash machine at 10am?&amp;#8221;. I had no idea, fraud perhaps? I checked through iCalendar, nothing. Most of my calendars are feeds for &lt;em&gt;future&lt;/em&gt; events from sites like Last.fm, Facebook, Upcoming, so there were pointless and going through each site looking at my past events felt like hard work. Instead I checked twitter, went back through my history and discovered a tweet from that day - visiting Portsmouth for a day trip. This immediately triggered the memory of taking out a bunch of cash at the start of the day in case I couldn&amp;#8217;t find a cash point, problem solved.&lt;/p&gt;
+
+&lt;p&gt;There&amp;#8217;s a lot of cross over here with my lifestream app. The current version is fed by RSS and is as transient as it&amp;#8217;s source. Ideally it should record everything locally, that&amp;#8217;s something I really need to do. I&amp;#8217;d also like to do the same and permanently log what my friends have been doing too. It&amp;#8217;s very similar to the idea behind friend feed, but ultimately more idealistic and personal.&lt;/p&gt;
+
+&lt;h3&gt;Location and Privacy&lt;/h3&gt;
+
+&lt;p&gt;Next up was Gary Gale, from the Y! Geo technologies team. He discussed the changing attitude towards privacy online. Online privacy is a relatively new model, and compared to existing offline privacy models there&amp;#8217;s an increasing move towards opt-in than opt-out.&lt;/p&gt;
+
+&lt;p&gt;For example, in the UK if you&amp;#8217;re on the electoral register you have to actively opt-out of being on a commercial address database. Equally your telephone number is available publicly unless you go ex-directory. This is pretty normal here, no one&amp;#8217;s too bothered, which is interesting considering both these sources of data can be used for very physical annoyance, post-spam and direct dialing calls.&lt;/p&gt;
+
+&lt;p&gt;Compare this with more recent online examples like Facebook, Dopplr or Fire Eagle. They tend towards being more opt-in, with granular options for who can see what about you. I&amp;#8217;m not sure I entirely agree, while opt-in makes a lot more sense for geo-aware applications, the majority of sites still tend towards being totally open, with options to hide your information.&lt;/p&gt;
+
+&lt;p&gt;An interesting point about geo-privacy was that you need to be able to disable it. That&amp;#8217;s great, but if it&amp;#8217;s something you use 99% of the time then there&amp;#8217;s the risk of guilt by omission.&lt;/p&gt;
+
+&lt;h3&gt;Local web beyond the hype&lt;/h3&gt;
+
+&lt;p&gt;I only caught the end of this talk, after leaving the energy talk in the main room. There was some nice discussion of different community/local sites. There was a great example of a small village with a simple wordpress blog that had ~75% readership. I&amp;#8217;d like to see the full set of slides for this talk if anyone has them?&lt;/p&gt;
+
+&lt;h3&gt;No2ID and Open Rights Group: Intercept Modernisation Programme&lt;/h3&gt;
+
+&lt;p&gt;This session started with a &amp;#8220;very special guest&amp;#8221;, Sir Bonar Neville-Kingdom a senior advisor in Whitehall and Data Sharing Czar. A rather prim and proper gentleman in a full suit took to the stage and started giving talking, at one point quoting some ancient Sumerian(?) poetry. It took a minute, but it dawned on the audience he was a pretty elaborately staged troll, put on by the Open Right Group.&lt;/p&gt;
+
+&lt;p&gt;The whole session was about &lt;a href=&quot;http://www.openrightsgroup.org/orgwiki/index.php/Intercept_Modernisation&quot;&gt;IMP&lt;/a&gt;, the talks were entirely useful, covering the idea, why it will fail, etc. To be honest, by this point in the day, in a very hot room I kind of zoned out. The talks just didn&amp;#8217;t strike a chord with me, there was little interesting content. Showing the flaws in the proposed system is best left for campaigning, i&amp;#8217;d have preferred a discussion on how much we need a system like this and how we&amp;#8217;d design a better one.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Using xargs like I mean it, a bash example</title>
+   <link href="http://dsingleton.co.uk//blog/using-xargs-bash-example"/>
+   <updated>2009-07-13T22:21:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/using-xargs-bash-example</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Using xargs like I mean it. svn st * | grep &amp;#8220;^ C&amp;#8221; | cut -c 8- | xargs svn revert&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://twitter.com/dsingleton/status/2616994594&quot;&gt;http://twitter.com/dsingleton/status/2616994594&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;A couple of people asked me to explain what this did, so here&amp;#8217;s a quick 2 minute explanation (I&amp;#8217;ll assume you&amp;#8217;re familiar with unix pipes)&lt;/p&gt;
+
+&lt;p&gt;First, what was I trying to do? I&amp;#8217;d just merged a large branch back down to trunk and for some reason it had a huge number of SVN property conflicts. I wanted to resolve or revert all of these before committing the reset of my changes.&lt;/p&gt;
+
+&lt;p&gt;I could have fixed them individually, but that&amp;#8217;s a lot of repetition and there are more elegant ways to do it programmatically.&lt;/p&gt;
+
+&lt;p&gt;So how does this resolve only my property conflicts?&lt;/p&gt;
+
+&lt;p&gt;First get a list of all modified files in our SVN respiratory (in my case, this was actually multiple repositories)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;svn st *
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I&amp;#8217;m only interested in the property conflicts though. Property status codes are differentiated from regular status changes by a space prefix. The grep filters our list of SVN changes to just these.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;grep &quot;^ C&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output at this stage looks something like &amp;#8221; C     path/to/file&amp;#8221; (for each matched file). I want just the file name and need to strip the preceding information. Luckily the length of this prefixed information is a constant 7 characters. Cut lets you chop lines based on delimiters (like tabs, or commas), or by character, here I use it to get the 8th character and onwards&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cut -c 8-
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;At this point we have a list of file paths, one per line. xargs is a command that can take another command (and it&amp;#8217;s options, flags, etc) and run it for a large list of files. The files are passed via standard input, one file per line. So this is telling xargs to run svn revert for each of the files passed from the previous commands.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;xargs svn revert
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The end result is that all my property change conflicted files have been reverted, though I could have equally resolved, or told SVN to use my version.&lt;/p&gt;
+
+&lt;p&gt;I hope this is a nice little example of the power of the unix command line philosophy, lots of small commands - that do one thing very well - chained together with pipes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Installing Playdar on OS X 10.4</title>
+   <link href="http://dsingleton.co.uk//blog/playdar-os-x-10-4"/>
+   <updated>2009-04-09T17:03:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/playdar-os-x-10-4</id>
+   <content type="html">&lt;p&gt;Congrutulations, you&amp;#8217;re on an outdated verison of OS X, but you still want to play with cool things like Playdar. Here&amp;#8217;s a hassle filled guide to compiling it from source.&lt;/p&gt;
+
+&lt;p&gt;To do this you&amp;#8217;ll need XCode (2.4 for Tiger), Macports and Git to start.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20262&quot;&gt;XCode 2.4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.macports.org/install.php&quot;&gt;MacPorts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://metastatic.org/source/git-osx.html&quot;&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you&amp;#8217;ve got those tools installed you can focus on Playdar itself. First, we need to load Playdar specific dependecies via mac ports. This is easy, but takes a little while.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo port install cmake boost ossp-uuid uriparser taglib git-core sqlite3
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Next grab playdar from Git;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ git clone git://github.com/RJ/playdar.git
+$ cd playdar
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now to build it from source.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd build
+$ cmake ..
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I&amp;#8217;m not 100% sure this is a 10.4 specific issue, but i&amp;#8217;ve had the same thing happen on two machines. CMake will find an old version of sqlite that won&amp;#8217;t compile with Playdar. The quickest hack is to move/backup the &amp;#8220;incorrect&amp;#8221;, sym-link the correct version in it&amp;#8217;s place and then make as normal.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo mv /usr/lib/libsqlite3.dylib{,.bk}
+$ sudo ln -s /opt/local/lib/libsqlite3.dylib /usr/lib/libsqlite3.dylib
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Finally we can compile the playdar bin itself.
+$ make&lt;/p&gt;
+
+&lt;p&gt;Undo our sqlite path hack (if you had to do it)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo mv -f /usr/lib/libsqlite3.dylib{.bk,} 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Make it!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ make
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You should now have a playdar file in bin/. Hurrah, the hard bit is over now to do our DB setup and config.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cd playdar 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I had this on one machine but not the other, use the normal instructions in INSTALL.txt unless you get an SQLite error about &amp;#8220;NOT, in which case use this.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sed 's/IF NOT EXISTS //' etc/schema.sql | sqlite3 ../collection.db
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Load your music collection. Depending on the size this can take a while.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ./bin/scanner ./collection.db ~/Music/MP3/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Run it.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ./bin/playdar -c ./etc/playdar.conf
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Going public (again)</title>
+   <link href="http://dsingleton.co.uk//blog/twitter-going-public-again"/>
+   <updated>2009-03-21T22:30:25+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/twitter-going-public-again</id>
+   <content type="html">&lt;p&gt;I started using Twitter a couple of years ago, following the buzz of SXSW &amp;#8216;07. I started out, as almost everyone did, with my statuses open to everyone. There seemed no reason to be private with my status updates. Twitter was a (relatively) new and tiny service, known only to power-geek types so privacy concerns didn&amp;#8217;t really enter in to it.&lt;/p&gt;
+&lt;p&gt;As I used Twitter more, and Twitter itself became more popular, my updates became more candid - in both opinion and personal information. That&amp;#8217;s a good thing, Twitter thrives on open and honest messages. However, around the same time I got a lot more concerned about privacy. There was a variety of reasons behind this, but a big factor was dealing with a handful of&amp;#8230; unhappy and not very nice users. Suffice to say the internet is a very serious business to some people, and this shifted my mindset from the hypothetical to a more literal.&lt;/p&gt;
+&lt;p&gt;I switched my updates to private and was pretty happy with this for some time. But over time the decision irked me, I still feel private updates go against the &amp;#8220;spirit&amp;#8221; of Twitter. It also caused some technical annoyances, simple things like using search.twitter.com is broken if you&amp;#8217;re searching your own private updates. It makes API/feed access all the more difficult too.&lt;/p&gt;
+&lt;p&gt;Tonight I switched my status updates back to public. I&amp;#8217;m not sure if it&amp;#8217;ll stay like that permanently, but we&amp;#8217;ll see. While thinking about that decision I thought about my reasons for going private in the first place;&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Opinions - I tend to be pretty forthright about things I don&amp;#8217;t like. With the internet every becoming a permanent archive of everything how would future employers feel about crass heat-of-the-moment comments? The solution here? A little restraint on my part, which all things considered is probably a good thing anyway.&lt;/li&gt;
+&lt;li&gt;Personal Information - &amp;#8220;I&amp;#8217;m in place X, doing thing Y!&amp;#8221;. This one&amp;#8217;s trickier, after all, one of the best things about Twitter is someone else responding &amp;#8220;Me too&amp;#8221;. But they shouldn&amp;#8217;t have to be following me for that to work. Two solutions here, share less -or- stop caring. I think i&amp;#8217;ve ended up somewhere in the middle. &lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;So that about brings things full circle. In an ideal world there&amp;#8217;s a halfway solution between walled-garden privacy and 100% publicness, but for now the technology just isn&amp;#8217;t there and i&amp;#8217;m not sure it&amp;#8217;s exactly what people want.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Giving XFN more visibility through CSS2.1 Attribute Selectors</title>
+   <link href="http://dsingleton.co.uk//blog/xfn-icons-css"/>
+   <updated>2007-09-12T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/xfn-icons-css</id>
+   <content type="html">&lt;p&gt;As I was redesigning a bit lately and making use of &lt;a href=&quot;http://www.famfamfam.com/&quot;&gt;FamFamFam’s&lt;/a&gt; very nice &lt;a href=&quot;http://www.famfamfam.com/lab/icons/silk/&quot;&gt;Silk icon set&lt;/a&gt; (used under the &lt;abbr title=&quot;Creative Commons&quot;&gt;CC&lt;/abbr&gt; Attribution License) and    it occurred to me I could use CSS2.1&amp;#160;&lt;a href=&quot;http://www.w3.org/TR/CSS21/selector.html#attribute-selectors&quot;&gt;Attribute Selectors&lt;/a&gt; to show the relationships the XFN defines.&lt;/p&gt;
+&lt;p&gt;
+If you’re not familiar with XFN this &lt;a href=&quot;http://en.wikipedia.org/wiki/XHTML_Friends_Network&quot;&gt;wikipedia article&lt;/a&gt; gives a good introduction.&lt;/p&gt;
+
+&lt;p&gt;In the WordPress blogroll you get the option to add &lt;abbr title=&quot;XHTML Friends Network&quot;&gt;XFN&lt;/abbr&gt; relationships to the people/links, as I’ve been on a bit of a microformats kick i’ve been thinking how I can make better use&lt;/p&gt;
+&lt;h3&gt;The XHTML&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&quot;&lt;strong&gt;friend met neighbor&lt;/strong&gt;&quot; xhref=&quot;http://www.simoncoltman.net/&quot;&amp;gt;Simon Coltman&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&quot;&lt;strong&gt;friend met&lt;/strong&gt;&quot; xhref=&quot;http://fberriman.com/&quot;&amp;gt;Frances Berriman&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&quot;&lt;strong&gt;acquaintance&lt;/strong&gt;&quot; xhref=&quot;http://moglenstar.net/&quot;&amp;gt;Max Glenister&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&quot;&lt;strong&gt;friend met co-worker&lt;/strong&gt;&quot; xhref=&quot;http://www.ricardocabello.com&quot;&amp;gt;Ricardo Cabello&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&quot;&lt;strong&gt;friend met&lt;/strong&gt;&quot; xhref=&quot;http://www.krisswatt.co.uk&quot;&amp;gt;Kriss Watt&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;The CSS&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;ul.xfn_example a {
+background-image: url(/images/icons/user_gray.gif);
+}
+
+ul.xfn_example a[rel*=&quot;&lt;strong&gt;acquaintance&lt;/strong&gt;“] {
+background-image: url(/images/icons/user_blue.gif);
+}
+
+ul.xfn_example a[rel*=&quot;&lt;strong&gt;friend&lt;/strong&gt;“] {
+background-image: url(/images/icons/user_green.gif);
+}
+
+ul.xfn_example a[rel*=&quot;&lt;strong&gt;co-worker&lt;/strong&gt;“] {
+background-image: url(/images/icons/user_suit.gif);
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;Browser Difficulties&lt;/h3&gt;
+&lt;p&gt;Attribute selectors are not supported in IE6 so the first rule sets the background &lt;strong&gt;all&lt;/strong&gt; links, if the other more complicated rules aren’t understood then the icon stays a default grey. For the browser that do understand the more complex rules, assigning icons for some of the different relationship types.&lt;/p&gt;
+
+&lt;p&gt;They’re ordered so that, for example co-worker will override friend, should the XFN define both of these relationships. I’ve not done it here but if you wanted to you could chain the selectors and create a specific rule (and image) for someone who is a friend and a co-worker &lt;code&gt;a[rel*=&quot;&lt;strong&gt;friend&lt;/strong&gt;“][rel*=&quot;&lt;strong&gt;co-worker&lt;/strong&gt;“]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;With the announcement that IE7 will be supporting, amongst other things, attribute selectors I can imagine them being used a lot more as IE7 adoption increases and progressive enhancements like this becoming more common.&lt;/p&gt;
+&lt;h3&gt;Design Flaws&lt;/h3&gt;
+&lt;p&gt;The different icons don’t do a great job of communicating the different relationships, but maybe more specific icons would help, or on a larger list maybe a key might help?&lt;/p&gt;
+&lt;h3&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;This isn’t a particularly complicated idea but i’ve had a couple of people ask me about it, so I thought I’d give a brief explanation and maybe encourage people to take the idea further and make something cooler.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Truck Festival 2007 Lineup</title>
+   <link href="http://dsingleton.co.uk//blog/official-truck-festival-lineup"/>
+   <updated>2007-07-01T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/official-truck-festival-lineup</id>
+   <content type="html">&lt;p&gt;There proper lineup has been announced and is available on the &lt;a href=&quot;http://thisistruck.com/&quot;&gt;Truck Festival&lt;/a&gt; website. Finally!&lt;/p&gt;
+&lt;p&gt;We can all stop hunting for semi-official rumours, know who’s actually playing and see what they sound like (if you don’t know them). I’ll certainly be glad to stop updating that list.
+&lt;/p&gt;&lt;p&gt;The official lineup is:&lt;/p&gt;
+&lt;h3&gt;Main Stage Saturday&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;Idlewild&lt;/li&gt;
+&lt;li&gt;Brian Jonestown Massacre&lt;/li&gt;
+&lt;li&gt;Goldrush&lt;/li&gt;
+&lt;li&gt;Brakes&lt;/li&gt;
+&lt;li&gt;Buck 65&lt;/li&gt;
+&lt;li&gt;Piney Gir&lt;/li&gt;
+&lt;li&gt;Chris T-T Band&lt;/li&gt;
+&lt;li&gt;The Mules&lt;/li&gt;
+
+&lt;li&gt;Morrison Steam Fayre&lt;/li&gt;
+&lt;li&gt;The Cut Outs&lt;/li&gt;
+&lt;li&gt;Drug Squad&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Main Stage Sunday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Garth &amp;amp; Maud Hudson Finale&lt;/li&gt;
+&lt;li&gt;Electric Soft Parade&lt;/li&gt;
+&lt;li&gt;Glenn Tilbrook&lt;/li&gt;
+
+&lt;li&gt;Grand Drive&lt;/li&gt;
+&lt;li&gt;Ralfe Band&lt;/li&gt;
+&lt;li&gt;The Silent League&lt;/li&gt;
+&lt;li&gt;Rendle Will&lt;/li&gt;
+&lt;li&gt;The Walk Off&lt;/li&gt;
+&lt;li&gt;Wayne McArthur and the Universal Players&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Barn Saturday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;DJ Fresh&lt;/li&gt;
+
+&lt;li&gt;DJ Chase &amp;amp; Status&lt;/li&gt;
+&lt;li&gt;Clipz&lt;/li&gt;
+&lt;li&gt;Teddy Dubspin &amp;amp; Bob Gnarly&lt;/li&gt;
+&lt;li&gt;DJ d’arcy&lt;/li&gt;
+&lt;li&gt;Pedro&lt;/li&gt;
+&lt;li&gt;John Power&lt;/li&gt;
+&lt;li&gt;Six Nation State&lt;/li&gt;
+
+&lt;li&gt;Josh T Pierson&lt;/li&gt;
+&lt;li&gt;emma pollock&lt;/li&gt;
+&lt;li&gt;Gabe Minnkin &amp;amp; Quartet&lt;/li&gt;
+&lt;li&gt;iLiketrains&lt;/li&gt;
+&lt;li&gt;The Lea Shores&lt;/li&gt;
+&lt;li&gt;Last Army&lt;/li&gt;
+&lt;li&gt;Vibration White Finger&lt;/li&gt;
+&lt;li&gt;Stornoway&lt;/li&gt;
+
+&lt;li&gt;Quarter Finals&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Barn Sunday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Nought&lt;/li&gt;
+&lt;li&gt;The Rock Of Travolta&lt;/li&gt;
+&lt;li&gt;Winnebago Deal&lt;/li&gt;
+&lt;li&gt;Pull Tiger Tail&lt;/li&gt;
+&lt;li&gt;Oppenheimer&lt;/li&gt;
+&lt;li&gt;The Early Years&lt;/li&gt;
+
+&lt;li&gt;Hopewell&lt;/li&gt;
+&lt;li&gt;Outl4w&lt;/li&gt;
+&lt;li&gt;House&amp;amp;Parish&lt;/li&gt;
+&lt;li&gt;brother francisco&lt;/li&gt;
+&lt;li&gt;A silent film&lt;/li&gt;
+&lt;li&gt;Baby Gravy&lt;/li&gt;
+&lt;li&gt;tristan and troubadours&lt;/li&gt;
+&lt;li&gt;retribution&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Lounge Saturday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Actress Hands&lt;/li&gt;
+&lt;li&gt;Restlesslist&lt;/li&gt;
+&lt;li&gt;Under the Igloo&lt;/li&gt;
+&lt;li&gt;Owen Tromans&lt;/li&gt;
+&lt;li&gt;The Rhonda Valley Pigeon Federation&lt;/li&gt;
+&lt;li&gt;The Marmadukes&lt;/li&gt;
+&lt;li&gt;The Research&lt;/li&gt;
+
+&lt;li&gt;Pacific Ocean Fire&lt;/li&gt;
+&lt;li&gt;Anthony Elvin&lt;/li&gt;
+&lt;li&gt;Frank Turner&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Lounge Sunday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Witches&lt;/li&gt;
+&lt;li&gt;The Night Time&lt;/li&gt;
+&lt;li&gt;Easy Tiger&lt;/li&gt;
+&lt;li&gt;The Pony Collaboration&lt;/li&gt;
+
+&lt;li&gt;The Roundheels&lt;/li&gt;
+&lt;li&gt;Cold Turkey Trio&lt;/li&gt;
+&lt;li&gt;Fabulous hand&lt;/li&gt;
+&lt;li&gt;DJ Badger&lt;/li&gt;
+&lt;li&gt;The Conscripts&lt;/li&gt;
+&lt;li&gt;People’s Rev Choir&lt;/li&gt;
+&lt;li&gt;Le Reno Amps&lt;/li&gt;
+&lt;li&gt;The Tambourines&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Trailerpark&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;100 Bullets Back&lt;/li&gt;
+&lt;li&gt;Leo Lightning&lt;/li&gt;
+&lt;li&gt;Hreda&lt;/li&gt;
+&lt;li&gt;Fanfarlo&lt;/li&gt;
+&lt;li&gt;Napoleon IIIrd&lt;/li&gt;
+&lt;li&gt;Jonquil&lt;/li&gt;
+&lt;li&gt;The Schla La Las&lt;/li&gt;
+
+&lt;li&gt;Blood Red Shoes&lt;/li&gt;
+&lt;li&gt;I Was A Cub Scout&lt;/li&gt;
+&lt;li&gt;Trademark&lt;/li&gt;
+&lt;li&gt;Metronomy&lt;/li&gt;
+&lt;li&gt;Fresh Out The Box&lt;/li&gt;
+&lt;li&gt;Keyboard Choir&lt;/li&gt;
+&lt;li&gt;Fonda 500&lt;/li&gt;
+&lt;li&gt;Fuck Buttons&lt;/li&gt;
+&lt;li&gt;Gravenhurst&lt;/li&gt;
+
+&lt;li&gt;George Pringle&lt;/li&gt;
+&lt;li&gt;Jim Protector&lt;/li&gt;
+&lt;li&gt;AS&amp;amp;AP&lt;/li&gt;
+&lt;li&gt;Paris Motel&lt;/li&gt;
+&lt;li&gt;Winter Kids&lt;/li&gt;
+&lt;li&gt;Disco Drive&lt;/li&gt;
+&lt;li&gt;The Future Of the Left&lt;/li&gt;
+&lt;li&gt;Youthmovies&lt;/li&gt;
+
+&lt;/ul&gt;&lt;h3&gt;Market Saturday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Trashy&lt;/li&gt;
+&lt;li&gt;Uiscedwr&lt;/li&gt;
+&lt;li&gt;John Robb&lt;/li&gt;
+&lt;li&gt;Andy Yorke&lt;/li&gt;
+&lt;li&gt;Alberta Cross&lt;/li&gt;
+&lt;li&gt;Danny George Wilson&lt;/li&gt;
+&lt;li&gt;sam isaac&lt;/li&gt;
+
+&lt;li&gt;Little Sister&lt;/li&gt;
+&lt;li&gt;Cat Martino&lt;/li&gt;
+&lt;li&gt;Eamonn Dunphy&lt;/li&gt;
+&lt;li&gt;Richard Walters&lt;/li&gt;
+&lt;li&gt;Andy Robinson&lt;/li&gt;
+&lt;li&gt;The Gog&lt;/li&gt;
+&lt;li&gt;The See-see&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Market Sunday&lt;/h3&gt;
+
+&lt;ul&gt;&lt;li&gt;The Epstein&lt;/li&gt;
+&lt;li&gt;Thomas Truax&lt;/li&gt;
+&lt;li&gt;Euros Childs&lt;/li&gt;
+&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;KTB&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Luke Smith&lt;/li&gt;
+&lt;li&gt;Kate Walsh&lt;/li&gt;
+&lt;li&gt;Co Pilgrim&lt;/li&gt;
+&lt;li&gt;Rachael Dadd&lt;/li&gt;
+
+&lt;li&gt;the winchell riots&lt;/li&gt;
+&lt;li&gt;Daniel Black Power&lt;/li&gt;
+&lt;li&gt;Oxygen Ponies&lt;/li&gt;
+&lt;li&gt;Y&lt;/li&gt;
+&lt;li&gt;Brandon Patton&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Theatre Stage Saturday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Liz Garner Reading&lt;/li&gt;
+&lt;li&gt;John Mitchinson&lt;/li&gt;
+
+&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;DIY&lt;/span&gt; Music Q &amp;amp; A Session with Robin Truck, Andrew Small Town America and Sean Adams Drowned in Sound&lt;/li&gt;
+&lt;li&gt;Youth In Movement&lt;/li&gt;
+&lt;li&gt;Buck 65&lt;/li&gt;
+&lt;li&gt;Joe Driscoll&lt;/li&gt;
+&lt;li&gt;Penned In the Margins&lt;/li&gt;
+&lt;li&gt;The Matadors&lt;/li&gt;
+&lt;li&gt;Doktor CococolaMcdonalds&lt;/li&gt;
+
+&lt;li&gt;John Robb&lt;/li&gt;
+&lt;li&gt;Barcode&lt;/li&gt;
+&lt;li&gt;The Bartletts&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Theatre Stage Sunday&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Dance Class!&lt;/li&gt;
+&lt;li&gt;Bliss Divine Yoga&lt;/li&gt;
+&lt;li&gt;KTB’s Truck Chior&lt;/li&gt;
+
+&lt;li&gt;James Attlee&lt;/li&gt;
+&lt;li&gt;Jugglingspinster&lt;/li&gt;
+&lt;li&gt;Youth In Movement&lt;/li&gt;
+&lt;li&gt;Neon Productions&lt;/li&gt;
+&lt;li&gt;Post Potato Theatre Co&lt;/li&gt;
+&lt;li&gt;Jay Stillwell Workshop&lt;/li&gt;
+&lt;li&gt;Kindle Theatre&lt;/li&gt;
+&lt;li&gt;Hammer and Tongue&lt;/li&gt;
+&lt;li&gt;Howard Marks&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Panels, gender, confusion and a rant</title>
+   <link href="http://dsingleton.co.uk//blog/panels-gender-confusion-and-a-rant"/>
+   <updated>2007-06-11T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/panels-gender-confusion-and-a-rant</id>
+   <content type="html">&lt;p&gt;I was going to include this little rant in my &lt;a href=&quot;http://dsingleton.co.uk/archive/media-london-2007/2007/06/11/&quot;&gt;@media round-up post&lt;/a&gt;, but thought better of it, lest I get &lt;em&gt;too&lt;/em&gt; ranty. So yes, this will be a fairly quickly written up little rant, please treat it as such.&lt;/p&gt;
+&lt;p&gt;As I mentioned before the only negative I came away from the conference with was the Hot topics panel. This was mainly for two reasons, with only vague relation to each other.&lt;/p&gt;
+&lt;h3&gt;Gender and Variety&lt;/h3&gt;
+&lt;p&gt;The discussion of sexism and the under-representation of women in our industry has been going on for some time, more vocally recently. Until now it’s something I’ve avoided posting about. It’s a tricky situation, but still something that has been blown out of all proportion.&lt;/p&gt;
+&lt;p&gt;Alas the more we talk about it, arguing back and forth, the gender of a speaker becomes more and more important. Thusly i’ve kept my distance and not agitate the proverbial hive of bees.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;But&lt;/em&gt; at the start of the @media hot topics panel, Jeremy Keith made quite a few pointed comments about the mono-gender of the panel and that any concerns regarded this should be addressed to Patrick (Who organised @media).&lt;/p&gt;
+&lt;p&gt;For reference, Jeremy has a &lt;a href=&quot;http://adactio.com/journal/1301&quot;&gt;blog post on the issue&lt;/a&gt; as well.&lt;/p&gt;
+&lt;p&gt;Firstly by raising the lack of female panelists it really creates a problem out of nowhere, why did this even need to get mentioned?. Secondly, although Jeremy says he wasn’t trying to bash Patrick, I’d imagine that’s how it came across to the audience. It implied that Patrick was directly responsible for the lack of female panelists, which seemed like an unnecessary cheap-shot.&lt;/p&gt;
+&lt;p&gt;I do completely agree with Jeremy’s complaint of conferences being the same old speakers (Himself included), but I really fail to see how the gender debate is involved in that.&lt;/p&gt;
+&lt;p&gt;Looking at the variety-of-speakers problem from both sides – As an attendee of course we want to see new faces, hear new voices and ideas, but as an organizer it’s still a business and you need to (at the least break event).&lt;/p&gt;
+&lt;p&gt;This means rely on some level of proven confident and entertaining speakers. A similar analogue would be booking bands for a gig, you need some big names you can rely on to wow a crowd but you also want to expose people to the lesser known. You need a lot of confidence to put a new performer as a headliner, or they need to be mind-blowingly good.&lt;/p&gt;
+
+&lt;p&gt;I might be stretching that comparison a little far, but hopefully it makes my point a little clearer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: This is not a rant at Jeremy personally, more at the way this whole gender debate has gotten out of control of late. I definitely agree more variety in speakers (regardless of gender) is a very very good thing.&lt;/p&gt;
+&lt;h3&gt;Panel Themes&lt;/h3&gt;
+&lt;p&gt;My second issue with the panel probably isn’t an issue for a lot of people.&lt;/p&gt;
+&lt;p&gt;The focus on &lt;span class=&quot;caps&quot;&gt;W3C&lt;/span&gt; related topics was a bit much for me. Yes, it is a very important issue right now, once I’m very concerned with, &lt;strong&gt;but&lt;/strong&gt; it felt like the point was being pushed way too far. Unrelated questions were repeatedly brought back round to it. Yes, played for laughs as well, but still coming back to the same issues.&lt;/p&gt;
+
+&lt;p&gt;It felt like the panel was asking/directing questions for their own agenda rather than for than the audience. It also meant to follow some of the topics meant some quantity of pre-requisite knowledge was required for those watching, let alone those commenting on the panel.&lt;/p&gt;
+&lt;p&gt;Surely a panel like that is not going to be inviting to newer speakers? I’m certainly not suggesting panel should be entirely jokey affairs covering the shallowest of issues, but if you want new faces on panels, then a balance must be struck.&lt;/p&gt;
+&lt;p&gt;Right, that’s about it for my rant, I certainly feel a lot better for it. Hopefully some points even make sense tomorrow. And again, this is now meant as an attack on Jeremy, &lt;em&gt;or anyone else on the panel&lt;/em&gt;.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>@media London 2007</title>
+   <link href="http://dsingleton.co.uk//blog/media-london-2007"/>
+   <updated>2007-06-11T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/media-london-2007</id>
+   <content type="html">&lt;p&gt;My first &lt;strong&gt;@media&lt;/strong&gt; and it was a lot of fun.&lt;/p&gt;
+&lt;h3&gt;Preperation&lt;/h3&gt;
+&lt;p&gt;Wednesday evening started with boxes, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541187069/&quot;&gt;&lt;em&gt;lots&lt;/em&gt; of boxes&lt;/a&gt; which contained &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541078840/&quot;&gt;@media bags&lt;/a&gt; to be stuffed, &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541078158/&quot;&gt;&lt;strong&gt;lots&lt;/strong&gt; of bags&lt;/a&gt;. Job done we wandered down to the pub in time for a few pre-event drinks and to show off our dashing orange shirts.&lt;/p&gt;
+
+&lt;h3&gt;Day One&lt;/h3&gt;
+&lt;p&gt;Unfortunately I missed most of &lt;strong&gt;Jesse James Garrett’s&lt;/strong&gt; opening session and some interesting bits of &lt;strong&gt;Jason Santa Maria&lt;/strong&gt;, including taking colour palettes from photographs and nature. The first real session of the day for me was the High-Noon Shoot-Out between &lt;strong&gt;Drew McLellan&lt;/strong&gt; and &lt;strong&gt;Simon Collison&lt;/strong&gt;, I think Drew won, but he did come &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541184861/&quot;&gt;prepared with props&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Lunch followed, as did some excellent talks from &lt;strong&gt;Dan Cederholm&lt;/strong&gt; and &lt;strong&gt;Mark Boulton&lt;/strong&gt;. I’d seen mark speak quite briefly before at &lt;span class=&quot;caps&quot;&gt;SXSW&lt;/span&gt;, but hearing a ‘full set’ was great. &lt;strong&gt;Joe Clark&lt;/strong&gt; ended the day with the alarmist “&lt;em&gt;When Web Accessibility Is Not Your Problem&lt;/em&gt;” – it was certainly interesting and made sense, but felt a bit odd to me.&lt;/p&gt;
+
+&lt;h3&gt;The Party&lt;/h3&gt;
+&lt;p&gt;Clockwerk was heaving! When we arrived the queue for the bar was to the door. Gradually people realized there was a &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541075502/&quot;&gt;bar upstairs&lt;/a&gt; as well ad the rush subsided. I was impressed how long the free bar lasted, considering some events I’ve been to where thirsty geeks will exhaust it in minutes.&lt;/p&gt;
+&lt;p&gt;It was nice to do some socialising with those I knew and those I didn’t. It was also nice to see a bunch of the &lt;a href=&quot;http://last.fm/&quot;&gt;Last.fm&lt;/a&gt; guys there and have some people (who i’d yet to tell) congratulate me on my new job there.&lt;/p&gt;
+&lt;h3&gt;Day Two&lt;/h3&gt;
+&lt;p&gt;Friday started with &lt;strong&gt;John Hicks’&lt;/strong&gt; with a &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541181739/&quot;&gt;talk on creatively&lt;/a&gt; for non-designers, what I caught was interesting. Next up was a &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541179735/&quot;&gt;split session&lt;/a&gt; between &lt;strong&gt;Hannah Donovan&lt;/strong&gt; and &lt;strong&gt;Simon Willison&lt;/strong&gt; talking about &lt;a href=&quot;http://last.fm/&quot;&gt;Last.fm&lt;/a&gt; and &lt;a href=&quot;http://lawrence.com/&quot;&gt;lawrence.com&lt;/a&gt; respectively. Discussing actual &lt;em&gt;real world&lt;/em&gt; sites, rather than fairly vague theory, this session was by far the highlight of the event for me.&lt;/p&gt;
+
+&lt;p&gt;Before lunch I saw &lt;strong&gt;Håkon Wium Lie&lt;/strong&gt;, one of the creators of &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;, discussing browsers, the $100 laptop and some of the more &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541178703/&quot;&gt;tantalising aspects of &lt;span class=&quot;caps&quot;&gt;CSS3&lt;/span&gt;&lt;/a&gt;. Afterwards &lt;strong&gt;Dan Webb&lt;/strong&gt; did his &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541178703/&quot;&gt;Javascript Kung Fu&lt;/a&gt;, very interesting – even if he does prefer Prototype to jQuery.&lt;/p&gt;
+&lt;p&gt;The day closed with the &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541068870/&quot;&gt;hot topics panel&lt;/a&gt; of; &lt;strong&gt;Richard Ishida&lt;/strong&gt;, &lt;strong&gt;Dan Cederholm&lt;/strong&gt;, &lt;strong&gt;Jeremy Keith&lt;/strong&gt;, &lt;strong&gt;Joe Clark&lt;/strong&gt; and the internet’s &lt;strong&gt;Drew McLellan&lt;/strong&gt;. I was actually quite disappointed by the panel, for various reasons, but mainly for the fact half the time was spent ‘discussing’ various &lt;span class=&quot;caps&quot;&gt;W3C&lt;/span&gt;-isn’t-working issues. Important as they may be the whole thing felt agendered and not very fun, which was a shame with the interesting lineup of panelists.&lt;/p&gt;
+
+&lt;p&gt;With everything wrapped up I &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/541067932/&quot;&gt;finished my tea&lt;/a&gt; and we all wandered down to the pub again, lovely.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Upgrading to PHP5 on OS X</title>
+   <link href="http://dsingleton.co.uk//blog/upgrading-to-php5-on-os-x"/>
+   <updated>2007-05-27T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/upgrading-to-php5-on-os-x</id>
+   <content type="html">&lt;p&gt;I’ve been meaning to upgrade &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt; on my macbook for a while now, today I finally got around to it with a little help from &lt;a href=&quot;http://www.entropy.ch/software/macosx/php/&quot;&gt;Marc Liyanage &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt; Package&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download the installer (~50MB), un-tar and run it. You should not have &lt;span class=&quot;caps&quot;&gt;PHP5&lt;/span&gt; installed on your system. However, you might have to do a bit of fiddling to get it working properly.&lt;/p&gt;
+
+&lt;p&gt;These are just the tweaks I needed, you might need to do more or less, but this might be useful in some fashion.&lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;httpd.conf&lt;/em&gt; the &lt;span class=&quot;caps&quot;&gt;PHP4&lt;/span&gt; module was still being loaded, so comment that out and add an entry to load the &lt;span class=&quot;caps&quot;&gt;PHP5&lt;/span&gt; module instead.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;#LoadModule php4_module libexec/httpd/libphp4.so
+LoadModule php5_module local/php5/libphp5.so&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;For some reason the PHP5 module was installed at a different path to the oldPHP4 module and all other Apache modules. Rather than move it (and risk other problems) I left it where it was and just used the different path.&lt;/p&gt;
+
+&lt;p&gt;Further down &lt;em&gt;httpd.conf&lt;/em&gt; there’s another reference to &lt;span class=&quot;caps&quot;&gt;PHP4&lt;/span&gt;, just update the number.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;AddModule mod_php5.c&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Restart Apache so the changes take effect, with &lt;em&gt;sudo apachectl graceful&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;That should do it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>1 Bit Audio Player</title>
+   <link href="http://dsingleton.co.uk//blog/1-bit-audio-player"/>
+   <updated>2007-05-26T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/1-bit-audio-player</id>
+   <content type="html">&lt;p&gt;My good friend &lt;a href=&quot;http://markwheeler.net/&quot;&gt;Mark Wheeler&lt;/a&gt; has been puting together a neat little embeded flash/javasript mp3 player called &lt;a href=&quot;http://1bit.markwheeler.net/&quot;&gt;1 Bit&lt;/a&gt;, which i’ve been writing the Javascript for.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;1 Bit Audio Player is a very simple and lightweight Adobe Flash MP3 player with automatic JavaScript insertion. It’s main purpose is to act as a quick in-page preview for audio files you link to from your website or blog.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;It’s prety neat, you can preview mp3s in page, we’ve been using it at &lt;a href=&quot;http://www.headhug.net/&quot;&gt;Headhug&lt;/a&gt;, a friends mp3 blog for a while now. Best of all it’s really easy to get it up and running.&lt;/p&gt;
+
+&lt;p&gt;The first version used &lt;a href=&quot;http://jquery.com/&quot;&gt;jQuery&lt;/a&gt; which caused a few problems, but it’s been re-written from scratch for the latest version. The main aims are to make it unobtrusive, easy to use and to play nicely with other JS libraries. So far, it’s pretty good.&lt;/p&gt;
+
+&lt;p&gt;The main version is available from the &lt;a href=&quot;http://1bit.markwheeler.net/&quot;&gt;official 1Bit site&lt;/a&gt;, which has the downloads, documentation. Everything you need to use it on your own site or blog. There’s also the &lt;a href=&quot;http://dsingleton.co.uk/code/1bit/&quot;&gt;in-development version&lt;/a&gt; on my site where i’ve been playing around and trying to improve it, it also has some more demo’s.&lt;/p&gt;
+
+&lt;p&gt;So go check out &lt;a href=&quot;http://1bit.markwheeler.net/&quot;&gt;1 Bit&lt;/a&gt;, its nifty.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fun with FAMFAMFAM Icons and jQuery</title>
+   <link href="http://dsingleton.co.uk//blog/fun-with-famfamfam-icons-and-jquery"/>
+   <updated>2007-05-18T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/fun-with-famfamfam-icons-and-jquery</id>
+   <content type="html">&lt;p&gt;If you not familiar with the &lt;a href=&quot;http://www.famfamfam.com/lab/icons/silk/&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FAMFAMFAM&lt;/span&gt; Silk icons&lt;/a&gt; they’re a set of 1000 beautiful little 16×16px icons that you’re free to use under the CC-Attribution license.&lt;/p&gt;
+&lt;p&gt;I’ve been using them a little recently for a few things, including this blog and some &lt;a href=&quot;http://http/code/&quot;&gt;coding&lt;/a&gt; projects. The problem is, with 1000 icons, finding the ones that are suitable for what you’re doing.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://www.famfamfam.com/lab/icons/silk/&quot;&gt;Silk webpage&lt;/a&gt; used to have every icon on the page, with a little search box to only show ones matching your search. This was great, you could filter down to the more relevant ones, while still comparing them on the same page.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately this seems to have gone now, so I thought I’d put together a version of it myself, mostly to make it easier to find icons, but also as an excuse to play around with jQuery.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://jquery.com/&quot;&gt;jQuery&lt;/a&gt; is one of the huge variety of Javascript libraries around at the moment. It’s got very powerful selectors, cross browser events and animation and is built around the idea of chaining. I’ve used it a little recently at work and it has made Javascript &lt;em&gt;fun&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;The Icon Selector&lt;/h3&gt;
+&lt;p&gt;In half an hour or so I knocked together a quick demo of (as i’ve now dubbed it) the &lt;strong&gt;&lt;a href=&quot;http://dsingleton.co.uk/code/icon-selector&quot;&gt;Icon Selector&lt;/a&gt;&lt;/strong&gt;. I’m pretty happy with how it turned out, it’s easy to search for and preview the icons you want.&lt;/p&gt;
+&lt;p&gt;I’ve made a few tweaks since to speed it up a little, you can take a peak at the &lt;a href=&quot;http://dsingleton.co.uk/code/icon-selector/icons.js&quot;&gt;Javascript source&lt;/a&gt; if you want to see the jQuery magic, it’s pretty cool.&lt;/p&gt;
+
+&lt;p&gt;Most impressively it works well on all modern browsers. jQuery handles a lot of the inherent differences in the &lt;span class=&quot;caps&quot;&gt;DOM&lt;/span&gt; and event models. Conclusions? jQuery is very nice, definately something i’ll be using more in the future.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A last.fm tag-cloud generated from XSL</title>
+   <link href="http://dsingleton.co.uk//blog/lastfm-xsl-tag-cloud"/>
+   <updated>2007-05-07T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/lastfm-xsl-tag-cloud</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;19/07/2009: The script in this post is currently broken, it&amp;#8217;ll be fixed soon 
+&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you use last.fm the you can get some pretty interesting statistical data about your musical habits.&lt;/p&gt;
+&lt;p&gt;Being a web &lt;em&gt;and&lt;/em&gt; music geek I’ve put together a simple tag-cloud to show what i’ve listened to that week. &lt;em&gt;Everyone&lt;/em&gt; loves a nice tag-cloud.&lt;a id=&quot;more-57&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can take a look at the finished version on my &lt;a href=&quot;http://dsingleton.co.uk/music&quot;&gt;Music&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;h3&gt;How it was made&lt;/h3&gt;
+&lt;p&gt;I’ve had a rough version of this for a while, but it had quite a few issues, was generally a little broken and not very semantic. So I took a few hours to re-write it and make then make it public.&lt;/p&gt;
+&lt;p&gt;First of it all it uses my last.fm  &lt;a href=&quot;http://ws.audioscrobbler.com/1.0/user/underpangs/weeklyalbumchart.xml&quot;&gt;Weekly Artists&lt;/a&gt; XML, which gets turned in to &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt; through a simple &lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt; transformation then styled with &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;The glue that holds it together is the extremely useful &lt;a href=&quot;http://www.iconophobia.com/wordpress/?page_id=55&quot;&gt;inlineRSS&lt;/a&gt; plugin for Wordpress. this handled the fetching of the &lt;span class=&quot;caps&quot;&gt;XML&lt;/span&gt; and the &lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt; transformation, with a little caching too.&lt;/p&gt;
+&lt;h3&gt;&lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt; Transformation&lt;/h3&gt;
+&lt;p&gt;Take a look at the &lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/xsl/weeklyartists.xsl&quot;&gt;full &lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt; file&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt; that converts the last.fm feed into the tag-cloud &lt;span class=&quot;caps&quot;&gt;HMTL&lt;/span&gt; is fairly simple, grabbing a bunch of artists and looping through them to build an ordered list. The tricky bit is defining the differing sizes between artists based on the playcount. There are a couple of other bits might benefit from further explanation:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;xsl:variable name=&quot;max_artists&quot; select=&quot;20&quot;/&amp;gt;
+&amp;lt;xsl:variable name=&quot;min_playcount&quot; select=&quot;2&quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;These specify a maximum number of artists and a minimum number of plays to be included in the cloud. This solves two problems, a large number of artists being played making the tag-cloud huge and playing just one or two tracks for an artist (Like with compilations) which just swamps the tag cloud with lots of low played artists.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;xsl:variable name=&quot;weight&quot; select=&quot;playcount div $max_playcount&quot; /&amp;gt;
+&amp;lt;xsl:variable name=&quot;size&quot; select=&quot;($weight * $size_range) + $size_min&quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To calculate the &lt;em&gt;weighting&lt;/em&gt;, how big the font-size should be, it takes the highest played artists playcount as a baseline and treats every other artist as a fraction of that. This fraction, the weight, is then used to the size using the min and max sizes as boundaries.&lt;/p&gt;
+&lt;p&gt;The rest of the &lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt; just builds the list, link and span tags/content.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;xsl:variable name=&quot;artists&quot; select=&quot;/weeklyartistchart/artist[playcount &amp;gt;= $min_playcount and position() &amp;lt;= $max_artists]&quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is the &lt;span class=&quot;caps&quot;&gt;XPATH&lt;/span&gt; query used to get the set of valid artists than have the minimum playcount and caped at the maximum number of artists&lt;/p&gt;
+
+&lt;h3&gt;Semantics&lt;/h3&gt;
+&lt;p&gt;Tag-clouds have a reputation as being pretty unsemantic when it comes to &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;. Often just being an alphabetised list when viewed without styling. &lt;a href=&quot;http://cackhanded.net/&quot;&gt;Norm&lt;/a&gt; had a go at &lt;a href=&quot;http://24ways.org/2006/marking-up-a-tag-cloud&quot;&gt;marking up tag-clouds semantically&lt;/a&gt;, which i’ve followed with one exception.&lt;/p&gt;
+&lt;p&gt;Rather than using a set of class names I opted for inline styles declaring the font-size. Heresy! Well, yes and no. I want the cloud items to be properly scaled and the scale easy to modify, this just isn’t possible using a set combination of classes mapped to sizes.&lt;/p&gt;
+&lt;p&gt;This doesn’t really bother me much, especially with the extra semantic information added. So the final markup looks like so:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;li style=&quot;font-size: 4.000em;&quot;&amp;gt;
+  &amp;lt;span&amp;gt;&amp;lt;span class=&quot;weighting&quot;&amp;gt;26&amp;lt;/span&amp;gt; listens to&amp;lt;/span&amp;gt;
+    &amp;lt;a xhref=&quot;http://www.last.fm/music/Stars&quot; mce_href=&quot;http://www.last.fm/music/Stars&quot; title=&quot;Stars (26 listens)&quot;&amp;gt;
+      Stars
+    &amp;lt;/a&amp;gt;
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li style=&quot;font-size: 3.077em;&quot;&amp;gt;
+    &amp;lt;span&amp;gt;
+      &amp;lt;span class=&quot;weighting&quot;&amp;gt;18&amp;lt;/span&amp;gt;
+      listens to
+    &amp;lt;/span&amp;gt;
+    &amp;lt;a xhref=&quot;http://www.last.fm/music/The+Microphones&quot; mce_href=&quot;http://www.last.fm/music/The+Microphones&quot; title=&quot;The Microphones (18 listens)&quot;&amp;gt;
+      The Microphones
+    &amp;lt;/a&amp;gt;
+  &amp;lt;/li&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If you’re paying attention you’ll have spotted &lt;em&gt;another&lt;/em&gt; span in there, inside the one used to hide the non-artist-name information. Why add it? It gives a semantic hook to get the actual weighting value of the cloud, in this case listens.&lt;/p&gt;
+&lt;p&gt;With this you could create a very simple piece of javascript to turn the tag cloud back in to a chart, ordered by listens rather than alphabetically.&lt;/p&gt;
+&lt;h3&gt;Styling&lt;/h3&gt;
+&lt;p&gt;There’s only some very simple styling on the list itself. Mostly just visual formating, but importantly a rule to hide the span of contextual information leaving just the artist name.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;ol {
+  width: 700px;
+  margin: 0 auto;
+
+  list-style: none;
+  text-align: center;
+
+  font-size: .6em;
+}
+
+li {
+  display: inline;
+  margin: 0 .2em;
+  padding: 0 .3em;
+
+  line-height: 1.5;
+  vertical-align: middle;
+}
+
+li span {
+  position: absolute;
+  left: -999px;
+  width: 990px;
+}&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;Known Issues&lt;/h3&gt;
+&lt;p&gt;There are still a few things I’m unhappy about with this, when using artist names rather than tags you’re far more likely to get spaces and end up with an artist name split across two lines. This can often end up looking like two separate artists if you’re not familiar with the name.&lt;/p&gt;
+&lt;p&gt;And, the obvious problem – it’s all reliant on data from another site, last.fm. I can’t be sure it’ll always be up, or that formats wont change. This is the price you pay for relying on external service, in this case it’s nothing critical or even important, but it’s something people seem to forget a lot of the time.&lt;/p&gt;
+&lt;h3&gt;Demo&lt;/h3&gt;
+&lt;p&gt;I built a little &lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/&quot;&gt;demo page&lt;/a&gt; where you can enter your last.fm username (or a friends) and see a tag cloud of your recently weekly artists. Check out a few examples;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/?user=underpangs&quot;&gt;Myself&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/?user=knockles&quot;&gt;Simon Coltman&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/?user=phae&quot;&gt;Fraces Berriman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/?user=daelen&quot;&gt;Kriss Watt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://dsingleton.co.uk/code/lastfm-tagcloud/&quot;&gt;Give it a try&lt;/a&gt;.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pixel Art Space Invaders</title>
+   <link href="http://dsingleton.co.uk//blog/pixel-art-space-invaders"/>
+   <updated>2007-04-25T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/pixel-art-space-invaders</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; We actually did this a few months ago now – But I lost the ‘making of’ pictures and only found them again recently.&lt;/p&gt;
+&lt;p&gt;We’ve already got &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/456997932/&quot;&gt;some art&lt;/a&gt; up on the walls in our dev room at &lt;a href=&quot;http://springdigital.co.uk/&quot;&gt;work&lt;/a&gt;, but two walls were boring and mostly white.&lt;/p&gt;
+&lt;p&gt;I decided to take some inspiration from one of my old Uni house-mates, &lt;strong&gt;Mark&lt;/strong&gt;, who happens to be a great pixel-artist.&lt;/p&gt;
+
+&lt;p&gt;A while back Mark got bored and made &lt;a href=&quot;http://www.deviantart.com/deviation/29120030/?qo=22&amp;amp;q=by%3Ablackice&amp;amp;qh=boost%3Apopular+-in%3Ascraps&quot;&gt;something very neat&lt;/a&gt; out of a lot of coloured paper and geekyness. “This will look awesome on a big wall” we all agreed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;So we got started…&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a id=&quot;more-55&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Time for an Art-Attack&lt;/h3&gt;
+&lt;p&gt;Follow closely and you can recreate your own life size &lt;strong&gt;Pixel Art Space Invaders&lt;/strong&gt; at home!&lt;/p&gt;
+&lt;p&gt;We got a rainbow pack of 3×3” sheets – from staples, or Rymans, or some stationary shop – for a pound or two&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Step 1: Get Coloured Paper&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/471778655/&quot;&gt;&lt;img alt=&quot;Step 1: Get Coloured Paper&quot; class=&quot;content&quot; src=&quot;http://farm1.static.flickr.com/172/471778655_cac75d3b80_m.jpg&quot; height=&quot;180&quot; width=&quot;240&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We cut down the largish squares of paper in to quarters with a scalpel/metal ruler.&lt;/p&gt;
+&lt;p&gt;Then mocked up a ship on the desk.&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Step 2: Cut and plan your Invaders&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/471759908/&quot;&gt;&lt;img alt=&quot;Step 2: Cut and plan your Invaders&quot; class=&quot;content&quot; src=&quot;http://farm1.static.flickr.com/216/471759908_115a6b1221_m.jpg&quot; height=&quot;240&quot; width=&quot;180&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We used copious amounts of blu-tac. You might want to use white-tac as the blue showed through a little bit on the lighter colours.&lt;/p&gt;
+&lt;p&gt;You also want 3 or 4 people standing and watching whoever is putting the squares up to constantly tell them “&lt;em&gt;It’s not quite straight!&lt;/em&gt;“&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Step 3: Attach to wall&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/471759476/&quot;&gt;&lt;img alt=&quot;Step 3: Attach to wall&quot; class=&quot;content&quot; src=&quot;http://farm1.static.flickr.com/225/471759476_12427e48d7_m.jpg&quot; height=&quot;183&quot; width=&quot;240&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This one was a bit difficult to make as the scale version compared to the normal ships is quite a lot bigger – which looked weird on the wall – so we had to shrink it down a bit.&lt;/p&gt;
+&lt;p&gt;&lt;a title=&quot;Step 4: Build the bonus ship&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/471776971/&quot;&gt;&lt;img alt=&quot;Step 4: Build the bonus ship&quot; class=&quot;content&quot; src=&quot;http://farm1.static.flickr.com/171/471776971_41918214a0_m.jpg&quot; height=&quot;180&quot; width=&quot;240&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Extra points for the mother ship – shoot where it’s &lt;em&gt;going&lt;/em&gt; to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;a title=&quot;Step 5: Place bonus ship just out of reach&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/471757992/&quot;&gt;&lt;img alt=&quot;Step 5: Place bonus ship just out of reach&quot; class=&quot;content&quot; src=&quot;http://farm1.static.flickr.com/216/471757992_fc0cbe56d5_m.jpg&quot; height=&quot;180&quot; width=&quot;240&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The final result. Not bad considering it was all done rather spontaneously over lunch one day.&lt;br/&gt;&lt;a title=&quot;Step 6: Admire your handy-work&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/471756942/&quot;&gt;&lt;img alt=&quot;Step 6: Admire your handy-work&quot; class=&quot;content&quot; src=&quot;http://farm1.static.flickr.com/167/471756942_ea2e13d9ca_m.jpg&quot; height=&quot;181&quot; width=&quot;240&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;More Pixels and Space Invaders&lt;/h3&gt;
+&lt;p&gt;There’s been loads of other great pixel/paper art, most of which blows what we did out of the water, but these ones are absolutely amazing and definately deserve a look if you haven’t seen them before.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Mosaic-tiled Space Invaders &lt;a href=&quot;http://www.space-invaders.com/sominv.html&quot;&gt;all over the world&lt;/a&gt; – I love this one in &lt;a href=&quot;http://www.flickr.com/photos/true2death/17895715/&quot;&gt;Covent Garden&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Donkey Kong over &lt;a href=&quot;http://www.soe.ucsc.edu/%7Einio/dk/&quot;&gt;4 floors&lt;/a&gt; at the University of California.&lt;/li&gt;
+
+&lt;li&gt;Celebrating the 10th anniversary of Mac Office with 1300&amp;#160;&lt;a href=&quot;http://blogs.msdn.com/macmojo/archive/2007/02/07/birthday-gift-for-macbu.aspx&quot;&gt;Post-it notes&lt;/a&gt;.&lt;/li&gt; &lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ALA &amp;ldquo;Ruining User Experience&amp;rdquo;</title>
+   <link href="http://dsingleton.co.uk//blog/ala-ruining-user-experience"/>
+   <updated>2007-03-27T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/ala-ruining-user-experience</id>
+   <content type="html">&lt;p&gt;Out of the three new &lt;a title=&quot;A List Apart&quot; href=&quot;http://www.alistapart.com/articles/ruininguserexperience&quot;&gt;ALA&lt;/a&gt; articles the one that really caught my eye was &lt;a href=&quot;http://www.alistapart.com/articles/ruininguserexperience&quot;&gt;Ruining User Experience&lt;/a&gt; by Aaron Gustafson.&lt;/p&gt;
+
+&lt;p&gt;It describes how a site should be built upon a &lt;strong&gt;solid base&lt;/strong&gt;, and then gradual layers of enhancement (Images, CSS, Flash, Ajax) applied to create as good an expirience as is possible for that user.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;On the web, we don’t know anything about the person coming to our website. We don’t know what browser she is using. We don’t know if she is hitting our site from her cell phone. We don’t know if she prefers using her keyboard over her mouse. We don’t know if JavaScript (or even CSS) is enabled in the device she is using. We don’t know if she wants to print the page. We don’t know if she is using a screen reader. We really don’t know anything.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;It used to be the case that screen resolution and IE or NS where the main factors, now there’s so many more options that need to accounted for. And if you want to provide a good user experience for &lt;strong&gt;more than the majority&lt;/strong&gt;, you need to make the effort and do things right from the ground up.&lt;/p&gt;
+
+&lt;p&gt;At work we’ve done our best to work with progressive enhancement techniques, but it’s often difficult explaning to clients and even designers how and why this is important.&lt;/p&gt;
+&lt;p&gt;In a commercial situation progressive enhancement is a tricky beast, it doesn’t fit well with how many web design agencies work. There are few practices (thatI know of) to help with this challenge.&lt;/p&gt;
+&lt;p&gt;I hope this article will go some way towards improving peoples understanding of the situation.&lt;/p&gt;
+&lt;p&gt;Aaron has managed to sum up my philosophy towards web design much more &lt;strong&gt;succinctly&lt;/strong&gt; and &lt;strong&gt;clearly&lt;/strong&gt; than I have been able to.&lt;/p&gt;
+&lt;p&gt;So I urge you to read this article, I know i’ll be telling friends and collegues to do the same.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SXSW Day Three (and onwards)</title>
+   <link href="http://dsingleton.co.uk//blog/sxsw-round-up"/>
+   <updated>2007-03-18T00:00:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/sxsw-round-up</id>
+   <content type="html">&lt;p&gt;I’ve been back a couple of days now, so of course people have asked how it was, and my response has been ‘&lt;em&gt;Amazing&lt;/em&gt;‘. I really do mean that, the entire week was great. It was a fantastic holiday, full of interesting panels, great people, delicious food and excellent parties. I’ve already started hustling friends into coming next year.&lt;/p&gt;
+&lt;p&gt;My original plan was to make a blog post once a day, which fell by the way side pretty quickly, after two days infact. It turns out SXSW is really quite a lot of &lt;em&gt;fun&lt;/em&gt;, and theres not the time for blogging or uploading photos to &lt;a title=&quot;My SXSW photos&quot; href=&quot;http://www.flickr.com/photos/davidsingleton/tags/sxsw/&quot;&gt;flickr&lt;/a&gt;. I didn’t take long to realise SXSW is as much about parties as it is panels.&lt;/p&gt;
+&lt;p&gt;In my book this is a good thing, a great thing. A lot of the ideas being discussd in panels aren’t new to me, topics I already know well or could learn somewhere else. There are a lots of great UK conferences, there are community events, there are lots of blog posts, articles and tutorials online that can help with this. So I made a point of going to the more obscure panels I knew little about and the social side of things.&lt;/p&gt;
+&lt;p&gt;I’m a little glad that the trip was mostly self funded, i’d feel kind of bad if work had funded the whole thing as I missed quite a few panels due to hangovers. It’s not that i’ve come away without learning anything, just that a lot of what I learnt wasn’t directly related to my day-to-day job.&lt;/p&gt;
+&lt;p&gt;A very brief round up of what I enjoyed would include; &lt;strong&gt;Panels:&lt;/strong&gt; &lt;a title=&quot;Everything's Gone Douglas Coupland&quot; href=&quot;http://2007.sxsw.com/interactive/programming/panels/?action=show&amp;amp;id=IAP060283&quot;&gt;Douglas Coupland&lt;/a&gt;, &lt;a title=&quot;ARG! The Attack of the Alternate Reality Games&quot; href=&quot;http://2007.sxsw.com/interactive/programming/panels/?action=show&amp;amp;id=IAP060115&quot;&gt;Attack of the ARGs&lt;/a&gt;, &lt;a title=&quot;Pay Up! Should Publishers Choose the Porn Path?&quot; href=&quot;http://2007.sxsw.com/interactive/programming/panels/?action=show&amp;amp;id=IAP060205&quot;&gt;Learning from Adult Sites&lt;/a&gt;, &lt;a href=&quot;http://2007.sxsw.com/interactive/programming/panels/?action=show&amp;amp;id=IAP060257&quot;&gt;Warren Spector on Storytelling&lt;/a&gt; and &lt;a href=&quot;http://2007.sxsw.com/interactive/programming/panels/?action=show&amp;amp;id=IAP060111&quot;&gt;Will Wright’s Keynote&lt;/a&gt;. &lt;strong&gt;Parties&lt;/strong&gt;: &lt;a href=&quot;http://upcoming.org/event/144002/&quot;&gt;Great British Booze-Up&lt;/a&gt;, &lt;a href=&quot;http://www.purevolume.com/promotions/tejas2007/&quot;&gt;Pure Volume&lt;/a&gt;, &lt;a href=&quot;http://upcoming.org/event/152140/&quot;&gt;Frog Design&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SXSW Day Two</title>
+   <link href="http://dsingleton.co.uk//blog/sxsw-day-two"/>
+   <updated>2007-03-10T00:00:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/sxsw-day-two</id>
+   <content type="html">&lt;h1&gt;SXSW Day Two&lt;/h1&gt;
+&lt;p&gt;So i’ve already fallen a day behind on my plan to throw something up here every day.&lt;/p&gt;
+&lt;p&gt;I just got in on friday, so my recolection of yesterday is a little hazy.&lt;/p&gt;
+&lt;p&gt;It turns out we get free breakfast, score! Decided to avoid the geekery and conference stuff a bit and walked down to part of South Congress that a stewardess on our Austin flight recomended to me. Lots of little boutiques, indie stores and thift stores. Pretty cool and very cheap, bought a pretty nifty shirt.&lt;/p&gt;
+&lt;p&gt;Had some fantastic mexican food at the Rio Grande just round the corner from our hotel, really nice, and so far the only food i’ve not taken food porn pictures of. I’ve been told theres even better mexican resteraunts around so i’ll have to check some of those out over the next few days.&lt;/p&gt;
+&lt;p&gt;Since the weathers been great Frances and I decided to chill out by the pool and maybe go for a swim. The later part of this plan got abandonded pretty quickly as the pool was colder than the english channel. Unfortunately chilling round the pool in austin sunlight, without sunblock, when you’re pale and british means instant burning. So i’m going to have a pink complection.&lt;/p&gt;
+&lt;p&gt;In addition to free breakfast, turns out we also get happy hour, 60 minutes of free wine/beer (Delete as applicable). Life is good.&lt;/p&gt;
+&lt;p&gt;A group of us went out to a Cuban place near 6th, Mojitos all round and some pretty nice food (&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/&quot;&gt;Photos on flickr&lt;/a&gt;). Followed by a lot of drinking, socialising and table football at Buffalo Billiards. Needless to say as a brit with little expirence of foosball, I got my ass wooped. Lucky Stuart and Paul stepped up and recovered our nations pride.&lt;/p&gt;
+
+&lt;p&gt;Its now  1:30am and presentations start tomorrow, so an early night and breakfast is a priority.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SXSW Day One</title>
+   <link href="http://dsingleton.co.uk//blog/sxsw-day-one"/>
+   <updated>2007-03-08T00:00:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/sxsw-day-one</id>
+   <content type="html">&lt;p&gt;Finally arrived in Austin, unpacked, had a shower and feel human again.&lt;/p&gt;
+&lt;p&gt;Frances and I left hammersmith at the &lt;em&gt;ungodly &lt;/em&gt;hour of &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/414170910/&quot;&gt;5am&lt;/a&gt;, this is not a real time, it deosn’t exist for normal people.&lt;/p&gt;
+&lt;p&gt;Met up with Ben, Fatty and Steve at gatwick for breakfast and got ourselves organised for the &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/414170569/&quot;&gt;10 hour flight&lt;/a&gt; to Houston.&lt;/p&gt;
+&lt;p&gt;We got stuck there for a few hours &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/414170444/&quot;&gt;due to a delay&lt;/a&gt;, but eventually got to austin and to the &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/414170331/&quot;&gt;Hotel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Austin seems pretty cool, The Hotel is awesome, we overlook the &lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/414170254/&quot;&gt;pool&lt;/a&gt; which i’ll have to checkout at some point.&lt;/p&gt;
+&lt;p&gt;So i’ve arived and i’m alive, more tomorrow. (&lt;a href=&quot;http://www.flickr.com/photos/davidsingleton/sets/72157594576312233/&quot;&gt;Todays photos&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Watching Lost on live TV is a very &lt;em&gt;very&lt;/em&gt; odd concept for me.&lt;/p&gt;
+&lt;p&gt;The fact i’ve been awake for 24 hours now also means i’ve not really clicked that i’m in Texas. Tomorrow i’ll probably start giggling and skipping.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Recent downtime &amp;amp; upcoming events</title>
+   <link href="http://dsingleton.co.uk//blog/recent-downtime-upcoming-events"/>
+   <updated>2007-02-14T00:00:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/recent-downtime-upcoming-events</id>
+   <content type="html">&lt;p&gt;Sorry to the (few) people who haven’t been been able to access the site recently. For the past 6 months or so I’ve been hosting this blog on the server at work, so when we switched ISP’s (and thusly IPs) I completely forgot to update my DNS record.&lt;/p&gt;
+&lt;p&gt;Although it’s handy to host this at work I think it’d be for the best to get some proper hosting. We’ve done quite a lot of internal network reorganising recently, which means availability has been a bit patchy. I’ve been looking at switching to &lt;a href=&quot;http://www.dreamhost.com/&quot;&gt;Dreamhost&lt;/a&gt;, as they have a pretty nice set of features, but I’m curious if anyone would recomend anything else?&lt;/p&gt;
+&lt;h3&gt;Pub Standards&lt;/h3&gt;
+&lt;p&gt;Tomorrow (Thursday) marks &lt;a href=&quot;http://upcoming.org/event/149547/&quot;&gt;Pub Standards XV&lt;/a&gt;, the usual web/booze collision in the middle of London. The sly of you may noticed that the landmark &lt;a href=&quot;http://upcoming.org/event/148676/&quot;&gt;Pub Standards C&lt;/a&gt; has been scheduled for March 13, 2014, I think Patrick might be being a &lt;em&gt;little&lt;/em&gt; optomistic.&lt;/p&gt;
+
+&lt;h3&gt;Barcamp&lt;/h3&gt;
+&lt;p&gt;After managing to snag a ticket for &lt;a href=&quot;http://barcamp.pbwiki.com/BarCampLondon2&quot;&gt;Barcamp London 2&lt;/a&gt; I’m really looking forward to it, unfortunately I have no idea what to give a presentation on. Don’t get me wrong, i’m full of ideas (contrary to the evidence of this blog recently), but presenting to a group of geeks, meant as a compliment, who really know their stuff is quite a daunting prospect. I’ve been finding it very hard to decide on a topic I feel &lt;em&gt;authorative&lt;/em&gt; on, as i’m still somewhat a jack of all trades, rather than having a specialist subject.&lt;/p&gt;
+&lt;p&gt;My last ditch plan is a discussion on the dangers of microformats and how a semantic web isn’t all rainbows and kittens, but i’m very open to suggestions for somerthig better.&lt;/p&gt;
+&lt;h3&gt;FOWA&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://upcoming.org/event/117839/&quot;&gt;Future of Web Apps&lt;/a&gt; is a two day event in London the week after Barcamp, definately a lot more business-y than any other events i’ve been to. I couldn’t help but get that impression while signing up an being if I was a Designer, Developer, Information Archiatect, MD or &lt;em&gt;Venture Capitalist&lt;/em&gt;. Crikey, makes Pub Standards feel like free love and communism.&lt;/p&gt;
+
+&lt;p&gt;Still, the line up of speakers is quite interesting and i’m curious to see how it compares to, the seemingly much more grass roots, dconstuct of 2006. And of course, it’s paid for by work, so that’s nice.&lt;/p&gt;
+&lt;h3&gt;SXSW&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Texas&lt;/em&gt;! I can’t believe this is so soon, it’s really crept up on me, which you can take to mean I’ve organised nothing for the trip and everything will be done at the last minute, still I can’t wait. It’ll be my first time in the States, or for that matter on a plane, so it will certainly be an interesting experience. Not to mention a week+ off work, now &lt;em&gt;that&lt;/em&gt; wil be nice.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Teaching Bad Practice</title>
+   <link href="http://dsingleton.co.uk//blog/teaching-bad-practice"/>
+   <updated>2007-01-10T00:00:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/teaching-bad-practice</id>
+   <content type="html">&lt;p&gt;I subscribe to the WSG reading list, an entertaining and informative round up of web-standards-related articles and blog posts. The usual &lt;a title=&quot;Edgework interview: Dan Cederholm&quot; href=&quot;http://www.brianoberkirch.com/?p=791&quot;&gt;IE bugs&lt;/a&gt;, &lt;a title=&quot;Edgework interview: Dan Cederholm&quot; href=&quot;http://www.brianoberkirch.com/?p=791&quot;&gt;interviews&lt;/a&gt; and &lt;a title=&quot;How to write a proper CV and get hired as a web developer&quot; href=&quot;http://www.wait-till-i.com/index.php?p=379&quot;&gt;handy tips&lt;/a&gt;, but one thing caught my eye this week was a PHP tutorial on &lt;a href=&quot;http://www.informit.com/articles/article.asp?p=674688&amp;amp;seqNum=1&quot;&gt;handling forms&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Let’s take a look…&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;This chapter covers the basics of creating HTML forms and how the form data is transmitted to your PHP script. It introduces several key concepts of &lt;em&gt;real PHP programming&lt;/em&gt;, including how to debug and manage errors in your scripts.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Real PHP programming?&lt;/em&gt;  Sounds good!&lt;/p&gt;
+&lt;p&gt;Unforunately it’s not. While it cover the basic &lt;em&gt;mechanics &lt;/em&gt;of handling forms, it barely covers doing so &lt;em&gt;responsibly&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;What exactly is bad about it?&lt;/h3&gt;
+&lt;p&gt;In the first examples register_globals is replied upon, a page or two later it does recomend you disable it, but no explanation of &lt;em&gt;why &lt;/em&gt;register globals is considered harmful. This turn of phrase:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;To combat register_globals being off, you need to use special variables like $_POST.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Is very worrying, suggesting register globals&lt;em&gt; should&lt;/em&gt; be on, and no note of the positive aspects of using $_POST, $_GET, et al.&lt;/p&gt;
+&lt;p&gt;There’s no mention of magic_quotes or how it will potentially maim your data (if you’re using a database or not), for a basic form handling tutorial, i’m suprises this is skipped. A lot of people will be shocked when they enter a name with an apostorphe and a backslash appears out of nowhere.&lt;/p&gt;
+&lt;p&gt;No mention of not trusting, and where needed escaping, user data. Some people might consider this a bit ‘high-level’ for a relatively simple example, but I can’t help but think this is exactly when tutorials &lt;em&gt;should&lt;/em&gt; mention these considerations and the associated dangers of XSS.&lt;/p&gt;
+&lt;p&gt;Would it really confuse a reader to recomend the use of htmlentities() or strip tags()? Or at least mention them.&lt;/p&gt;
+&lt;p&gt;Although some people would disagree with me, it’s a terrible idea to just throw all your PHP code straight in the middle of the body and start using print statements, let alone setting error_reporting &lt;em&gt;mid page&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;PHP was designed to be easily embeded into a page, and there’s nothing complicated about switching out of HTML to PHP to print variables, if anything that could be easier to grasp.&lt;/p&gt;
+&lt;p&gt;More importantly it shows the division between PHP and HTML, which to so many developers is a very blurry line.&lt;/p&gt;
+&lt;h3&gt;Considerations&lt;/h3&gt;
+&lt;p&gt;It may seem i’m being a little unfair this particular article - not everything i’ve mentioned is targeted at it - in it’s defence, at least mentioning error_reporting deserves praise.&lt;/p&gt;
+&lt;p&gt;Alas it has acted as a trigger for my frustration about the general quality of PHP learning material.&lt;/p&gt;
+&lt;p&gt;I’m also aware this article is an extract from a book, but it will found and treated as a stand alone guide just as the WSG list has done.&lt;/p&gt;
+&lt;h3&gt;Giving PHP a bad name&lt;/h3&gt;
+&lt;p&gt;One of the reasons PHP is looked down upon is the sheer number of poor programmers who use it, to disasterous results.&lt;/p&gt;
+&lt;p&gt;This is caused in part by the low entry barrier of PHP compared to some other languages, but also because it so many tutorials, books, etc just teach PHP badly! It’s very easy, even for good programmers to create truely shocking code because ‘thats what a guide said to do’ and they’ve not been told different.&lt;/p&gt;
+
+&lt;p&gt;It comes down to this; Garbage In, Garbage Out - If you’re not teaching good practice, you’re teaching bad practice and others are following what you say, either way.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Code Golf: Whats your handicap?</title>
+   <link href="http://dsingleton.co.uk//blog/code-golf-whats-your-handicap"/>
+   <updated>2007-01-06T00:00:00+00:00</updated>
+   <id>http://dsingleton.co.uk//blog/code-golf-whats-your-handicap</id>
+   <content type="html">&lt;p&gt;Over the holidays I came discovered Code Golf and got quite addicted to one of the challenges, for those unfamiiar with it:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Based on the original perl golf, Code Golf allows you to show off your code-fu by trying to solve coding problems using the least number of keystrokes.&lt;/p&gt;
+&lt;p&gt;You’re not just limited to Perl either - PHP, Python and Ruby are all available too.&lt;/p&gt;
+&lt;p&gt;Challenges are always open, and your entries are automatically scored so you can start playing right away!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;I spent most of the holidays tweeking and tuning my enrty for the &lt;a title=&quot;Code Golf - 99 Bottles of Beer on the Wall&quot; href=&quot;http://codegolf.com/99-bottles-of-beer&quot;&gt;99 bottles&lt;/a&gt; and managed to get my entry down to &lt;strong&gt;209&amp;#160;&lt;/strong&gt;bytes. Far from a winning score, but for my first attempt - and using PHP - i’m quite pleased.&lt;/p&gt;
+
+&lt;p&gt;The resulting code is pretty much unreadable, no line breaks, single character variable names - and yes, that kind of code should never rear it’ ugly head in &lt;em&gt;serious &lt;/em&gt;project, but its a work out for some of the coding muscles you may not use very often or even at all.&lt;/p&gt;
+&lt;p&gt;So have a go, try one of the &lt;a title=&quot;Code Golf Challanges&quot; href=&quot;http://codegolf.com/competition/browse&quot;&gt;challenges&lt;/a&gt; stretch your brain a bit, or if you’re learning a new language try one of those and get to know some of the dusty corners of the lanuage you’d other wise miss.&lt;/p&gt;
+&lt;p&gt;More importantly, have a go at 99 Bottles of Beer and tell me how you did.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Dconstruct 2006</title>
+   <link href="http://dsingleton.co.uk//blog/dconstruct-2006"/>
+   <updated>2006-10-10T11:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/dconstruct-2006</id>
+   <content type="html">&lt;p&gt;I’ve been back from Brighton for almost 24 hours now and I’ve just about caught up on sleep. It was a blast.&lt;/p&gt;
+
+&lt;h3&gt;Thursday Night&lt;/h3&gt;
+
+&lt;p&gt;The pre-event part  at &lt;a href=&quot;http://www.citikey.com/business/10157110/category/30016/city/Brighton/current/9/total/26&quot;&gt;Heist&lt;/a&gt; was     good fun, meeting and talking with people I’ve met before at London     events and some new ones. Unfortunately I don’t think the planned salsa     lessons organized by &lt;a href=&quot;http://www.adamandjude.com/&quot;&gt;Adam&lt;/a&gt; ever     materialized!&lt;/p&gt;
+&lt;p&gt;After being kicked out around 12:30 a rather large group headed     towards Brighton sea front to keep drinking. Only half a dozen made it     that far and after Patrick Griffiths tried     to convince us to go to the ‘Honey Club’ we ended up going back to the     hotel for a relatively early night.&lt;/p&gt;
+&lt;h3&gt;The Event Itself&lt;/h3&gt;
+&lt;p&gt;The next morning registration was very quick and easy, we also got presented     with goody bags including BBC backstage t shirts, a copy of .net, Creative     Commons badges and the usual array of pens, stickers and such.&lt;/p&gt;
+&lt;p&gt;I won’t go into details of the presentations (As I plan to (h)review them later),     but I particularly enjoyed &lt;a href=&quot;htp://adactio.com/&quot;&gt;Jeremy’s&lt;/a&gt; Joy and &lt;a href=&quot;http://simon.incutio.com/&quot;&gt;Simon&lt;/a&gt;/&lt;a href=&quot;http://www.paulhammond.org/&quot;&gt;Paul &lt;/a&gt;explaining how API’s have benefited Yahoo internally.&lt;/p&gt;
+
+&lt;p&gt;One thing that struck me throughout the days presentation was the emphasis     on the open data APIs and Web Services can provide, licensing and just how     open some data should be. A few speakers struck on this briefly, notably &lt;a href=&quot;http://aralbalkan.com/&quot;&gt;Aral     Balkan&lt;/a&gt; mentioning postcode/geo-coding in the UK, but it really needs more discussion.&lt;/p&gt;
+&lt;h3&gt;Micoformats&lt;/h3&gt;
+&lt;p&gt;Although I’ve not been vocally active around &lt;a href=&quot;http://microformats.org/&quot;&gt;Microformats&lt;/a&gt; on     my &lt;a href=&quot;http://dsingleton.co.uk/&quot;&gt;blog&lt;/a&gt; I     have following the project     and quietly adding hCard and XFN data where I can. So It was great to see     a big turn out for the &lt;a href=&quot;http://flickr.com/photos/tags/upcoming:event=104699&quot;&gt;Microformats&lt;/a&gt; picnic.     &lt;a href=&quot;http://flickr.com/photos/thevoicewithin/238544560/&quot;&gt;Jeremy     Keith &lt;/a&gt; preached     to the assembled mass of geeks, plus a small group of confused locals (who     I heard told thought it was a scientology meeting).&lt;/p&gt;
+
+&lt;h3&gt;Friday Evening&lt;/h3&gt;
+&lt;p&gt;After the final presentation everyone slowly migrated towards the after for     food, drink and golf. After a quick meal a group of us pottered down to the Geek Golf tournament, although the results aren’t all in  I &lt;em&gt;think&lt;/em&gt; managed     to play a winning round, months of pitch and put practice on Portsmouth seafront     might have paid of after all.&lt;/p&gt;
+&lt;p&gt;Back to the party and I got to chat with a     lot of people from all over     the country exchanging stories, jokes, drinks and web 2.0-base crime ideas.     I especially enjoyed talking to &lt;a href=&quot;http://iamrice.org/&quot;&gt;Damien         Tanner&lt;/a&gt; about a XFN-powered &lt;a href=&quot;http://en.wikipedia.org/wiki/Six_degrees_of_separation&quot;&gt;Six             Degrees of &lt;del&gt;Separation&lt;/del&gt;&lt;/a&gt; Jeffery Zeldman, which I hope he still             plans to work on.&lt;/p&gt;
+&lt;p&gt;As people began to leave, catching last trains or driving home, a group of     us walked along to &lt;a href=&quot;http://www.travelintelligence.net/wsd/hotels/htls_2259_Blanch_House_Brighton_review.html&quot;&gt;Blanch     House&lt;/a&gt; for cocktails and more banter and drunkenness. A special thanks     to Frances for giving me a spare bed to sleep on that night and introducing     me to some very interesting/nice people.&lt;/p&gt;
+
+&lt;p&gt;About 3am I     wandered through the streets of Brighton to the hotel with Patrick and Frances,     discussing (amongst other things) atheism, nihilism and existentialism in     the lobby until 4 am. A topic that’s sure to be picked up again at the coming     &lt;a href=&quot;http://www.pubstandards.co.uk/&quot;&gt;Pub Standards&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Saturday&lt;/h3&gt;
+&lt;p&gt;The morning didn’t start for me until a coffee on Brighton pier at midday,     &lt;a href=&quot;http://flickr.com/photos/phae_/239220809/in/set-72157594277473625/&quot;&gt;getting&lt;/a&gt; quite &lt;a href=&quot;http://flickr.com/photos/phae_/239220769/in/set-72157594277473625/&quot;&gt;wet&lt;/a&gt; probably     help woke me up too. Frances and I met up with those who were left, Andy,     Jeremy, Simon, Natalie, Norm, Derek (and others), for lunch and a wander     along the beach.&lt;/p&gt;
+&lt;p&gt;The highlights included watching Simon Willison and Natalie     Downe &lt;q&gt;Try The Thrilling Bungy Trampoline (Only £5!)&lt;/q&gt; (&lt;a href=&quot;http://flickr.com/photos/phae_/239221738/&quot;&gt;photos&lt;/a&gt;)     and finding a cheap second hand copy of Douglas Coupland’s &lt;a href=&quot;http://www.amazon.co.uk/exec/obidos/ASIN/0349108390&quot;&gt;Generation     X&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Conclusions&lt;/h3&gt;
+&lt;p&gt;I absolutely loved dconstruct 2006. Well organised, engaging and informative     speakers, goodie-bags, booze and of course all of the fun of the sea side.&lt;/p&gt;
+&lt;p&gt;ClearLeft did an amazing job keeping everything running smoothly and most 	    of all enjoyably. Checkout some of the &lt;a href=&quot;http://flickr.com/search/?q=dconstruct2006&amp;amp;m=tags&quot;&gt;photos&lt;/a&gt; and &lt;a href=&quot;http://technorati.com/tag/dconstruct06&quot;&gt;blog     posts&lt;/a&gt; by 	    others. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google Code Search</title>
+   <link href="http://dsingleton.co.uk//blog/google-code-search"/>
+   <updated>2006-10-06T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/google-code-search</id>
+   <content type="html">&lt;p&gt;Yesterday Google &lt;a title=&quot;More developer love with Google Code Search&quot; href=&quot;http://googleblog.blogspot.com/2006/10/more-developer-love-with-google-code.html&quot;&gt;launched&lt;/a&gt; a new &lt;a title=&quot;Google Code Search&quot; href=&quot;http://google.com/codesearch?&quot;&gt;search for source code&lt;/a&gt;, this is such a great idea that I can’t believe its not happened before. You can search by a variety of languages, licence types and best of all by regular expressions.&lt;/p&gt;
+&lt;p&gt;There’s already been a lot of interesting, funny, and downright scary things turned up, best summed up By &lt;a title=&quot;Google code search @ Kottke.org&quot; href=&quot;http://www.kottke.org/06/10/google-code-search&quot;&gt;Jason Kottke&lt;/a&gt;. Some of the highlights include&lt;a href=&quot;http://google.com/codesearch?hl=en&amp;amp;lr=&amp;amp;q=fuck&amp;amp;btnG=Search&quot;&gt; profanity&lt;/a&gt;, &lt;a href=&quot;http://google.com/codesearch?hl=en&amp;amp;lr=&amp;amp;q=%22+why+god+why%22&amp;amp;btnG=Search&quot;&gt;frustration&lt;/a&gt; and and of course &lt;a href=&quot;http://google.com/codesearch?hl=en&amp;amp;lr=&amp;amp;q=%22i+have+no+idea%22&amp;amp;btnG=Search&quot;&gt;losing all hope&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So far I’ve used this twice in the last two days for actual work, not just fucking around, which I found pretty impressive. I’ve already added a quick search in Firefox for PHP code, so I can just ‘&lt;code&gt;grep function name&lt;/code&gt;‘.&lt;/p&gt;
+&lt;p&gt;I can imagine it being similar to the recent AOL search data being made public, we’ll be able to proverbally peek through other developer’s curtains and make snide comments on thier choice of upholstery (or naming convention).&lt;/p&gt;
+&lt;p&gt;I wouldn’t be suprised if stats from this end up used in a “&lt;em&gt;Well the average perl function for this is 4 lines, it’s 8 for PHP, so it sucks!!!&lt;/em&gt;” way, but the statistics you could generate would be very interesting.&lt;/p&gt;
+&lt;p&gt;Of course over the next few weeks and months bad code will be probably be publicly mocked, exploits will be found people will panic and people will repeatedly search for swear words. But i’m sure that people are already working on tools to make this new search even better and more useful, and I can’t wait to see what else will come out of this.
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Programming Quotes</title>
+   <link href="http://dsingleton.co.uk//blog/programming-quotes"/>
+   <updated>2006-09-06T01:00:00+01:00</updated>
+   <id>http://dsingleton.co.uk//blog/programming-quotes</id>
+   <content type="html">&lt;p&gt;I came across a rather impressive list of ‘&lt;a href=&quot;http://www.eskimo.com/~hottub/software/programming_quotes.html&quot;&gt;Programming Quotes&lt;/a&gt;‘ today, some humurous, some insightful, some neither, some both.&lt;/p&gt;
+&lt;p&gt;Definately worth a quickskim through, my favourites:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;cite&gt;Brian W. Kernighan&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;The first 90% of the code accounts for the first 90% of the development time.   The remaining 10% of the code accounts for the other 90% of the development time.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;cite&gt;Tom Cargill&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Some people, when confronted with a problem, think “I know, I’ll use  regular expressions.” Now they have two problems.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;cite&gt;Jamie Zawinski&lt;/cite&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’ Improve the code and then document it to make it even clearer.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;cite&gt;Steve McConnell&lt;/cite&gt;
+&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
